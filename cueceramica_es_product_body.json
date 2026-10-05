@@ -1,0 +1,3335 @@
+[
+  {
+    "expected_images": 2,
+    "translations": "{\"es\": {\"title\": \"Taza Nini Rosa – MINI\", \"description\": \"La taza Nini es una pequeña joya artesanal que combina diseño nórdico, encanto y funcionalidad. Fabricada en gres de alta calidad, destaca por su forma delicada y su alegre decoración a rayas en tonos rosas y gris, que aportan un toque de color y vitalidad a cualquier mesa o estantería de cocina.\\n\\nCada taza está pintada a mano, lo que significa que no hay dos iguales. Las ligeras variaciones en color e intensidad son parte de su belleza, reflejando la autenticidad y el cuidado que caracterizan a las piezas de Bloomingville. Su acabado suave y su tamaño compacto la hacen ideal para disfrutar un café corto, un espresso o una infusión relajante.\\n\\nAdemás de ser práctica, la taza Nini es un elemento decorativo por sí misma. Colócala junto a otras piezas de cerámica en una repisa o vitrina para añadir un toque de estilo artesanal y nórdico al ambiente. Su diseño alegre y su colorido sutil la convierten en un regalo perfecto para quienes disfrutan de los pequeños detalles cotidianos.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 201,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ5807116",
+        "price": 9.2,
+        "currency": "EUR",
+        "quantity": 5,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"es\": {\"title\": \"Vaso de cerámica azul y roja de Grottaglie\", \"description\": \"Este vaso de cerámica azul y rojo de Grottaglie está realizado a mano por Gianluca Annicchiarico, artesano ceramista de Grottaglie, en la provincia de Taranto, Puglia. La pieza se trabaja al torno y se termina con un esmalte brillante que combina un azul profundo con una franja roja de gran intensidad.\\n\\nEl contraste entre ambos colores aporta a la pieza una estética muy gráfica y contemporánea, manteniendo al mismo tiempo el carácter irregular y único de la cerámica artesanal. Las pequeñas variaciones en el esmalte, la forma y la superficie son parte natural del proceso de elaboración y hacen que cada pieza sea diferente.\\n\\nCon unas medidas aproximadas de Ø 19 × H 17 cm, puede utilizarse como recipiente decorativo, jarrón o pieza protagonista sobre una mesa, estantería o aparador.\\n\\nUna pieza hecha en Italia que refleja la tradición ceramista de Grottaglie desde una mirada actual, con color, sencillez y una fuerte presencia visual.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 205,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ8673351",
+        "price": 12.0,
+        "currency": "EUR",
+        "quantity": 7,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"es\": {\"title\": \"Vaso de cerámica azul de Grottaglie\", \"description\": \"Este vaso de cerámica azul de Grottaglie está realizado a mano por Gianluca Annicchiarico, artesano especializado en semielaborados y piezas de cerámica. Cada pieza se trabaja al torno en Grottaglie, provincia de Taranto, en Puglia, uno de los grandes centros históricos de la cerámica italiana.\\n\\nSu acabado combina distintas intensidades de azul, desde tonos profundos hasta matices turquesa, creando una superficie llena de reflejos y variaciones. El proceso artesanal hace que cada vaso presente pequeñas diferencias de forma, esmalte y color, convirtiéndolo en una pieza única.\\n\\nCon unas medidas aproximadas de 17 × 16 cm, destaca por su presencia y por una estética mediterránea de líneas sencillas y contemporáneas. Una pieza que une la tradición ceramista de Grottaglie con el carácter del trabajo hecho a mano en Italia.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 205,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ8469446",
+        "price": 12.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 6,
+    "translations": "{\"es\": {\"title\": \"Tarro de cerámica Azul Turquesa y Cobalto\", \"description\": \"Este tarro de cerámica artesanal con tapa está realizado y esmaltado a mano en Puglia, al sur de Italia, reinterpretando la tradición cerámica de la región desde una estética sencilla, actual y llena de color.\\n\\nSu forma cilíndrica y compacta lo convierte en una pieza versátil para el día a día. El acabado bicolor combina un luminoso azul turquesa en la parte inferior con un azul cobalto intenso en la superior, creando un contraste limpio y muy mediterráneo.\\n\\nLas pequeñas variaciones en la forma, el esmalte y la intensidad del color son consecuencia del proceso artesanal y forman parte del carácter único de cada pieza.\\n\\nPuede utilizarse como tarro de almacenaje, recipiente para pequeños objetos o pieza decorativa, aportando color y personalidad a la cocina, la mesa, una estantería o cualquier rincón de la casa.\\n\\nUna pieza funcional y decorativa que conecta la tradición alfarera de Puglia con una estética contemporánea.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 207,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ7180745",
+        "price": 25.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 6,
+    "translations": "{\"es\": {\"title\": \"Tarro azul y verde esmeralda\", \"description\": \"Este tarro de cerámica artesanal con tapa está realizado y esmaltado a mano en Puglia, al sur de Italia, una región profundamente ligada a la tradición alfarera mediterránea.\\n\\nSu silueta sencilla, ligeramente troncocónica, se completa con una tapa de cerámica a juego. El esmalte combina un intenso verde esmeralda en la parte superior con azul turquesa en la inferior, creando una transición de color irregular y llena de matices que pone en valor el carácter artesanal de la pieza.\\n\\nEl trabajo manual hace que cada tarro presente pequeñas variaciones en la forma, el esmalte y la intensidad del color. Estas diferencias forman parte de su singularidad y convierten cada pieza en un objeto único.\\n\\nSu diseño parte de los tradicionales recipientes de cerámica utilizados en Puglia para almacenar y conservar alimentos, reinterpretados aquí desde una estética más contemporánea. Puede utilizarse como tarro de almacenaje, recipiente para pequeños objetos o simplemente como elemento decorativo en una cocina, una estantería o sobre una mesa.\\n\\nUna pieza de fuerte carácter mediterráneo que combina tradición, color y artesanía italiana con un diseño sencillo y actual.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 207,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ6214975",
+        "price": 30.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"es\": {\"title\": \"Aceitera azul y violeta\", \"description\": \"Esta aceitera de cerámica artesanal está realizada y pintada a mano.\\n\\nElaborada en Grottaglie, Puglia, una de las localidades italianas más reconocidas por su tradición cerámica, combina el trabajo manual de la arcilla con una decoración esmaltada realizada por artesanos que han transmitido estas técnicas de generación en generación.\\n\\nSu acabado en azul intenso y violeta, con superficie brillante y ligeras variaciones cromáticas, realza su forma redondeada y aporta a la pieza un carácter muy especial. Cada aceitera presenta pequeñas diferencias propias del proceso artesanal, por lo que cada pieza es única.\\n\\nEstá realizada con esmaltes certificados y aptos para uso alimentario, por lo que puede utilizarse como aceitera en la mesa o la cocina. Al mismo tiempo, su diseño y su combinación de colores permiten utilizarla como objeto decorativo, aportando un toque artesanal y mediterráneo a cualquier espacio.\\n\\nUna pieza funcional y decorativa que reúne la tradición cerámica de Grottaglie con una estética contemporánea y llena de color.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 207,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ1761522",
+        "price": 30.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"es\": {\"title\": \"Jarra italiana amarilla y azul\", \"description\": \"La jarra de cerámica artesanal esta elaborada a mano en Grottaglie.\\n\\nEl acabado esmaltado combina un intenso azul cobalto en la parte superior con amarillo luminoso en la base, unidos por una sutil franja verde creada por la transición entre ambos esmaltes. Una combinación vibrante y mediterránea que convierte cada jarra en una pieza especialmente decorativa. En la parte central tiene una delicada cenefa en relieve realizada sobre la propia cerámica aporta textura y refuerza su carácter artesanal.\\n\\nGracias a su elaboración manual, pueden aparecer pequeñas variaciones en el color, el esmaltado o la forma. Estas irregularidades son propias del proceso artesanal y hacen que cada pieza sea única e irrepetible.\\n\\nPerfecta tanto para servir agua u otras bebidas como para utilizarla como jarrón o elemento decorativo, aportando color y personalidad a la mesa, la cocina o cualquier rincón de la casa.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 209,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0300000",
+        "price": 35.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"es\": {\"title\": \"Jarra italiana roja y gris\", \"description\": \"El Salento, situado en la región de Puglia, al sur de Italia, cuenta con una larga tradición alfarera que se refleja en las formas sencillas y funcionales de esta “Brocca”\\n\\nSu acabado esmaltado combina un rojo intenso en la parte superior con un tono gris piedra en la base, creando un contraste contemporáneo que actualiza una pieza de raíces profundamente tradicionales.\\n\\nRealizada con esmaltes naturales  cada jarra presenta pequeñas variaciones propias del trabajo artesanal que hacen de cada pieza un objeto único.\\n\\nProducción artesanal Made in Salento, para Cue Cerámica.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 209,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ8589603",
+        "price": 25.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"es\": {\"title\": \"Capasa Amarilla y Verde\", \"description\": \"La Capasa de cerámica recupera una de las formas tradicionales de la cerámica doméstica de Puglia. Antiguamente, estas piezas se utilizaban para conservar alimentos, especialmente productos preparados en aceite o vinagre, como alcachofas, berenjenas o pimientos.\\n\\nElaborada artesanalmente en Grottaglie, esta capasa mantiene su característica forma cilíndrica y sus dos pequeñas asas laterales, reinterpretando una pieza de uso cotidiano como un objeto decorativo y funcional para la casa y la mesa. También puede utilizarse como jarrón para flores, ramas o composiciones decorativas, aportando un toque artesanal y mediterráneo a cualquier espacio.\\n\\nSu acabado esmaltado combina amarillo intenso en la parte superior y verde profundo en la base, creando un contraste de color sencillo y muy característico. Las ligeras variaciones del esmalte, propias de la elaboración artesanal, hacen que cada pieza sea única.\\n\\nUna pieza llena de personalidad que une la tradición cerámica de Grottaglie, Puglia, con una estética fresca y contemporánea, perfecta para aportar color a una mesa, una cocina, una estantería o cualquier rincón de la casa.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 207,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ6705581",
+        "price": 30.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 5,
+    "translations": "{\"es\": {\"title\": \"Jarra Odina XL. 3l\", \"description\": \"La jarra Odina  fusiona la delicadeza nostálgica con un toque de diseño contemporáneo. Su fondo en tono neutro sirve como el lienzo perfecto para hacer resaltar un encantador motivo floral en tonos rosa y azul. Como contraste de impacto, su asa en un rosa intenso añade un matiz moderno y dinámico que enriquece su silueta de aire romántico.\\n\\nElegancia romántica con un toque moderno\\n\\nUn accesorio versátil pensado tanto para vestir tu mesa con distinción como para funcionar como un objeto decorativo lleno de encanto.\\n\\nDetalles del producto\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 209,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ5299749",
+        "price": 54.0,
+        "currency": "EUR",
+        "quantity": 2,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 8,
+    "translations": "{\"es\": {\"title\": \"Taza Begonia. 44cl\", \"description\": \"La taza Begonia  añade un toque de calidez y encanto artesanal a tus momentos de pausa. Elaborada en gres de alta calidad, está decorada a mano con un delicado patrón de rayas en un suave tono azul claro que transmite serenidad y estilo.\\n\\nEncanto único en cada sorbo\\n\\nAl estar pintada de forma artesanal, cada pieza posee ligeras variaciones que le otorgan un carácter propio e irrepetible.\\n\\nDetalles del producto\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 201,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ4256391",
+        "price": 20.0,
+        "currency": "EUR",
+        "quantity": 6,
+        "attributes": {
+          "Color": "Azul"
+        }
+      },
+      {
+        "sku": "SQ6825802",
+        "price": 20.0,
+        "currency": "EUR",
+        "quantity": 6,
+        "attributes": {
+          "Color": "Marrón"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"es\": {\"title\": \"Jarrón Carlie Cristal azul\", \"description\": \"El jarrón Carlie es una joya de cristal que equilibra arte y serenidad. Destaca por su suave tono azul con una envolvente textura marmolada, contrastado con audacia por unas elegantes asas esculturales en tonos beige y naranja. Una pieza de presencia única y lenguaje visual equilibrado.\\n\\nArtesanía y personalidad en cristal\\n\\nSoplado y moldeado a mano, cada jarrón posee una alma propia que resalta la belleza del trabajo artesanal.\\n\\nDetalles del producto\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 210,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ6385725",
+        "price": 51.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"es\": {\"title\": \"Candelabro Bess\", \"description\": \"El portavelas Bess es una pieza marcadamente decorativa diseñada para captar todas las miradas. Fabricado en polirresina de un vibrante tono azul, destaca por su depurada silueta de líneas geométricas que aporta un aire moderno, intrincado y lleno de carácter a cualquier estancia.\\n\\nGeometría y versatilidad decorativa\\n\\nSu diseño arquitectónico y su intensa paleta cromática lo convierten en el centro de atención, ofreciendo infinitas posibilidades para estilizar tu hogar.\\n\\nDetalles del producto\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ5948869",
+        "price": 27.0,
+        "currency": "EUR",
+        "quantity": 5,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 7,
+    "translations": "{\"es\": {\"title\": \"Jarra de agua Eimy. 1l\", \"description\": \"La jarra Eimy destaca por su elegancia serena y su alma artesanal. Elaborada en un sofisticado tono azul, está decorada a mano con una delicada rama floral en tonos suaves que le confiere un aire refinado, sereno y atemporal.\\n\\nArtesanía y delicadeza en tu mesa\\n\\nCada jarra se pinta de forma individual, por lo que presenta ligeras variaciones en la intensidad del color que convierten a cada pieza en una obra única.\\n\\nDetalles del producto\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 209,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ7351066",
+        "price": 40.0,
+        "currency": "EUR",
+        "quantity": 3,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"es\": {\"title\": \"Juego de salero y pimentero Cyrill\", \"description\": \"El juego de salero y pimentero Cyrill añade un toque vivo y artesanal a la mesa. Elaborado en gres con matices verdes y un esmalte brillante lleno de dinamismo, destaca por sus formas decorativas de gran carácter que lo convierten en un elemento natural para cualquier presentación gastronómica.\\n\\nDiseño artesanal e irrepetible\\n\\nSu acabado esmaltado interactúa de forma única durante la cocción, garantizando que no existan dos piezas exactamente iguales.\\n\\nDetalles del producto\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 207,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0589429",
+        "price": 19.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"es\": {\"title\": \"Cuenco Marsala amarillo\", \"description\": \"El cuenco Marsala destaca por su encanto artesanal y su cuidada textura. Elaborado en un elegante tono amarillo mostaza, presenta un delicado grabado en relieve con pequeñas flores bajo el esmalte que le aporta un toque sutil, cálido y lleno de personalidad.\\n\\nElegancia funcional para tu mesa\\n\\nSu diseño versátil lo convierte en el plato hondo perfecto tanto para el uso diario como para presentaciones especiales.\\n\\nDetalles del producto\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 203,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0715477",
+        "price": 21.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"es\": {\"title\": \"Cuenco Marsala en Marrón\", \"description\": \"El cuenco Marsala de Creative Collection destaca por su encanto artesanal y su cuidada textura. Elaborado en un elegante tono marrón oscuro, presenta un delicado grabado en relieve con pequeñas flores bajo el esmalte que le aporta un toque sutil, cálido y lleno de personalidad.\\n\\nElegancia funcional para tu mesa\\n\\nSu diseño versátil lo convierte en el plato hondo perfecto tanto para el uso diario como para presentaciones especiales.\\n\\nDetalles del producto\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 203,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ6586228",
+        "price": 22.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"es\": {\"title\": \"Jarrón / Macetero HAYAN\", \"description\": \"Jarrón Hayan, una pieza de gres de carácter único y marcadamente artesanal. Presenta un cálido tono marrón con un acabado brillante, contrastado por audaces motivos negros en forma de ojos. Sus cuatro asas circulares en los laterales le otorgan una silueta distintiva y llena de personalidad, mientras que su pintado a mano garantiza que cada pieza sea irrepetible.\\n\\nDiseño artesanal con carácter propio\\n\\nPensado para convertirse en el centro de todas las miradas, este macetero combina la calidez del gres tradicional con un diseño moderno de inspiración escultural.\\n\\nDetalles del producto\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 214,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ2869282",
+        "price": 33.0,
+        "currency": "EUR",
+        "quantity": 3,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 6,
+    "translations": "{\"es\": {\"title\": \"Manta Artist - Algodón\", \"description\": \"La manta Artist convierte cualquier espacio en una galería de diseño contemporáneo. Tejida e impresa con grandes bloques de color abstractos en tonos verdes y azules sobre una base beige claro, esta pieza destaca por su presencia visual audaz y artística. Sus largos flecos en los bordes le aportan un toque desenfadado y lleno de textura.\\n\\nArte textil con conciencia ecológica\\n\\nElaborada bajo la filosofía \\\"Nunca rechaces reutilizar\\\", esta manta transforma los sobrantes de la industria textil en una pieza decorativa de alto nivel. Los materiales sobrantes se convierten en nuevas fibras purificadas para dar vida a un tejido suave, funcional y sostenible.\\n\\nDetalles del producto\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 215,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ4846414",
+        "price": 30.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"es\": {\"title\": \"Manta OIA - Algodón\", \"description\": \"La manta Oia de Bloomingville viste tu hogar con una estética cálida y acogedora. Tejida en tonos rojo cálido con matices beige, combina intrincados motivos de copos de nieve con patrones de rayas horizontales para lograr un estilo estacional clásico e intemporal. Sus elegantes flecos tipo borla en los bordes aportan una textura suave y un toque decorativo impecable.\\n\\nSostenibilidad en cada fibra\\n\\nCreada bajo la filosofía \\\"Nunca rechaces reutilizar\\\", esta pieza apuesta por la economía circular transformando los sobrantes de la industria textil en una pieza única. Los retales de algodón sobrantes se granulan y procesan cuidadosamente para convertirse en nuevas fibras textiles de alta calidad.\\n\\nDetalles del producto\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 215,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ8122304",
+        "price": 27.0,
+        "currency": "EUR",
+        "quantity": 5,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"es\": {\"title\": \"Manta Gutte - Algodón\", \"description\": \"La manta Gutte de Bloomingville combina sostenibilidad y diseño contemporáneo. Tejida con una mezcla de algodón reciclado y poliéster, luce un audaz patrón geométrico en tonos negro y beige que aporta un contraste visual lleno de personalidad. Sus largos flecos en los bordes añaden un acabado decorativo que resalta el carácter artesanal de la pieza.\\n\\nDiseño con conciencia ecológica\\n\\nElaborada bajo el lema \\\"Nunca rechaces reutilizar\\\", esta manta abraza la economía circular dando una segunda vida a los sobrantes de la industria textil. En lugar de descartarse, los retales de algodón se procesan y transforman en nuevas fibras útiles y resistentes.\\n\\nDetalles del producto\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 215,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ8110543",
+        "price": 27.0,
+        "currency": "EUR",
+        "quantity": 5,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 6,
+    "translations": "{\"es\": {\"title\": \"Manta Vinay - Algodón\", \"description\": \"La manta Vinay de Creative Collection es una pieza textil tejida en tonos azul oscuro, beige y negro. Destaca por su audaz patrón de olas horizontales visible por ambos lados y por sus acabados de largos flecos multicolores, que incluyen un dinámico borde en blanco y negro.\\n\\nDiseño con alma y conciencia ecológica\\n\\nFabricada a partir de algodón reciclado, cada manta da una segunda vida a los retales y sobrantes de la industria textil. En lugar de descartar estos materiales, las fibras se procesan y transforman en un hilo completamente nuevo, resistente y suave al tacto.\\n\\nDetalles del producto\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 215,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ1242897",
+        "price": 27.0,
+        "currency": "EUR",
+        "quantity": 3,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 5,
+    "translations": "{\"es\": {\"title\": \"Manta Remy tonos rosas\", \"description\": \"La manta Remy de Bloomingville es una pieza decorativa y versátil que combina diseño, confort y sostenibilidad. Con un estampado diferente en cada lado, ofrece dos estilos en una sola pieza, permitiéndote renovar fácilmente el ambiente de cualquier espacio.\\n\\nEn la parte frontal presenta un dibujo en eopz en colores azules bajo un rosa y granate. El reverso, por su parte, está decorado con elegantes franjas azules tejidas que aportan un estilo más dinámico y moderno. Cada una de sus esquinas está rematada con borlas en un tono azul al igual que el pez dibujado, un detalle encantador que añade textura y personalidad al diseño.\\n\\nConfeccionada a partir de materiales reciclados, esta manta refleja un compromiso con un consumo más responsable sin renunciar a la calidad ni al estilo. Su textura suave y agradable al tacto la convierte en la compañera perfecta para momentos acogedores en el sofá, en la cama o en tu rincón de lectura favorito.\\n\\nIdeal para aportar calidez, color y carácter a la decoración del hogar, la manta Eviaya es tanto un complemento funcional como un elemento decorativo con encanto propio.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 215,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ7668861",
+        "price": 25.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"es\": {\"title\": \"Candelabro Hatty en azul y blanco\", \"description\": \"Confeccionado en gres, el candelabro Hatty destaca por un diseño sobrio pero con un guiño gráfico. Sus trazos azules pintados a mano sobre la base neutra aportan una sensación de calma y equilibrio. Gracias a esos detalles coloridos y sencillos, resulta una pieza decorativa muy adaptable a cualquier estilo de hogar. Al estar decorado a mano, la intensidad y el tono de las líneas pueden variar ligeramente.\\n\\nCaracterísticas del candelabro Hatty:\\n\\nMaterial: Cerámica\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ4321606",
+        "price": 30.0,
+        "currency": "EUR",
+        "quantity": 6,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"es\": {\"title\": \"Candelabro EDIVA - Dos velas\", \"description\": \"El candelabro Edivia de Bloomingville presenta un diseño escultural de ramas onduladas y protuberancias laterales. Su pintura hecha a mano integra tonos morados, rojos y naranjas en un estilo dinámico y artístico. Dado que el color presenta pequeñas variaciones, cada ejemplar es único.\\n\\nDetalles del portavelas:\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ8533522",
+        "price": 38.0,
+        "currency": "EUR",
+        "quantity": 5,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 6,
+    "translations": "{\"es\": {\"title\": \"Vajilla Completa - Palmeiras - Ollarus\", \"description\": \"Descubre esta fantástica vajilla artesanal de 18 piezas, formada por platos de tres tamaños diferentes y elaborada por el estudio portugués OLLARUS, en São Pedro do Corval, región del Alentejo (Portugal). Una zona estrechamente vinculada a la tradición alfarera portuguesa.\\n\\nLa vajilla incluye:\\n\\nLa vajilla Palmeiras está esmaltada en tono beige y decorada a mano con delicados motivos de palmeras y lunas en color verde. Su diseño transmite calma y sencillez, combinando la tradición cerámica portuguesa con una estética contemporánea de marcado carácter mediterráneo.\\n\\nElaborada en cerámica de gres, es una vajilla elegante, resistente y funcional, pensada tanto para el uso cotidiano como para vestir una mesa especial. Sus tres tamaños permiten utilizar las piezas para entrantes, postres, platos principales o cenas, creando una composición armoniosa y llena de personalidad.\\n\\nAl tratarse de una producción artesanal y pintada a mano, cada pieza puede presentar ligeras variaciones de color, forma y acabado, características que hacen que cada vajilla sea única.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 217,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ3423657",
+        "price": 330.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"es\": {\"title\": \"Cactus de cerámica - Decoración en pared\", \"description\": \"Este cactus decorativo de cerámica, elaborado a mano en Grottaglie, Puglia, es una pieza versátil pensada para aportar color y carácter a cualquier espacio. En la parte trasera incorpora una pequeña cuerda que permite colgarlo fácilmente en la pared, aunque también puede colocarse sobre una cómoda, consola o mesa auxiliar como objeto decorativo.\\n\\nPor su forma ligeramente cóncava, puede utilizarse además como vacía bolsillos, bandeja para llaves, joyas u otros pequeños objetos de uso cotidiano. Una pieza funcional y decorativa que mantiene visibles las pequeñas irregularidades propias del trabajo artesanal.\\n\\nEstá realizado a mano en Grottaglie, una de las localidades más vinculadas a la tradición ceramista italiana. Situada en Puglia, la ciudad conserva una fuerte identidad artesanal en la que conviven talleres históricos, hornos tradicionales, laboratorios y nuevas generaciones de ceramistas y artistas contemporáneos.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ1663431",
+        "price": 30.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"es\": {\"title\": \"Ensaladera Saudade Azul. 30cm\", \"description\": \"Ensaladera artesanal del estudio OLLARUS, fabricado en Portugal y perteneciente a la colección SAUDADE AZUL. Modelado en torno de alfarero y pintado a mano y detalles de clara inspiración mediterránea que combina la tradición ceramista portuguesa con una estética contemporánea.\\n\\nSu formato de 30cm lo hace especialmente versátil: ideal para ensalada o utilizar como pieza decorativa —ya sea como centro de mesa—. Cada unidad muestra ligeras variaciones en dibujo y pincelada, propias del trabajo manual, lo que convierte cada plato en una pieza única.\\n\\nFicha técnica\\n\\nCaracterísticas destacadas\\n\\nRecomendaciones de uso\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 212,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0218740",
+        "price": 40.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 5,
+    "translations": "{\"es\": {\"title\": \"Bandeja Saudade Azul. 38cm\", \"description\": \"Esta espectacular bandeja de cerñamica está hecha y pintada a mano. Es perfecta para servir en el centro de mesa, como ensaladera o como elemento decorativo. Se puede presentar un postre, entrantes o bien un centro para compartir.\\n\\nCada unidad presenta variaciones sutiles propias de su fabricación manual, lo que hace de cada pieza un objeto único e irrepetible.\\n\\nFicha técnica\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0598039",
+        "price": 40.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"es\": {\"title\": \"Cuenco Granadas. 16cm\", \"description\": \"Cuenco artesanal perteneciente a la colección Romãs, elaborado en torno de alfarero y pintado a mano en el estudio OLLARUS, en São Pedro do Corval, Portugal. Su formato versátil y proporciones equilibradas lo convierten en una pieza ideal para servir aperitivos, pequeños acompañamientos, postres o snacks.\\n\\nFabricado en una olaría tradicional portuguesa con más de 20 años de experiencia, cada cuenco presenta sutiles variaciones que reflejan el valor y autenticidad del trabajo artesanal.\\n\\nFicha Técnica\\n\\nTécnica: Realizado en torno de alfarero y pintado a mano\\nOrigen: São Pedro do Corval, Portugal\\nFabricación: Olaría tradicional portuguesa con más de 20 años de experiencia\\nDiámetro: 16cm\\nAltura: 4 cm\\nUso: Alimentario / Decorativo\\n\\nCaracterísticas:\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 212,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0373664",
+        "price": 12.0,
+        "currency": "EUR",
+        "quantity": 3,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 1,
+    "translations": "{\"es\": {\"title\": \"Plato Saudade Sol 25,5cm\", \"description\": \"Plato de servicio artesanal del estudio OLLARUS, fabricado en Portugal y perteneciente a la colección SAUDADE SOL COR. Modelado en torno de alfarero y pintado a mano y detalles de clara inspiración mediterránea que combina la tradición ceramista portuguesa con una estética contemporánea.\\n\\nSu formato de 25,5cm lo hace especialmente versátil: ideal para primeros platos o utilizar como pieza decorativa —ya sea como centro de mesa o colgado en la pared—. Cada unidad muestra ligeras variaciones en dibujo y pincelada, propias del trabajo manual, lo que convierte cada plato en una pieza única.\\n\\nFicha técnica\\n\\nCaracterísticas destacadas\\n\\nRecomendaciones de uso\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ8337625",
+        "price": 20.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"es\": {\"title\": \"Plato Saudade Sol 20cm\", \"description\": \"Plato de servicio artesanal del estudio OLLARUS, fabricado en Portugal y perteneciente a la colección SAUDADE SOL COR. Modelado en torno de alfarero y pintado a mano y detalles de clara inspiración mediterránea que combina la tradición ceramista portuguesa con una estética contemporánea.\\n\\nSu formato de 20cm lo hace especialmente versátil: ideal para postre o utilizar como pieza decorativa —ya sea como centro de mesa o colgado en la pared—. Cada unidad muestra ligeras variaciones en dibujo y pincelada, propias del trabajo manual, lo que convierte cada plato en una pieza única.\\n\\nFicha técnica\\n\\nCaracterísticas destacadas\\n\\nRecomendaciones de uso\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0315963",
+        "price": 17.0,
+        "currency": "EUR",
+        "quantity": 6,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"es\": {\"title\": \"Fuente Saudade Sol - 28cm\", \"description\": \"pieza un objeto especial tanto para la mesa como para la decoración.\\n\\nCon unas medidas de 28 cm de largo x 17,5 cm de ancho, es ideal para presentar entrantes, aperitivos, guarniciones o pequeños platos en el centro de la mesa. También puede utilizarse como fuente de horno, siempre que el acabado y la pieza estén indicados para ello, o como plato decorativo para aportar color y personalidad a cualquier espacio.\\n\\nUna pieza versátil que une funcionalidad, artesanía y el lenguaje gráfico característico del estudio portugués OLLARUS.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ3939870",
+        "price": 30.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 6,
+    "translations": "{\"es\": {\"title\": \"Jarra de agua Saudade Azul. 1,5l\", \"description\": \"Jarra artesanal del estudio portugués OLLARUS, elaborada en Portugal y perteneciente a la colección Saudade, una línea que recupera el azul profundo de la tradición cerámica portuguesa a través de dibujos sencillos y expresivos inspirados en elementos mediterráneos como limones, hojas y motivos vegetales.\\n\\nModelada en torno de alfarero y pintada a mano, la jarra combina un exterior esmaltado en tono crema con detalles en azul cobalto y un llamativo interior en color terracota, que aporta contraste y personalidad a la pieza. El nombre Saudade, pintado también a mano sobre su superficie, refuerza su vínculo con la cultura y la sensibilidad portuguesa.\\n\\nSu silueta alta y generosa, con asa amplia y pico vertedor, la convierte en una pieza tan funcional como decorativa. Es perfecta para servir agua, limonada u otras bebidas, pero también puede utilizarse como jarrón para flores o ramas y como elemento decorativo en mesas, cocinas o proyectos de interiorismo.\\n\\nCon una capacidad aproximada de 1,8 a 2,1 litros, está pensada tanto para el uso cotidiano como para ocupar un lugar protagonista dentro de la casa.\\n\\nCada unidad presenta pequeñas variaciones en la forma, el trazo y el esmaltado, propias de su elaboración manual, haciendo de cada jarra una pieza única e irrepetible.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 209,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ7239534",
+        "price": 33.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 9,
+    "translations": "{\"es\": {\"title\": \"Ensaladera Granada 31cm pintada a mano\", \"description\": \"Dimensiones:\\n\\nDiámetro: 31cm\\n\\nAltura: 8,5cm\\n\\nApto para Lavavajillas y microondas.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ6517059",
+        "price": 34.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Verde agua"
+        }
+      },
+      {
+        "sku": "SQ6116846",
+        "price": 34.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Azul"
+        }
+      },
+      {
+        "sku": "SQ8336850",
+        "price": 34.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Rojo"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"es\": {\"title\": \"Jarra de agua Granada  2 litros\", \"description\": \"Esta jarra de la emblemática Fábrica Arrayanes recupera y mantiene el diseño original de la histórica cerámica de Fajalauza de Granada. Cada pieza está minuciosamente pintada a mano, convirtiéndola en una obra de arte única y funcional.\\n\\nGracias a las propiedades naturales de la cerámica, es perfecta para mantener el agua o tus bebidas favoritas a una temperatura fresca y saludable de forma totalmente natural.\\n\\nCon una generosa capacidad de 2 litros, es la pieza ideal tanto para vestir tu mesa en el día a día como para sorprender en ocasiones especiales. Además, se adapta al ritmo de vida actual siendo apta para lavavajillas y nevera.\\n\\nLleva a tu hogar un pedazo de la historia y el diseño único de Granada.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 209,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ7050983",
+        "price": 30.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Rosa"
+        }
+      },
+      {
+        "sku": "SQ6857539",
+        "price": 30.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Azul"
+        }
+      },
+      {
+        "sku": "SQ3797329",
+        "price": 30.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Verde agua"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"es\": {\"title\": \"Bol - Repintado Verde - Cerámica de Granada\", \"description\": \"Un desayuno con granola, un gazpacho fresco o una sopa caliente en invierno... Estos boles son el complemento perfecto para cualquier momento del año. Diseñados en Granada por la Fábrica Arrayanes y pintados a mano, son esa pieza de diseño exclusivo que alegra la rutina diaria.\\n\\n¿Por qué te van a encantar?\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 203,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ1845014",
+        "price": 15.0,
+        "currency": "EUR",
+        "quantity": 5,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"es\": {\"title\": \"Salero y Azucarero de Fajaluza, Granada\", \"description\": \"Esta pieza tan especial es original de la Fábrica de Arrayanes de Granada, España. Está pintada a mano sobre barro, es ideal para conervar el azúcar o la sal a la temperatura correcta. Sus dimensiones son 11 x15centímetros perfecta para almacenar y servir de manera cómoda y estilizada.\\n\\nDisponible en tono Rosa y Azul, combinando artesanía con tocas de color y diseño.\\n\\nPerfecto para uso diario o para ocasiones especiales.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 207,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ6919669",
+        "price": 20.0,
+        "currency": "EUR",
+        "quantity": 2,
+        "attributes": {
+          "Color": "Rosa"
+        }
+      },
+      {
+        "sku": "SQ8134949",
+        "price": 18.0,
+        "currency": "EUR",
+        "quantity": 2,
+        "attributes": {
+          "Color": "Azul"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 5,
+    "translations": "{\"es\": {\"title\": \"Plato Llano - Repintado Verde - Cerámica de Granada - 23cm\", \"description\": \"Una pieza versátil y llena de carácter, perfecta para servir entrantes, segundos platos, postres o pequeñas composiciones de mesa. Este plato pertenece a la colección artesanal de la Fábrica de los Arrayanes, donde cada unidad se decora a mano siguiendo técnicas tradicionales.\\n\\nActualmente, este modelo está disponible exclusivamente en color verde, un tono fresco y muy representativo de la cerámica granadina, que realza el dibujo vegetal y aporta personalidad a la mesa.\\n\\nSu decoración pintada a mano hace que cada plato presente ligeras variaciones en el trazo y el acabado, convirtiendo cada pieza en un objeto singular. Una propuesta que combina funcionalidad, tradición y el encanto de la cerámica artesanal del sur de España.\\n\\nApto para microondas: Sí\\nApto para lavavajillas: Sí\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ3467733",
+        "price": 12.0,
+        "currency": "EUR",
+        "quantity": 8,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 7,
+    "translations": "{\"es\": {\"title\": \"Set de 2 Platos Hondo Grande - Repintado  - Cerámica de Granada\", \"description\": \"Lleva a tu mesa la tradición de la cerámica granadina con este set de 2 platos hondos de gran formato de la Fábrica Arrayanes, elaborados artesanalmente siguiendo la técnica centenaria de Fajalauza.\\n\\nCon sus 29 cm de diámetro, estos platos están pensados para presentar pasta, arroces, ensaladas o platos principales con una presencia espectacular. Su gran tamaño y su decoración pintada a mano convierten cada pieza en un objeto funcional y, al mismo tiempo, en una auténtica pieza de artesanía.\\n\\nDisponibles en una vibrante gama de rojo, amarillo y verde, puedes combinar dos colores iguales o diferentes y crear tu propia pareja. Al estar realizados y decorados a mano, cada plato presenta pequeñas variaciones de trazo, color y acabado que hacen que cada unidad sea única.\\n\\nPromoción especial set de 2: al comprar dos platos, cada unidad sale a 20 €, por lo que el set completo tiene un precio promocional de 40 €.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 217,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ5958698",
+        "price": 20.0,
+        "currency": "EUR",
+        "quantity": 3,
+        "attributes": {
+          "Color": "Verde agua"
+        }
+      },
+      {
+        "sku": "SQ2939077",
+        "price": 20.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {
+          "Color": "Rojo"
+        }
+      },
+      {
+        "sku": "SQ8657034",
+        "price": 20.0,
+        "currency": "EUR",
+        "quantity": 8,
+        "attributes": {
+          "Color": "Amarillo"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"es\": {\"title\": \"Bol Artesanal - Diseño Rayas Naranja\", \"description\": \"Este bol de 16 cm es una pieza emblemática del taller Ollarus, donde la tradición alfarera se encuentra con un diseño contemporáneo y cálido. Cada pieza es única, reflejando el trazo manual y el cuidado detalle que solo el trabajo artesanal puede ofrecer.\\n\\nCaracterísticas principales:\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ1622032",
+        "price": 8.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"es\": {\"title\": \"Jarra de Agua - Blanca & Negra\", \"description\": \"Jarra de agua de cerámica del estudio de diseño Ollarus. Eficaz para conservar el agua a su temperatura ambiente. Diseño de cruz en negro en el centro de la jarra.\\n\\nMedidas: (D)-13,00cm (A)-20,50cm\\n\\nCapacidad: 1,2L\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 209,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0322061",
+        "price": 35.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"es\": {\"title\": \"Bandeja rectángular - Repintado Verde - Cerámica de Granada - 34cm\", \"description\": \"Descubre esta rabanera totalmente artesanal hecha en España.  Un diseño rectangular ideal para presentar en el centro de una mesa, decorativos o disfrutar de un plato de diseño para tu cocina.\\n\\nModelado en torno de alfarero y pintado a mano, presenta un motivo en el centro y detalles de clara inspiración mediterránea que combina la tradición ceramista española con una estética contemporánea.\\n\\nSu formato lo hace especialmente versátil: ideal para servir en centro de la mesa, presentar platos para compartir o utilizar como pieza decorativa.  Cada unidad muestra ligeras variaciones en dibujo y pincelada, propias del trabajo manual, lo que convierte cada plato en una pieza única.\\n\\nFicha técnica\\n\\nRecomendaciones de uso\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 203,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ2402792",
+        "price": 22.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"es\": {\"title\": \"Plato Postre Palmeira. 18,50cm.\", \"description\": \"Plato artesanal del estudio Ollarus, hecho en Portugal, perteneciente a la colección Romãs. Elaborado en torno de alfarero y pintado a mano, esta pieza combina la tradición ceramista portuguesa con una estética mediterránea contemporánea.\\n\\nVersátil y funcional: su formato es ideal como plato auxiliar para postres, aperitivos o pequeñas presentaciones, aportando un acento decorativo y artesanal a la mesa. Cada pieza presenta ligeras variaciones en pincelada y acabado que reflejan la singularidad del proceso manual.\\n\\nFicha técnica\\n\\nCaracterísticas destacadas\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ9635009",
+        "price": 15.0,
+        "currency": "EUR",
+        "quantity": 6,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"es\": {\"title\": \"Plato Llano Mediano Palmeira. 25,5cm\", \"description\": \"Plato de servicio artesanal del estudio OLLARUS, fabricado en Portugal y perteneciente a la colección Palmeiras. Modelado en torno de alfarero y pintado a mano, presenta un motivo de Palmera en el centro en verde azulado y detalles de clara inspiración mediterránea que combina la tradición ceramista portuguesa con una estética contemporánea.\\n\\nSu formato mediano (diámetro 25,50 cm) lo hace especialmente versátil: ideal para primeros platos o utilizar como pieza decorativa —ya sea como centro de mesa o colgado en la pared—. Cada unidad muestra ligeras variaciones en dibujo y pincelada, propias del trabajo manual, lo que convierte cada plato en una pieza única.\\n\\nFicha técnica\\n\\nCaracterísticas destacadas\\n\\nRecomendaciones de uso\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0301017",
+        "price": 23.0,
+        "currency": "EUR",
+        "quantity": 6,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"es\": {\"title\": \"Plato Llano Grande Palmeiras. 30cm\", \"description\": \"Plato de servicio artesanal — Colección Palmeiras (Estudio OLLARUS)\\n\\nPlato de servicio artesanal del estudio OLLARUS, fabricado en Portugal y perteneciente a la colección Palmeiras. Modelado en torno de alfarero y pintado a mano, presenta un motivo de Palmera en el centro en verde azulado y detalles de clara inspiración mediterránea que combina la tradición ceramista portuguesa con una estética contemporánea.\\n\\nSu formato grande (diámetro 30 cm) lo hace especialmente versátil: ideal para servir en mesa, presentar platos para compartir o utilizar como pieza decorativa —ya sea como centro de mesa o colgado en la pared—. Cada unidad muestra ligeras variaciones en dibujo y pincelada, propias del trabajo manual, lo que convierte cada plato en una pieza única.\\n\\nFicha técnica\\n\\nCaracterísticas destacadas\\n\\nRecomendaciones de uso\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ4166761",
+        "price": 30.0,
+        "currency": "EUR",
+        "quantity": 6,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"es\": {\"title\": \"Set de 6 platos - Palmeiras - Ollarus\", \"description\": \"Esta vajilla pintada y elaborada a mano consta de 3 platos llanos: principal, segundo y postre. Una vajilla ideal para el día a día con estilo y arte.\\n\\nFicha técnica\\n\\nTécnica: Realizado en torno de alfarero y pintado a mano\\n\\nDiámetro:\\n\\nUso: Alimentario / Servicio / Decorativo\\n\\nMaterial: Cerámica artesanal esmaltada\\n\\nEstudio: OLLARUS\\n\\nOrigen: Hecho en Portugal\\n\\nCaracterísticas destacadas\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 217,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ6757335",
+        "price": 140.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {
+          "Comensales": "Vajilla para 2"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"es\": {\"title\": \"Aceitera de Cerámica Granadina Pintada a Mano – 1L\", \"description\": \"Conserva y sirve tu aceite con la autenticidad de la alfarería tradicional. Esta aceitera de cerámica, pintada a mano en Granada, no solo es un utensilio funcional, sino una pieza única de artesanía ideal para lucir en tu cocina o mesa gracias a sus preciosos motivos florales tradicionales.\\n\\nDiseñada especialmente para el uso de aceite en crudo, cuenta con un práctico dosificador que permite servir la cantidad justa de forma cómoda, limpia y sencilla. Al ser de cerámica, protege el aceite de la luz, conservando intactas todas sus propiedades y sabor.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 207,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ6657755",
+        "price": 22.5,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Verde agua"
+        }
+      },
+      {
+        "sku": "SQ5099568",
+        "price": 20.5,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Azul"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"es\": {\"title\": \"Cuenco Granadas. 13,5cm\", \"description\": \"Cuenco artesanal perteneciente a la colección Romãs, elaborado en torno de alfarero y pintado a mano en el estudio OLLARUS, en São Pedro do Corval, Portugal. Su formato versátil y proporciones equilibradas lo convierten en una pieza ideal para servir aperitivos, pequeños acompañamientos, postres o snacks.\\n\\nFabricado en una olaría tradicional portuguesa con más de 20 años de experiencia, cada cuenco presenta sutiles variaciones que reflejan el valor y autenticidad del trabajo artesanal.\\n\\nFicha Técnica\\n\\nTécnica: Realizado en torno de alfarero y pintado a mano\\nOrigen: São Pedro do Corval, Portugal\\nFabricación: Olaría tradicional portuguesa con más de 20 años de experiencia\\nDiámetro: 13,5cm\\nAltura: 4 cm\\nUso: Alimentario / Decorativo\\n\\nCaracterísticas:\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 212,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0699747",
+        "price": 7.0,
+        "currency": "EUR",
+        "quantity": 2,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"es\": {\"title\": \"Plato Llano Granadas. 30cm\", \"description\": \"Plato de servicio artesanal — Colección Romãs (Estudio OLLARUS)\\n\\nPlato de servicio artesanal del estudio OLLARUS, fabricado en Portugal y perteneciente a la colección Romãs. Modelado en torno de alfarero y pintado a mano, presenta un motivo de granadas rojas y hojas verdes de clara inspiración mediterránea que combina la tradición ceramista portuguesa con una estética contemporánea.\\n\\nSu formato grande (diámetro 30 cm) lo hace especialmente versátil: ideal para servir en mesa, presentar platos para compartir o utilizar como pieza decorativa —ya sea como centro de mesa o colgado en la pared—. Cada unidad muestra ligeras variaciones en dibujo y pincelada, propias del trabajo manual, lo que convierte cada plato en una pieza única.\\n\\nFicha técnica\\n\\nCaracterísticas destacadas\\n\\nRecomendaciones de uso\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ5665462",
+        "price": 30.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"es\": {\"title\": \"Candelabro Fija - verde cerámica\", \"description\": \"El candelabro Fija de Bloomingville es el complemento perfecto para aportar calidez y estilo a cualquier rincón del hogar. Su forma característica y su elegante esmalte verde brillante le confieren una personalidad única, convirtiéndolo en una pieza decorativa que destaca tanto encendida como apagada.\\n\\nIdeal para crear ambientes acogedores, el portavelas Fija luce especialmente bonito sobre el alféizar de una ventana, entre plantas de interior y ramos de flores, donde su acabado esmaltado refleja sutilmente la luz natural. También es perfecto para decorar estanterías, mesas auxiliares o centros de mesa, añadiendo un toque de color y sofisticación.\\n\\nUna pieza versátil que combina funcionalidad y diseño, pensada para quienes desean incorporar pequeños detalles con encanto y carácter en su decoración.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ6637426",
+        "price": 16.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 5,
+    "translations": "{\"es\": {\"title\": \"Manta Eviaya con tonos azules en algodón reciclado\", \"description\": \"La manta Eviaya de Bloomingville es una pieza decorativa y versátil que combina diseño, confort y sostenibilidad. Con un estampado diferente en cada lado, ofrece dos estilos en una sola pieza, permitiéndote renovar fácilmente el ambiente de cualquier espacio.\\n\\nEn la parte frontal presenta un delicado patrón en tonos azules y rojos que crea un contraste armonioso y atractivo. El reverso, por su parte, está decorado con elegantes franjas rojas tejidas que aportan un estilo más dinámico y moderno. Cada una de sus esquinas está rematada con borlas en un tono amarillento, un detalle encantador que añade textura y personalidad al diseño.\\n\\nConfeccionada a partir de materiales reciclados, esta manta refleja un compromiso con un consumo más responsable sin renunciar a la calidad ni al estilo. Su textura suave y agradable al tacto la convierte en la compañera perfecta para momentos acogedores en el sofá, en la cama o en tu rincón de lectura favorito.\\n\\nIdeal para aportar calidez, color y carácter a la decoración del hogar, la manta Eviaya es tanto un complemento funcional como un elemento decorativo con encanto propio.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 215,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ9563836",
+        "price": 25.0,
+        "currency": "EUR",
+        "quantity": 5,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 6,
+    "translations": "{\"es\": {\"title\": \"Set de dos tazas Bolivia, en cerámica\", \"description\": \"La taza Bolivia de Bloomingville, presentada en un set de dos piezas,  destaca por su acabado con esmalte reactivo y detalles pintados a mano, lo que le aporta un carácter auténtico.\\n\\nSu diseño combina bloques en un intenso tono azul marino con suaves matices beige y rosados, formando un elegante patrón geométrico que equilibra fuerza y delicadeza.\\n\\nGracias al esmalte  y al proceso de pintado manual, pueden presentarse ligeras variaciones en el patrón y en la intensidad del color, haciendo que cada taza sea única.\\n\\nPerfectas para el uso diario o para complementar una mesa con estilo, las tazas Bolivia combinan funcionalidad y diseño en una propuesta versátil y llena de personalidad.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 201,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ9814712",
+        "price": 30.0,
+        "currency": "EUR",
+        "quantity": 2,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"es\": {\"title\": \"Set 2 Tazas Heikki\", \"description\": \"Nuestro set de 2 tazas Heikki de Bloomingville es una pieza que combina diseño, calidad y calidez en cada detalle, convirtiéndose en el complemento ideal para tu colección de vajilla. Su elegante esmalte en tono verde aporta frescura y naturalidad, mientras que el delicado patrón en relieve en un matiz beige añade textura y profundidad visual, creando un contraste sutil y armonioso que no pasa desapercibido.\\n\\nDiseñada para transformar tus momentos cotidianos en experiencias especiales, la taza Heikki es perfecta para disfrutar de tu café matutino, una infusión relajante por la tarde o cualquier bebida caliente que acompañe tus pausas del día. Su estética acogedora la convierte en una pieza decorativa por sí misma, ideal tanto para el uso diario como para sorprender a tus invitados en reuniones y ocasiones especiales.\\n\\nPuedes combinar este conjunto de dos tazas con otros diseños para crear una mesa dinámica y con personalidad, o mantener una línea uniforme incorporando más piezas de la misma colección para lograr un estilo coherente y elegante. Gracias a su elaboración artesanal y a la naturaleza del esmalte reactivo, cada taza presenta ligeras variaciones de color y acabado, lo que la convierte en una pieza única con carácter propio.\\n\\nLa taza Heikki no es solo un accesorio funcional, sino una expresión de estilo que aporta encanto y autenticidad a tu hogar.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 201,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ1320068",
+        "price": 24.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 5,
+    "translations": "{\"es\": {\"title\": \"Portavelas Kairi de Bloomingville en cerámica\", \"description\": \"El portavelas Kairi de Bloomingville está pintado a mano y lleno de color, diseñado para aportar encanto a tu decoración. Con sus patrones llamativos y colores vibrantes, se convierte en un elemento distintivo en cualquier estancia. Coloca este portavelas en una estantería, mesa de comedor o alféizar para crear un ambiente acogedor. Los detalles pintados a mano hacen que cada portavelas sea único, asegurando que no haya dos iguales.\\n\\nMedidas Diámetro9xAltura23 cm\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0200915",
+        "price": 34.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {
+          "unidades": "Unidad"
+        }
+      },
+      {
+        "sku": "SQ8810073",
+        "price": 60.0,
+        "currency": "EUR",
+        "quantity": 2,
+        "attributes": {
+          "unidades": "Pareja"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"es\": {\"title\": \"Jarrón Graphica en azul de Bloomingville\", \"description\": \"El jarrón Graphica de Bloomingville combina diseño contemporáneo y artesanía en una pieza de gres de gran carácter. Su estilo moderno y gráfico lo convierte en un elemento decorativo llamativo, mientras que el patrón azul pintado a mano aporta un toque artístico y personal. Las pequeñas variaciones en el color y el diseño hacen que cada jarrón sea único, reflejando el trabajo artesanal que lo distingue.\\n\\nGracias a su versatilidad, puedes utilizarlo para mostrar tus flores favoritas o simplemente colocarlo en un estante, mesa o alféizar de ventana como un detalle decorativo que aporta estilo y personalidad a cualquier espacio. Una pieza que combina funcionalidad y estética, perfecta para quienes buscan dar un toque moderno y elegante a su hogar.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 210,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ5317738",
+        "price": 50.0,
+        "currency": "EUR",
+        "quantity": 2,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"es\": {\"title\": \"Jarrón Fian naranja a rayas\", \"description\": \"El jarrón Fian de Bloomingville combina elegancia y artesanía en una pieza cerámica cuidadosamente diseñada. Su cuerpo redondeado y su cuello estrecho le otorgan una silueta equilibrada y sofisticada, mientras que su acabado brillante en dolomita realza la riqueza de sus colores.\\n\\nLas rayas verticales en tonos naranja y blanco roto aportan dinamismo y un toque contemporáneo, creando un efecto visual atractivo desde cualquier ángulo. Cada detalle está pintado a mano, por lo que pueden surgir ligeras variaciones en el patrón y en la intensidad del color, convirtiendo a cada jarrón en una obra única, llena de carácter y personalidad. Perfecto tanto como elemento decorativo para cualquier espacio como para complementar arreglos florales con estilo.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 210,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ1632794",
+        "price": 12.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"es\": {\"title\": \"Jarra de Agua Lisver. 1l\", \"description\": \"Jarra artesanal de la colección Lisver — Estudio OLLARUS\\n\\nJarra artesanal del estudio OLLARUS, elaborada en Portugal y parte de la colección Lisvers, que rescata el color azul en sus rayas. Modelada en torno de alfarero y pintada a mano, esta pieza fusiona la tradición cerámica portuguesa con un lenguaje decorativo contemporáneo.\\n\\nSu silueta generosa y su carácter escultórico la convierten en un objeto versátil: perfecta para servir agua y otras bebidas, y a la vez adecuada como elemento decorativo en mesas y proyectos de interiorismo. Con una capacidad aproximada entre 1,8 y 2,1 litros, responde tanto a un uso funcional como ornamental.\\n\\nCada unidad presenta variaciones sutiles propias de su fabricación manual, lo que hace de cada pieza un objeto único e irrepetible.\\n\\nFicha técnica\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 209,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ9393287",
+        "price": 35.0,
+        "currency": "EUR",
+        "quantity": 2,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 5,
+    "translations": "{\"es\": {\"title\": \"Frutero Pedestal Bob, estilo ibicenco\", \"description\": \"Este frutero es perfecto para transformarse en un atractivo centro de mesa o en una pieza decorativa con mucha personalidad. Además, resulta muy útil para mantener la despensa organizada.\\n\\nCapacidad:1200 ml\\n\\nEl fruttero Bob de Bloomingville está elaborado en gres y presenta un delicado acabado pintado a mano en tonos rosa, amarillo y azul, que aporta frescura y personalidad a la pieza. Su diseño con base elevada no solo le da altura y presencia, sino que también refuerza su carácter decorativo y desenfadado. Ideal tanto para uso funcional como para exhibir, este plato combina artesanía y diseño contemporáneo. Las sutiles variaciones en el color y en el trazo de la pintura reflejan el trabajo manual y convierten cada pieza en un objeto único.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ2715825",
+        "price": 73.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 6,
+    "translations": "{\"es\": {\"title\": \"Jarra de agua Fauni, en amarillo y gres\", \"description\": \"La jarra Fauni de Creative Collection está fabricada en gres y destaca por su cuidada decoración de hojas pintadas a mano en tonos amarillos cálidos, que aportan luminosidad y personalidad a la pieza. Su diseño alto y estilizado, junto con las pinceladas visibles, crea una estética artística y llena de movimiento. Las ligeras variaciones en el patrón y en la intensidad del color reflejan el trabajo artesanal y hacen que cada jarra sea una pieza única.\\n\\nDetalles\\n\\nMedidas Diámetro12,5xAltura20,5 cm\\n\\nCapacidad 2165 ml\\n\\nColor Amarillo\\n\\nEstilo Botánica\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 209,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ4026118",
+        "price": 35.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"es\": {\"title\": \"Jarrón Bashir en azul en gres\", \"description\": \"El jarrón Bashir de Bloomingville, elaborado en gres, destaca por su diseño escultórico y equilibrado, con líneas estrechas en la parte superior e inferior que se ensanchan suavemente en el centro. Su acabado en esmalte azul brillante con efecto encerado se combina con delicados motivos ovalados en tono beige. Las ligeras variaciones en el color y el dibujo aportan carácter.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 210,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ2141779",
+        "price": 27.0,
+        "currency": "EUR",
+        "quantity": 3,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 7,
+    "translations": "{\"es\": {\"title\": \"Plato Llano - Repintado Verde - Cerámica de Granada - 26cm\", \"description\": \"Ideal para platos principales y presentaciones elegantes, este plato forma parte de la vajilla artesanal de la Fábrica de los Arrayanes, donde cada pieza es pintada a mano con pigmentos de origen natural.\\n\\nActualmente, este modelo está disponible exclusivamente en color verde, un tono intenso y lleno de carácter que realza los motivos tradicionales de inspiración granadina.\\n\\nSus formas y decoración evocan la luz, la artesanía y la tradición cerámica del sur de España. Una pieza con gran presencia en la mesa, que combina historia, trabajo manual y singularidad en cada trazo.\\n\\nApto para microondas: Sí\\nApto para lavavajillas: Sí\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ7224048",
+        "price": 15.0,
+        "currency": "EUR",
+        "quantity": 10,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 7,
+    "translations": "{\"es\": {\"title\": \"Plato Llano - Repintado Verde - Cerámica de Granada - 20cm\", \"description\": \"Diseño Repintado\\n\\nIdeal para entrantes y primeros platos. Esta vajilla completa es la presentación elegante y colorida ideal que forma parte de la vajilla artesanal de la Fábrica de los Arrayanes, donde cada pieza es pintada a mano con tintes 100% naturales.\\n\\nSus colores vibrantes y diseños inspirados en la tradición granadina evocan la luz y el arte del sur de España. Una pieza con gran presencia en la mesa, que combina historia, artesanía y exclusividad en cada trazo.\\n\\nApto para microondas: sí\\nApto para lavavajillas: sí\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ7966312",
+        "price": 10.0,
+        "currency": "EUR",
+        "quantity": 15,
+        "attributes": {
+          "Color": "Verde agua"
+        }
+      },
+      {
+        "sku": "SQ7875760",
+        "price": 10.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {
+          "Color": "Amarillo"
+        }
+      },
+      {
+        "sku": "SQ5720223",
+        "price": 10.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {
+          "Color": "Rojo"
+        }
+      },
+      {
+        "sku": "SQ3240685",
+        "price": 10.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {
+          "Color": "Azul"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 10,
+    "translations": "{\"es\": {\"title\": \"Plato Hondo Grande - Repintado - Cerámica de Granada - 29cm\", \"description\": \"Diseño Repintado\\n\\nCada pieza es una obra única, elaborada cuidadosamente por artesanos granadinos. Con un diámetro de 29 cm, este plato combina belleza y funcionalidad, ideal para servir pasta, ensaladas, sopas o cremas.\\n\\nSus colores vibrantes y diseños inspirados en la tradición de la escuela de los Arrayanes evocan la esencia del sur de España. Un plato con gran presencia en la mesa, que une historia, arte y exclusividad en cada trazo.\\n\\nModelado: el barro toma forma en el torno o mediante moldes elaborados a mano.\\nSecado y primera cocción: una vez secas, las piezas se someten a la primera cocción (bizcochado).\\nDecoración y esmaltado: aplicamos pigmentos naturales y motivos inspirados en nuestra tradición ancestral.\\nCocción final: el fuego sella los colores y otorga el acabado perfecto.\\n\\nMicroondas: sí\\n\\nHorno: no\\n\\nLavavajillas: sí\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ1279217",
+        "price": 36.0,
+        "currency": "EUR",
+        "quantity": 3,
+        "attributes": {
+          "Color": "Verde Agua"
+        }
+      },
+      {
+        "sku": "SQ2634827",
+        "price": 36.0,
+        "currency": "EUR",
+        "quantity": 3,
+        "attributes": {
+          "Color": "Mostaza"
+        }
+      },
+      {
+        "sku": "SQ8901357",
+        "price": 32.0,
+        "currency": "EUR",
+        "quantity": 3,
+        "attributes": {
+          "Color": "Rojo"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"es\": {\"title\": \"Plato Hondo Cóncavo - Repintado - Cerámica de Granada - 20cm\", \"description\": \"Platos pertenecientes al a colección repitando de cerámica de los Arrayanes. Elegante y funcional, este plato hondo cóncavo de 20 cm de diámetro pertenece a la colección artesanal de la Fábrica de los Arrayanes. Cada pieza es modelada y pintada a mano con tintes 100% naturales, lo que garantiza su autenticidad y convierte a cada plato en una creación única.\\n\\nSu forma cóncava lo hace perfecto para sopas, cremas, pastas o guisos, ofreciendo una presentación impecable y realzando el color y la textura de cada receta.\\n\\nLos colores vivos y los motivos inspirados en la escuela granadina de los Arrayanes evocan la esencia luminosa del sur de España. Una pieza con carácter, historia y elegancia artesanal, ideal para quienes aprecian la cerámica tradicional con un toque contemporáneo.\\n\\nApto para microondas: ✅\\nApto para lavavajillas: ✅\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ2800581",
+        "price": 15.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Amarillo"
+        }
+      },
+      {
+        "sku": "SQ4321494",
+        "price": 15.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {
+          "Color": "Verde agua"
+        }
+      },
+      {
+        "sku": "SQ3413158",
+        "price": 15.0,
+        "currency": "EUR",
+        "quantity": 2,
+        "attributes": {
+          "Color": "Rojo"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 8,
+    "translations": "{\"es\": {\"title\": \"Plato postre - Repintado - Cerámica de Granada - 15cm\", \"description\": \"Diseño Repintado\\n\\nEl Plato de postre repintado con diámetro de 15 cm, es una pieza artesanal que rinde homenaje a la cerámica granadina, una tradición con raíces en la cultura nazarí entre los siglos XII y XV. Formas elegantes, esmaltes vibrantes y técnicas ancestrales como la cuerda seca o el repintado definieron este estilo único, nacido de la fusión entre el arte andalusí y la herencia cristiana.\\n\\nEn Cerámica Los Arrayanes, mantenemos viva esta esencia, elaborando cada plato a mano con barro natural, pigmentos minerales y un proceso que respeta los métodos tradicionales. El diseño Repintado, con sus trazos curvados y colores intensos, evoca la luz, la arquitectura y el refinado arte del sur de España.\\n\\nPerfecto para postres, aperitivo, café y pan, este plato combina belleza, historia y funcionalidad. Su acabado esmaltado no solo realza los tonos y el brillo característico de la cerámica granadina, sino que también garantiza una gran durabilidad.\\n\\nProceso artesanal:\\n\\nModelado: el barro cobra forma en el torno o mediante moldes hechos a mano.\\n\\nSecado y primera cocción: las piezas se bizcochan para adquirir resistencia.\\n\\nDecoración y esmaltado: se aplican pigmentos naturales inspirados en los motivos tradicionales de los Arrayanes.\\n\\nCocción final: el fuego fija los colores y aporta el acabado brillante y duradero.\\n\\nApto para microondas: Sí\\n\\nApto para lavavajillas: Sí\\n\\nUna pieza con historia, alma y carácter, ideal para quienes buscan llenar su mesa de arte y tradición andaluza.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ2000168",
+        "price": 6.0,
+        "currency": "EUR",
+        "quantity": 7,
+        "attributes": {
+          "Color": "Verde agua"
+        }
+      },
+      {
+        "sku": "SQ8846422",
+        "price": 6.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {
+          "Color": "Amarillo"
+        }
+      },
+      {
+        "sku": "SQ2564524",
+        "price": 6.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {
+          "Color": "Azul"
+        }
+      },
+      {
+        "sku": "SQ8747773",
+        "price": 6.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Rosa"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 7,
+    "translations": "{\"es\": {\"title\": \"Plato postre - Filo y Granada - Cerámica de Granada - 15cm\", \"description\": \"Diseño Filo y Granada\\n\\nEl Plato de postre Filo y Granada con diámetro de 15 cm, es una pieza artesanal que rinde homenaje a la cerámica granadina, una tradición con raíces en la cultura nazarí entre los siglos XII y XV. Formas elegantes, esmaltes vibrantes y técnicas ancestrales como la cuerda seca o el repintado definieron este estilo único, nacido de la fusión entre el arte andalusí y la herencia cristiana.\\n\\nEn Cerámica Los Arrayanes, mantenemos viva esta esencia, elaborando cada plato a mano con barro natural, pigmentos minerales y un proceso que respeta los métodos tradicionales. El diseño Filo y Granada, con sus delicados trazos y colores intensos, evoca la luz, la arquitectura y el refinado arte del sur de España.\\n\\nPerfecto para postres, aperitivo, café y pan, este plato combina belleza, historia y funcionalidad. Su acabado esmaltado no solo realza los tonos y el brillo característico de la cerámica granadina, sino que también garantiza una gran durabilidad.\\n\\nProceso artesanal:\\n\\nModelado: el barro cobra forma en el torno o mediante moldes hechos a mano.\\n\\nSecado y primera cocción: las piezas se bizcochan para adquirir resistencia.\\n\\nDecoración y esmaltado: se aplican pigmentos naturales inspirados en los motivos tradicionales de los Arrayanes.\\n\\nCocción final: el fuego fija los colores y aporta el acabado brillante y duradero.\\n\\nApto para microondas: Sí\\n\\nApto para lavavajillas: Sí\\n\\nUna pieza con historia, alma y carácter, ideal para quienes buscan llenar su mesa de arte y tradición andaluza.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ3602228",
+        "price": 4.5,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Rojo"
+        }
+      },
+      {
+        "sku": "SQ3678437",
+        "price": 4.5,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Verde agua"
+        }
+      },
+      {
+        "sku": "SQ8243256",
+        "price": 4.5,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Amarillo"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"es\": {\"title\": \"Ensaladera grande en tres colores - Filo y Granada - Cerámica de Granada - 31cm\", \"description\": \"Dimensiones:\\n\\nDiámetro: 31cm\\n\\nAltura: 8 cm\\n\\nApto para Lavavajillas y microondas.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 212,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ4506171",
+        "price": 34.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Azul"
+        }
+      },
+      {
+        "sku": "SQ7947096",
+        "price": 34.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Amarillo"
+        }
+      },
+      {
+        "sku": "SQ2630711",
+        "price": 34.0,
+        "currency": "EUR",
+        "quantity": 5,
+        "attributes": {
+          "Color": "Rojo"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 5,
+    "translations": "{\"es\": {\"title\": \"Vajilla Completa - Repintado Verde - Cerámica de Granada\", \"description\": \"Tenemos la vajilla perfecta para tu hogar, los platos y fuentes de cerámica de la fábrica de los Arrayanes te ofrece color y artesanía en tu hogar, viste tu mesa como nunca antes.\\n\\nTe ofrecemos una vajilla de 6 comensales con tres piezas por comensal y un plato de tamaño ensaladera para el centro. En total una vajilla de 19 piezas de alta calidad.\\n\\n*ENVÍO GRATIS para este producto aplicando el código de compra: FREE75\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 217,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ1215859",
+        "price": 325.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 8,
+    "translations": "{\"es\": {\"title\": \"Vajilla 18 piezas Neri con sutil relieve en negro\", \"description\": \"Descubre esta fantástica vajilla formada por 18 piezas de platos de tres tamaños distintos.\\n\\nEl plato Neri está elaborado en gres negro y destaca por su diseño minimalista con un marcado estilo nórdico. Su forma clásica se realza con sutiles detalles que aportan un toque decorativo al diseño monocromático. Gracias a su tamaño, es perfecto como plato principal o de cena, combinando funcionalidad y estética en una sola pieza.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 217,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ3498264",
+        "price": 277.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 6,
+    "translations": "{\"es\": {\"title\": \"Plato Negro - Neri con sutil relieve - 29cm\", \"description\": \"El plato Neri está elaborado en gres negro y destaca por su diseño minimalista con un marcado estilo nórdico. Su forma clásica se realza con sutiles detalles que aportan un toque decorativo al diseño monocromático. Gracias a su tamaño, es perfecto como plato principal o de cena, combinando funcionalidad y estética en una sola pieza.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ5342927",
+        "price": 20.0,
+        "currency": "EUR",
+        "quantity": 6,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 8,
+    "translations": "{\"es\": {\"title\": \"Plato Negro - Neri con sutil relieve - 23cm\", \"description\": \"Plato Neri Negro – Mediano\\n\\nEl Plato Neri destaca por su diseño minimalista y estilo nórdico, combinando elegancia y funcionalidad en una pieza de gres negro de acabado impecable. Su forma clásica se realza con sutiles detalles decorativos que aportan un toque sofisticado al diseño monocromático.\\n\\nGracias a su tamaño práctico, es perfecto como plato para el almuerzo o comidas ligeras. Además, es apto para lavavajillas, lo que facilita su uso diario sin perder su encanto.\\n\\nUn plato moderno, elegante y funcional que aporta estilo escandinavo a tu mesa.\\n\\nMaterial: Gres (Stoneware)\\nColor: Negro\\n\\nDiámetro: 23cm\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ1842899",
+        "price": 17.0,
+        "currency": "EUR",
+        "quantity": 6,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 12,
+    "translations": "{\"es\": {\"title\": \"Plato Negro - Neri con sutil relieve - 18cm\", \"description\": \"Plato Neri Negro – Pequeño\\n\\nEl Plato Neri se caracteriza por su diseño minimalista inspirado en el estilo nórdico, uniendo elegancia y utilidad en una pieza de gres negro con un acabado perfecto. Su silueta clásica se realza con delicados detalles decorativos que brindan una sofisticación sutil al diseño monocromático.\\n\\nCon un tamaño ideal, es perfecto para almuerzos o comidas ligeras. Además, su resistencia al lavavajillas garantiza un uso cómodo y práctico sin sacrificar su belleza.\\n\\nUn plato contemporáneo, elegante y funcional que añade un toque de estilo escandinavo a cualquier mesa.\\n\\nMaterial: Gres (Stoneware)\\nColor: Negro\\n\\nDiámetro: 18cm\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ6446867",
+        "price": 12.0,
+        "currency": "EUR",
+        "quantity": 6,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"es\": {\"title\": \"Plato Dorothy Rosa\", \"description\": \"El Plato Dorothy de Bloomingville es una auténtica joya decorativa elaborada en gres de alta calidad. Su superficie en relieve presenta un colorido motivo floral en tonos rojos, azules, rosas y verdes, que le da una apariencia similar al bordado artesanal, creando una textura increíble al tacto y a la vista.\\n\\nEl borde rosado suave aporta un toque de elegancia y delicadeza, convirtiéndolo en una pieza perfecta tanto para usar en la mesa como para decorar cualquier rincón del hogar.\\n\\nUn plato único y texturizado que combina arte, color y elegancia en cada detalle.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ5838259",
+        "price": 15.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 7,
+    "translations": "{\"es\": {\"title\": \"Plato Rojo - Latina Grande - 27cm\", \"description\": \"Nuestros platos más especiales. De la colección ‘Latina’ está elaborado en gres de alta calidad y cuenta con un esmaltado en un profundo tono rojo que no pasa desapercibido. Su diseño con bordes ondulados añade textura y un toque de elegancia artesanal, convirtiéndolo en una pieza que destaca en cualquier mesa.\\n\\nEl tamaño versátil del plato lo hace perfecto para adaptarse fácilmente a diferentes estilos de presentación. Además, su acabado esmaltado crea sutiles variaciones en el color, lo que hace que cada plato sea único y con personalidad propia.\\n\\nEl color y el tacto del plato Latina son tan especiales que resulta difícil describirlos con palabras. Su superficie suave y su tono rojo profundo captan la luz de una manera espectacular, aportando calidez, sofisticación y carácter a cualquier comida o reunión.\\n\\nIdeal para quienes aprecian la cerámica artesanal, el plato Latina combina belleza, funcionalidad y diseño escandinavo en una sola pieza que eleva la experiencia de tu mesa día tras día.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ7904952",
+        "price": 15.0,
+        "currency": "EUR",
+        "quantity": 12,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 7,
+    "translations": "{\"es\": {\"title\": \"Plato Rojo - Latina Pequeño - 20cm\", \"description\": \"El Plato Latina está elaborado en gres esmaltado con un tono rojo intenso que aporta calidez y estilo a cualquier mesa. Sus bordes ondulados le dan textura y un toque elegante y distintivo.\\n\\nGracias a su amplio tamaño, es perfecto como plato principal para comidas diarias o cenas especiales. El esmaltado artesanal puede presentar ligeras variaciones de color, lo que hace que cada pieza sea única.\\n\\n✨ Un plato elegante y con personalidad, ideal para realzar cualquier mesa.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0236545",
+        "price": 8.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 6,
+    "translations": "{\"es\": {\"title\": \"Bol Rojo - Latina - 12cm\", \"description\": \"El Bol Latina combina simplicidad y elegancia en un diseño artesanal con un precioso esmaltado rojo. Su tamaño práctico lo hace ideal para el desayuno, así como para servir aperitivos o snacks dulces y salados.\\n\\nEl acabado esmaltado puede presentar ligeras variaciones de color, lo que aporta a cada pieza un carácter único y especial.\\n\\nUn bol versátil, colorido y lleno de encanto para disfrutar cada momento en la mesa.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 201,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ7649143",
+        "price": 4.5,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 5,
+    "translations": "{\"es\": {\"title\": \"Vajilla en rojo 19 piezas de lujo\", \"description\": \"Descubre esta fantástica vajilla formada por 19 piezas de platos de tres tamaños distintos.\\n\\nLa vajilla Latina está esmaltada en rojo cereza con un brillo elegante. Elaborada en cerámica de gres y destaca por su diseño minimalista con un marcado estilo nórdico. Gracias a su tamaño, es perfecto como plato principal o de cena, combinando funcionalidad y estética en una sola pieza.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 217,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ5772445",
+        "price": 265.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"es\": {\"title\": \"Jarra Roja -  Latina - 1,2l\", \"description\": \"Esta jarra tan especial está elaborada en gres de alta calidad y esmaltada en un intenso y brillante tono rojo, lo que le da un carácter elegante y llamativo. Con una capacidad de 1,2 litros, es perfecta tanto para servir bebidas en el día a día como para acompañar momentos especiales alrededor de la mesa. Cada jarra es única, ya que el esmalte puede variar ligeramente en color, lo que convierte a cada pieza en un objeto exclusivo. Sus líneas rectas y su diseño armonioso aportan un toque clásico y moderno al mismo tiempo, mientras que el asa redondeada asegura un agarre cómodo y seguro. Sin duda, es una pieza que brilla por sí sola y se convierte en un elemento decorativo y funcional en cualquier hogar.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 209,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ4129919",
+        "price": 29.9,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"es\": {\"title\": \"Jarrón Elitta en cerámica marrón\", \"description\": \"El jarrón o maceta Elitta es una de las piezas con mayor personalidad y atractivo de nuestro catálogo actual. De la línea Creative Collection está elaborado en cerámica de color marrón natural, con un atractivo acabado en relieve 3D que aporta textura y carácter a cualquier espacio.\\n\\nIdeal para colocar en el alféizar de una ventana o sobre una mesa con una pequeña planta o flores frescas.\\n\\nMedidas:\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 214,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ2532921",
+        "price": 35.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"es\": {\"title\": \"Jarrón Odina Verde con motivos florales\", \"description\": \"El Jarrón Odina destaca por su diseño artesanal y encanto natural. Fabricado en gres de alta calidad, presenta una base en tono crema decorada con un delicado motivo floral pintado a mano, lo que garantiza que cada pieza sea única.\\n\\nSu estilo combina lo rústico y lo contemporáneo, convirtiéndolo en un accesorio decorativo versátil: luce espectacular tanto solo como acompañado de flores frescas o secas.\\n\\n✨ Aporta calidez, color y autenticidad a tu hogar con este jarrón artesanal. Perfecto para dar vida a cualquier rincón con elegancia natural.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ9592069",
+        "price": 24.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 7,
+    "translations": "{\"es\": {\"title\": \"Jarrón y candelabro - Cabeza siciliana Miss Jody\", \"description\": \"El Miss Jody Vase es una auténtica pieza de arte funcional que combina el encanto del diseño italiano con la esencia artesanal del estilo nórdico contemporáneo. Elaborado en gres de alta calidad y pintado a mano, este jarrón escultórico representa un rostro femenino elegante y expresivo, símbolo de belleza, creatividad y carácter.\\n\\nSu diseño versátil permite utilizarlo tanto como jarrón para flores como candelabro decorativo, adaptándose con naturalidad a cualquier ambiente. Con una simple rotación, cambia de función sin perder su presencia artística, convirtiéndose en el centro de atención sobre una mesa, aparador o repisa.\\n\\nLos tonos suaves y el acabado artesanal realzan su personalidad única: cada pieza presenta ligeras variaciones en color y textura, testimonio de un proceso hecho a mano que convierte cada jarrón en una obra irrepetible.\\n\\nEl Miss Jody Vase no solo decora, sino que transforma los espacios, aportando una nota de sofisticación mediterránea y calidez moderna. Ideal para quienes buscan piezas con historia, alma y versatilidad.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ9037894",
+        "price": 50.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"es\": {\"title\": \"Jarrón  Odina en rojo con motivos florales en azul\", \"description\": \"El jarrón Odina destaca por su intenso tono rojo y su delicado motivo floral pintado a mano en tonos azul, rosa y blanco. Cada pieza es única, ya que su acabado artesanal le otorga un encanto especial e irrepetible.\\n\\nFabricado en gres este jarrón combina durabilidad y elegancia, convirtiéndose en el complemento perfecto para realzar cualquier espacio, ya sea como elemento decorativo independiente o con un ramo de flores frescas o secas.\\n\\nMedidas: Ø11 x H15 x W16 cm\\nMaterial: Gres\\nColor: Rojo con detalles florales pintados a mano\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0175593",
+        "price": 17.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"es\": {\"title\": \"Taza Nini Roja – MINI\", \"description\": \"La taza Nini es una pequeña joya artesanal que combina diseño nórdico, encanto y funcionalidad. Fabricada en gres de alta calidad, destaca por su forma delicada y su alegre decoración a rayas en tonos rosas y rojos, que aportan un toque de color y vitalidad a cualquier mesa o estantería de cocina.\\n\\nCada taza está pintada a mano, lo que significa que no hay dos iguales. Las ligeras variaciones en color e intensidad son parte de su belleza, reflejando la autenticidad y el cuidado que caracterizan a las piezas de Bloomingville. Su acabado suave y su tamaño compacto la hacen ideal para disfrutar un café corto, un espresso o una infusión relajante.\\n\\nAdemás de ser práctica, la taza Nini es un elemento decorativo por sí misma. Colócala junto a otras piezas de cerámica en una repisa o vitrina para añadir un toque de estilo artesanal y nórdico al ambiente. Su diseño alegre y su colorido sutil la convierten en un regalo perfecto para quienes disfrutan de los pequeños detalles cotidianos.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 201,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ2070384",
+        "price": 9.2,
+        "currency": "EUR",
+        "quantity": 5,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 12,
+    "translations": "{\"es\": {\"title\": \"Taza Agnes para niños – MINI\", \"description\": \"Taza para  el desayuno  modelo Agnes, una encantador taza artesanal diseñada especialmente para los más pequeños. Elaborados de gres de alta calidad con un barniz blanco brillante, destaca por su adorable diseño con una pequeña naranja en el interior de la taza, una sorpresa que hará sonreír a cada niño al terminar su bebida.\\n\\nCada pieza es única, ya que su acabado se realiza a mano y puede presentar sutiles variaciones en color y textura, lo que la convierte en un pequeño tesoro en la mesa infantil. Ideal para acompañar desayunos, meriendas o momentos de juego con estilo y ternura.\\n\\n✨ Una taza única, divertida y perfecta para manos pequeñas.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 202,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ9045415",
+        "price": 15.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"es\": {\"title\": \"Maceta Abner Azul de Gres\", \"description\": \"La maceta Abner de la Creative Collection con un  diseño detallado y  espectacular esmalte reactivo que crea efectos únicos en cada pieza. Los tonos azules naturales y las sutiles variaciones en el acabado hacen que cada maceta sea diferente, añadiendo carácter y estilo a cualquier rincón de tu hogar.\\n\\nPerfecta para quienes aman la decoración con color, textura y un toque artístico. Abner llenará tu espacio de encanto y personalidad.\\n\\nDetalles del producto:\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 214,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ2826945",
+        "price": 33.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"es\": {\"title\": \"Macetero grande Romy Azul de Gres\", \"description\": \"¡Dale vida a tus plantas con la maceta Romy! Fabricada en gres y pintada a mano con alegres pinceladas onduladas en tonos azules, esta pieza rebosa color y personalidad. Su acabado artesanal hace que cada maceta sea única, con pequeñas variaciones que la convierten en una auténtica joya decorativa.\\n\\nIdeal para quienes disfrutan rodearse de color, creatividad y encanto natural, la maceta Romy es perfecta para dar un toque vibrante a tu hogar. 🌈🌿\\n\\nDetalles del producto:\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 214,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ6727797",
+        "price": 39.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"es\": {\"title\": \"Macetero Decorativo Parvin en negro\", \"description\": \"El macetero Parvin es una pieza de terracota negra con una textura sofisticada y un diseño que refleja la esencia del estilo nórdico contemporáneo. Su acabado artesanal y su tono profundo aportan un aire exclusivo y sereno a cualquier espacio, convirtiéndolo en un complemento ideal para resaltar plantas naturales o decorativas.\\n\\nDe líneas simples y elegantes, el Parvin Flowerpot luce especialmente bien sobre el alféizar de una ventana, una mesa auxiliar o una repisa, donde su color negro y su textura rugosa crean un contraste perfecto con el verde de las plantas.\\n\\nAl estar hecho y esmaltado a mano, cada macetero presenta ligeras variaciones en tono y acabado, lo que lo convierte en una pieza única y llena de carácter. Debido a su naturaleza artesanal, puede no ser completamente impermeable, por lo que se recomienda colocar una base o plato si se utiliza con plantas naturales.\\n\\nEl Parvin Deco Flowerpot combina elegancia, sencillez y autenticidad, ideal para quienes buscan decorar su hogar con piezas que transmiten calma y estilo natural.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 214,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ3883568",
+        "price": 16.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"es\": {\"title\": \"Candelabro Eja marrón y blanco\", \"description\": \"El portavelas Eja de Bloomingville combina la forma de un cuenco con un soporte integrado para vela, creando una pieza decorativa elegante y funcional. Su acabado en esmalte a rayas en tonos blanco y negro aporta un toque moderno y sofisticado al espacio. Un elemento decorativo con mucha personalidad, este candelabro individual otorga un aire escandinavo y divertido en tu hogar.\\n\\nDetalles:\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ6392347",
+        "price": 12.0,
+        "currency": "EUR",
+        "quantity": 3,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"es\": {\"title\": \"Candelabro Tacana Gris de Gres\", \"description\": \"Ilumina tu hogar con la Tacana, un candelabro de gres pintado a mano en tonos cálidos que aportan un toque acogedor y lleno de personalidad. Cada pieza es única, con ligeras variaciones de color que la hacen especial. Ideal para colocar en la ventana, mesa o estantería, y añadir un toque de color y calidez a cualquier rincón. 🕯️✨\\n\\nDetalles del producto:\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ3488097",
+        "price": 15.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"es\": {\"title\": \"Set de 2 candelabros  Tigres Rory\", \"description\": \"El set de candelabros Rory  combina originalidad y encanto artesanal en una pieza que cautiva a primera vista. Fabricados en cerámica de alta calidad, estos dos candelabros con forma de tigre aportan un toque divertido y elegante a cualquier estancia.\\n\\nCada pieza ha sido pintada a mano, lo que hace que cada set sea único, con ligeras variaciones de color que realzan su carácter artesanal. Ideales para colocar en una ventana, mesa auxiliar o repisa, los candelabros Rory iluminan el espacio con una calidez natural y un estilo escandinavo inconfundible.\\n\\nCaracterísticas del Set de Portavelas Rory:\\n\\nMarca: Bloomingville\\n\\nModelo: Rory Candle Holder, White\\n\\nFormato: Set de 2 unidades\\n\\nEstilo: Escandinavo / Decorativo / Artesanal\\n\\nDale personalidad y un toque artístico a tu hogar con el set de candelabros Rory, una combinación perfecta de diseño nórdico, detalle artesanal y encanto animal.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ8319245",
+        "price": 55.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 7,
+    "translations": "{\"es\": {\"title\": \"Candelabro Syra blanco en poliresina\", \"description\": \"El candelabro Syra es una pieza de diseño escultórico y contemporáneo, perfecta para quienes desean añadir un toque artístico y elegante a su hogar. Fabricado en poliresina de alta calidad, destaca por su superficie texturizada y su diseño doble para velas, que aporta equilibrio visual y un estilo sofisticado a cualquier estancia.\\n\\nEstos candelabros decorativos y modernos combinan a la perfección la estética nórdica  con materiales duraderos y un acabado artesanal. Es ideal para decorar salones, comedores, recibidores o estanterías, creando una atmósfera cálida y con personalidad.\\n\\nCaracterísticas del Portavelas Syra:\\n\\nAñade el portavelas Syra a tu colección de decoración y transforma cualquier rincón en un espacio lleno de arte y sofisticación.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ9684869",
+        "price": 22.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {
+          "Diseño": "1 vela"
+        }
+      },
+      {
+        "sku": "SQ0013335",
+        "price": 25.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {
+          "Diseño": "2 velas"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 8,
+    "translations": "{\"es\": {\"title\": \"Vela Aromática con cera natural No.4 Lemon Verbena – ILLUME\", \"description\": \"Dale un toque de frescura y energía a tu hogar con la Vela Aromática No.4 Lemon Verbena de ILLUME. Elaborada con cera natural, esta vela combina las notas vibrantes de limón, verbena y hierbas frescas, creando una atmósfera relajante y acogedora en cualquier estancia: baño, salón o dormitorio.\\n\\nSu elegante envase de vidrio mate en tono beige aporta un toque decorativo y sofisticado, mientras que su presentación en caja de regalo la convierte en el detalle perfecto para cualquier ocasión.\\n\\nCaracterísticas:\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ5346905",
+        "price": 15.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"es\": {\"title\": \"Candelabro azul cobalto en gres\", \"description\": \"Diseño Escandinavo de Alta Calidad, el  candelabro Thorne destaca por su diseño escandinavo elegante y contemporáneo, elaborado en gres de alta calidad con un esmalte azul profundo y mate.\\n\\nSu forma curvada y estilizada aporta un toque artístico y moderno que realza cualquier espacio. Perfecto para decorar una estantería, bandeja o alféizar, este portavelas combina funcionalidad y estética, ofreciendo un detalle decorativo sofisticado que ilumina con estilo cualquier ambiente.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ4555237",
+        "price": 22.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 6,
+    "translations": "{\"es\": {\"title\": \"Ensaladera Ovalada Leyva - Filo y Granada - Cerámica de Granada - 32cm\", \"description\": \"Ensaladera Ovallada Leyva  una pieza de cerámica que combina arte, diseño y funcionalidad en un solo objeto. Con sus dimensiones de 32 x 8,5 centímetros, esta creación destaca por su presencia equilibrada y su forma orgánica, inspirada en la suavidad y armonía de las semillas naturales. Cada curva y proporción ha sido cuidadosamente pensada para ofrecer una estética moderna, sin perder la esencia artesanal que la hace única.\\n\\nMedidas:\\n\\nApta para Microondas y Lavavajillas\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ2962194",
+        "price": 45.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Amarillo"
+        }
+      },
+      {
+        "sku": "SQ5267902",
+        "price": 45.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Negro"
+        }
+      },
+      {
+        "sku": "SQ4872197",
+        "price": 45.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Rojo"
+        }
+      },
+      {
+        "sku": "SQ0274298",
+        "price": 45.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Azul"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 11,
+    "translations": "{\"es\": {\"title\": \"Bandeja rectángular - Filo y Granada - Cerámica de Granada - 34cm\", \"description\": \"Pieza única de cerámica artesanal, elaborada y pintada a mano en la Fábrica de los Arrayanes. Esta elegante rabanera rectangular blanca destaca por su decoración central: una granada, símbolo de la ciudad que inspira toda la colección.\\n\\nEsta rabanera es perfecta para servir pan, crudités, o aperitivos principales con una presentación elegante.\\n\\nSu diseño combina sencillez y refinamiento, ideal para presentar entrantes, frutas o acompañamientos con un toque de distinción. Cada trazo refleja la maestría de la escuela granadina y el carácter luminoso del sur de España.\\n\\nUna pieza que une tradición, arte y exclusividad, pensada para quienes aprecian la belleza de lo hecho a mano.\\n\\nApto para microondas: ✅\\nApto para lavavajillas: ✅\\n\\nTamaño:\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ8939578",
+        "price": 23.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Azul"
+        }
+      },
+      {
+        "sku": "SQ5677865",
+        "price": 23.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Amarillo"
+        }
+      },
+      {
+        "sku": "SQ5373458",
+        "price": 23.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Rojo"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"es\": {\"title\": \"Jarrón Calabaza - 5l\", \"description\": \"Jarrón Calabaza XL no necesita mucha presentación. Este elegante Jarron  o “Barrila”  una de las piezas mas características de la “alfarería del agua” de Moveros en la provincia de Zamora.\\n\\nLa barrila se usaba en el campo durante el verano, especialmente en la siega, el acarreo y la trilla, ya que tenía la capacidad de mantener el agua relativamente fresca incluso en épocas de intenso calor.\\n\\nMoveros fue un pueblo destacado en su época, conocido principalmente por su actividad en la alfarería tradicional, un oficio realizado exclusivamente por las mujeres del lugar.\\n\\nEl Jarron Calabaza está elaborada a mano y cocida en horno de leña. ¡No hay dos iguales!.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 223,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "852",
+        "price": 55.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 9,
+    "translations": "{\"es\": {\"title\": \"Set de Jarra y 6 Vasos de Cerámica\", \"description\": \"Set compuesto por una jarra de formas retro y redondeadas y 6 vasos a juego. Ideal para servir agua, sangría, gazpacho o limonada con un estilo único y mediterráneo.\\n\\nDetalles del producto:\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 205,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ7741629",
+        "price": 40.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 5,
+    "translations": "{\"es\": {\"title\": \"Jarra de sangría -  2,5l\", \"description\": \"Esta jarra tradicional de sangría, elaborada en fina porcelana y pintada a mano, representa un símbolo vivo de la bebida por excelencia de España. Su diseño artesanal no solo hace honor a la rica tradición cultural, sino que también aporta un toque de elegancia y autenticidad a cualquier ocasión.\\n\\nAdemás, es un objeto decorativo único que realza la estética de cualquier espacio, ya sea en la mesa del comedor, en una reunión al aire libre, o como pieza destacada en una vitrina.\\n\\nPara complementar esta pieza, ofrecemos pequeñas jarras a juego que pueden usarse como vasos individuales. Estas miniaturas no solo mantienen la cohesión del conjunto, sino que también añaden un toque adicional de encanto a la experiencia de servir y disfrutar de la sangría.\\n\\nMedidas: 25 (ancho)  x 53 (alto) cm\\n\\nPeso: 1.5 Kg\\n\\nCapacidad: 2.5 L\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 209,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "CUE021",
+        "price": 54.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"es\": {\"title\": \"Vasos de Sangría - 0,33l\", \"description\": \"Vasos tradicional de sangría, elaborados en porcelana y pintados a mano al estilo de Manises.\\n\\nMedidas: 11 (ancho)  x 16 (alto) cm\\n\\nCapacidad: 0.33 L\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 205,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "CUE027",
+        "price": 10.0,
+        "currency": "EUR",
+        "quantity": 6,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"es\": {\"title\": \"Tarro farmacia de porcelana\", \"description\": \"Este tarro de porcelana, inspirado en los albarelos tradicionales utilizados en las farmacias antiguas para guardar medicamentos, combina la elegancia del diseño clásico con la funcionalidad moderna.\\n\\nIdeal tanto para decorar como para almacenar en la cocina, este tarro no solo es una pieza decorativa que aporta un toque distintivo y sofisticado a cualquier espacio, sino que también es práctico para guardar especias, hierbas, o cualquier otro ingrediente de uso cotidiano. Su diseño cuidado y detallado asegura que se integre perfectamente en ambientes tanto rústicos como contemporáneos, convirtiéndose en un elemento versátil y funcional.\\n\\nAdemás, el acabado de porcelana de alta calidad garantiza durabilidad y facilidad de limpieza, haciendo de este tarro una opción excelente para quienes buscan combinar estética y practicidad en su hogar. Aporta un aire de elegancia histórica y funcionalidad moderna a tu cocina con este encantador tarro de porcelana.\\n\\nTécnica: Cerámica vitrificada a alta temperatura.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 207,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "CUE012",
+        "price": 60.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"es\": {\"title\": \"Jarra de porcelana - 1l\", \"description\": \"Conxuro da queimada: Mouchos, curuxas, sapos e bruxas. Demos, trasgos e diaños, espíritos, das nebeodas veigas. Corvos, pintegas e meigas…\\n\\nPara los amantes de las tradiciones, la bruxería y el buen diseño. Esta jarra de porcelana se elaboró con el fin de servir en ella el orujo tradicional de la noche de San Juan en Galicia. Actualmente es una maravilla para cualquier salón o cocina.\\n\\nTécnica: Cerámica vitrificada a alta temperatura.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 225,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "CUE016",
+        "price": 45.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"es\": {\"title\": \"Set de 6 vasos de porcelana\", \"description\": \"Set de 6 vasos originales adaptados para infusión, café, cremas bebibles o licor.\\n\\nPara los amantes de las tradiciones, la bruxería y el buen diseño. Estos vasos  se elaboraron para beber el orujo tradicional de Galicia.  Actualmente son una maravilla para cualquier salón o cocina.\\n\\nTécnica: Cerámica vitrificada a alta temperatura.\\n\\nEstá elaborado por el ceramista, escultor y artista Martínez Coello cuya obra está representada en museos y colecciones privadas por todo el mundo y Antonia Blanes\\n\\nMedidas: 8 (ancho) x 8 (largo) x 12 (alto) cm\\n\\nPeso: 0,15 Kg\\n\\nCapacidad: 0,20 l\\n\\nRécíbelo en 72h!\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 205,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "CUE026",
+        "price": 36.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"es\": {\"title\": \"Cántaro de Traiguera\", \"description\": \"El cántaro de Traiguera es una pieza emblemática de la alfarería tradicional de este pueblo ubicado en el extremo norte de la Comunidad Valenciana, cerca de la frontera con Tarragona. Traiguera es conocido por su rica tradición alfarera, y sus cántaros conservan un profundo valor histórico y cultural.\\n\\nLos cántaros de Traiguera, también conocidos como \\\"cantes\\\", se caracterizan por su forma robusta y distintiva. Estos recipientes tienen un cuerpo abultado y estriado, con una base estrecha que se ensancha hacia el centro, formando una barriga prominente. El cuello del cántaro es alargado, y de él emergen dos asas que se extienden hacia abajo, apoyándose sobre el cuerpo abultado de la pieza.\\n\\nLa decoración de estos cántaros es realizada con óxido de manganeso, aplicando trazos y franjas distribuidos por toda la superficie. Esta decoración se lleva a cabo utilizando un peine con cuatro, cinco o seis púas, lo que le confiere un aspecto único y artesanal. El barro utilizado para su fabricación es rojo, finamente tamizado, y tras la cocción, adquiere una tonalidad pajiza característica.\\n\\nEstos cántaros representan no solo la habilidad técnica de los alfareros de Traiguera, sino también la preservación de una tradición centenaria que sigue viva en la región.\\n\\nMedidas: 22 (alto) cm\\n\\nRécíbelo en 72h!\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 210,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ5938972",
+        "price": 35.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"es\": {\"title\": \"Salero de porcelana\", \"description\": \"Este salero de porcelana ha sido meticulosamente diseñado para complementar las cocinas tradicionales. Cada pieza es única, ya que son elaboradas a mano con técnicas artesanales, lo que garantiza que no existen dos saleros idénticos.\\n\\nLa atención al detalle en su creación se refleja en su diseño elegante y funcional, ideal para quienes valoran la autenticidad y la calidad en sus utensilios de cocina. Además, su acabado delicado y refinado aporta un toque de sofisticación y encanto a cualquier cocina, convirtiéndose no solo en un utensilio práctico, sino también en una pieza decorativa que resalta el carácter y la personalidad del espacio culinario.\\n\\nTécnica: Cerámica vitrificada a alta temperatura.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 207,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ9080616",
+        "price": 15.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Verde oliva"
+        }
+      },
+      {
+        "sku": "SQ6498450",
+        "price": 15.0,
+        "currency": "EUR",
+        "quantity": 3,
+        "attributes": {
+          "Color": "Azul"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"es\": {\"title\": \"Azucarero de porcelana\", \"description\": \"Este exquisito azucarero de porcelana pintado a mano ha sido cuidadosamente diseñado para ser utilizado en las cocinas tradicionales, aportando un toque de elegancia y autenticidad a tu espacio culinario. Cada pieza es única, elaborada a mano mediante técnicas artesanales, lo que garantiza que no existen dos azucareros iguales.\\n\\nSus líneas suaves y su acabado impecable lo hacen perfecto para complementar cualquier estilo de cocina, desde las más clásicas hasta las más contemporáneas. La porcelana de alta calidad utilizada en su fabricación asegura una durabilidad excepcional, así como una fácil limpieza, manteniendo su belleza intacta a lo largo del tiempo.\\n\\nEste azucarero no solo es ideal para almacenar azúcar, sino que también puede ser utilizado para guardar otros ingredientes, como especias, hierbas o pequeños dulces, añadiendo versatilidad a su uso. Su presencia en la mesa o en la encimera de la cocina no pasará desapercibida, convirtiéndose en un elemento central que combina practicidad con una estética encantadora.\\n\\nAñade un toque de tradición y sofisticación a tu cocina con este azucarero de porcelana artesanal, una pieza única que celebra la artesanía y la belleza en cada detalle.\\n\\nTécnica: Cerámica vitrificada a alta temperatura.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 207,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ3683401",
+        "price": 12.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Azul"
+        }
+      },
+      {
+        "sku": "SQ9889300",
+        "price": 12.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {
+          "Color": "Verde"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"es\": {\"title\": \"Plato de Cafe porcelana - 16 cm\", \"description\": \"Plato de café artesanal creado por el taller Artesanía & Signos. Fabricado en cerámica vitrificada a alta temperatura.\\n\\nEste plato es obra del ceramista, escultor y artista Martínez Coello, cuyas creaciones se encuentran en museos y colecciones privadas a nivel mundial, en colaboración con Antonia Blanes.\\n\\nMedidas: 16 (ancho) x 16 (largo) x 1 (alto) cm\\n\\nPeso: 0,16 Kg\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 225,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ8051310",
+        "price": 11.0,
+        "currency": "EUR",
+        "quantity": 8,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"es\": {\"title\": \"Plato de Cafe porcelana - 18 cm\", \"description\": \"Plato de cafe asimétrico hecho a mano por el obradoiro Artesania & Signos. Cerámica vitrificada a alta temperatura\\n\\nEstá elaborado por el ceramista, escultor y artista Martínez Coello cuya obra está representada en museos y colecciones privadas por todo el mundo y Antonia Blanes\\n\\nMedidas: 18 (ancho) x 18 (largo) x 2 (alto) cm\\n\\nPeso: 0,24 Kg\\n\\nRécíbelo en 72h!\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 201,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ3353033",
+        "price": 6.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {
+          "Color": "Verde"
+        }
+      },
+      {
+        "sku": "SQ7091589",
+        "price": 6.0,
+        "currency": "EUR",
+        "quantity": 2,
+        "attributes": {
+          "Color": "Azul"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"es\": {\"title\": \"Plato de aperitivo porcelana\", \"description\": \"Plato de aperitivo porcelana - 22cm\\n\\nPlato de aperitivo realizado por el taller Artesanía & Signos. Fabricado en cerámica vitrificada a alta temperatura.\\n\\nEste plato es obra del ceramista, escultor y artista Martínez Coello, cuyas creaciones se encuentran en museos y colecciones privadas a nivel mundial, en colaboración con Antonia Blanes.\\n\\nMedidas: 17 (ancho) x 22 (largo) x 2 (alto) cm\\n\\nPeso: 0,49 Kg\\n\\nRécíbelo en 72h!\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 225,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0898051",
+        "price": 12.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 5,
+    "translations": "{\"es\": {\"title\": \"Mortero de cerámica\", \"description\": \"Mortero de ceramica en dos colores con mazo de madera, perfecto para triturar y combinar semillas y hierbas. Ideal para preparar vinagretas y otras salsas deliciosas.\\n\\nRealizado artesalmente por L'alfarería en Castellón, España.\\n\\nMedidas: 16 (ancho) x 16 (largo) x 10 (alto) cm\\n\\nPeso: 1 Kg\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 207,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ1619502",
+        "price": 18.95,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Verde agua"
+        }
+      },
+      {
+        "sku": "SQ2527434",
+        "price": 18.95,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Amarillo"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"es\": {\"title\": \"Servilletero tricolor de cerámica\", \"description\": \"Servilletero realizado en cerámica con forma de abanico, ideal para complementar la decoración de cualquier comedor o cocina.\\n\\nRealizado artesalmente por L'alfarería en Castellón, España.\\n\\nMedidas: 15 (largo) x 8 (alto) cm\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 212,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0833348",
+        "price": 14.5,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"es\": {\"title\": \"Salero de ceramica\", \"description\": \"alero artesanal realizado en cerámica con decoración en tres tonos pintados a mano.\\n\\nRealizado artesalmente por L'alfarería en Castellón, España.\\n\\nMedidas: 5 (ancho) x 5 (largo) x 8 (alto) cm\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 207,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ6901275",
+        "price": 8.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"es\": {\"title\": \"Pajaritos de agua de cerámica de Talavera\", \"description\": \"Pajaritos de agua de cerámica que imitan a la perfección el canto de un pájaro. Disponible en varios colores\\n\\nRealizado artesalmente por el alfarero Moreno Benito, en Talavera de la Reina, España.\\n\\nMedidas: 5.5( ancho) ) x 6 (alto) cm\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 224,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ2435770",
+        "price": 4.5,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {
+          "Color": "Rojo"
+        }
+      },
+      {
+        "sku": "SQ7346449",
+        "price": 4.5,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "rosa"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 5,
+    "translations": "{\"es\": {\"title\": \"Juego de 2 copas de ceramica - 0,20l\", \"description\": \"Copas de cerámica originales hechas a mano. Puede elegir entre dos colores:  verde y ocre.\\n\\nRealizadas en Ourente en el taller de alfarería de Artesanía del artista Martin Coello fueron realizadas a principios del siglo XX.\\n\\nMedidas: 6 (ancho) x 6 (largo) x 8 (alto) cm\\n\\nPeso: 87 g\\n\\nCapacidad: 0,20l\\n\\nRécíbelo en 72h!\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 205,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ8329550",
+        "price": 8.0,
+        "currency": "EUR",
+        "quantity": 2,
+        "attributes": {
+          "Color": "Verde agua"
+        }
+      },
+      {
+        "sku": "SQ0283374",
+        "price": 8.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Amarillo"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 5,
+    "translations": "{\"es\": {\"title\": \"Juego de vasos de cerámica\", \"description\": \"Los vasos estan modelados artesanalmente y decorados de forma manua en el estudio de artesanía  de MARTINEZ COELLO, artista cuya obra pictórica está representada en los más importantes museos y colecciones privadas de España, EE. UU., México, Italia, Brasil, Venezuela, Francia, Portugal...\\n\\nCoello utiliza para sus diseños la PORCELANA, materia cerámica noble, cocida a alta temperatura (1.300%). Cada pieza es única y ha sido elaborada totalmente a mano, lo que le confiere el carácter de obra de arte.\\n\\nEstos vasos originales  de colores verde y amarillo son esenciales para completar el juego de piezas de la colección Silvestre. Sirven para acompañar con agua el café o tomar un pequeño sorbo de licor.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 205,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ5272754",
+        "price": 3.0,
+        "currency": "EUR",
+        "quantity": 3,
+        "attributes": {
+          "Color": "Verde agua"
+        }
+      },
+      {
+        "sku": "SQ9379438",
+        "price": 3.0,
+        "currency": "EUR",
+        "quantity": 3,
+        "attributes": {
+          "Color": "Amarillo"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"es\": {\"title\": \"Conjunto de Porcelana para café y té. Pack de dos tazas con plato.\", \"description\": \"Conjunto de porcelana con doble esmaltado; color tierra y color verde moho es la opción más acertada para quien le guste tomar un café mediano o un té.\\n\\nSu textura te transporta a entornos naturales rocosos y al ser artesanal no contamos con dos piezas exactas pero en conjunto se consigue formar un juego de café o té espectacular.\\n\\nApto para lavavajillas y microondas.\\n\\nEstá elaborado por el ceramista, escultor y artista Martínez Coello cuya obra está representada en museos y colecciones privadas por todo el mundo y Antonia Blanes, artista ceramista especialista e investigadora de los procesos técnicos de la cerámica creativa.\\n\\nMedidas:\\n\\nTaza 6,6 (ancho) x 6,6 (largo) x 4 (alto) cm / Plato  12,5 (ancho) x 12,5 (largo) x 1,4 (alto) cm\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 201,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "CUE02",
+        "price": 14.0,
+        "currency": "EUR",
+        "quantity": 6,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"es\": {\"title\": \"Antiguo Botijo de Puerto del Arzobispo\", \"description\": \"Botijo de Puente del Arzobispo en Toledo, este botijo refleja la rica tradición artesanal y la belleza de la cerámica española. Su dibujos hace pensar que forman parte de la serie de la pajarita de influencia levantina (Manises). En el centro, un ave estilizada se encuentra rodeada de ramas plumeadas, mientras que la policromía clásica en verde, amarillo y azul, junto con detalles en manganeso\\n\\nEl botijo presenta leves daños como se puede apreciar en las fotografías.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ2255868",
+        "price": 32.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"es\": {\"title\": \"Plato decorativo de ceramica original con detalle cosido\", \"description\": \"Plato decorativo de cerámica con pieza cosida a mano en uno de sus laterales. Realizado en Zamora por el maestro alfarero PHera.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 224,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ7000734",
+        "price": 22.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"es\": {\"title\": \"Plato decorativo ilustrado\", \"description\": \"Plato de cerámica pintado a mano. Realizado en Zamora por el maestro alfarero PHera.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 224,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ6881854",
+        "price": 19.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"es\": {\"title\": \"Plato de Cafe - 16cm juego de dos platos\", \"description\": \"Plato de cafe de la colección silvestre.\\n\\nEstá elaborado por el ceramista, escultor y artista Martínez Coello cuya obra está representada en museos y colecciones privadas por todo el mundo y Antonia Blanes\\n\\nMedidas: 16 (ancho) x 16 (largo) x 1 (alto) cm\\n\\nPeso: 0,15 Kg\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 201,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0345638",
+        "price": 11.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"es\": {\"title\": \"Tapa redonda de Pereruela\", \"description\": \"Tapadera de Barro de Pereruela.\\n\\nRealizado artesalmente en Zámora, España.\\n\\nMedidas: 27 (ancho) x 27 (largo) x 2 (alto) cm\\n\\nPeso: 1 Kg\\n\\nRécíbelo en 72h!\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 203,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0258010",
+        "price": 14.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"es\": {\"title\": \"Jarra  de cerámica esmaltada verde\", \"description\": \"Jarra de porcelana en un hermoso color verde, cuidadosamente elaborada y decorada con motivos en relieve de gran volumen. Esta pieza es una excelente opción tanto para servir agua fresca o limonadas o  como un atractivo objeto de decoración en cualquier espacio de tu hogar.\\n\\nPresenta algunos desperfectos leves como se puede apreciar en las fotografías.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 209,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ9442002",
+        "price": 33.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"es\": {\"title\": \"Plato de Postre - Diseño Rayas Azul Mar\", \"description\": \"Añade una pincelada de frescura y carácter artesanal a tu mesa con este plato de postre de 18,50 cm, una creación exclusiva del taller Ollarus. Esta pieza no es solo un soporte para tus dulces favoritos, sino una declaración de estilo que celebra la belleza de lo hecho a mano.\\n\\nViste tu mesa con la autenticidad de la cerámica de autor y convierte cada bocado en una experiencia visual tan deliciosa como el menú mismo.\\n\\nFicha técnica\\n\\nCaracterísticas destacadas\\n\\nRecomendaciones de uso\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ7409717",
+        "price": 10.0,
+        "currency": "EUR",
+        "quantity": 8,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  }
+]

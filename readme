@@ -1,0 +1,51 @@
+python manage.py build_cueceramica
+python manage.py runserver 8000
+
+your_django_project/
+├── manage.py
+├── config/                     # Main project folder (settings.py, root urls.py)
+│   ├── settings.py
+│   └── urls.py
+└── cueceramica/                # Your app folder
+    ├── __init__.py
+    ├── serializers.py          # 1. DRF Serializers (ProductBodySerializer)
+    ├── utils.py                # 2. HTML cleaning & description extraction
+    ├── translator.py           # 3. Parallel Google Translate & cache logic
+    ├── services.py             # 4. Squarespace fetcher, category map & RAM cache
+    ├── views.py                # 5. APIView (CueCeramicaProductsAPIView)
+    ├── urls.py                 # 6. App URL routing
+    └── management/
+        └── commands/
+            └── build_cueceramica.py  # 7. CLI command: python manage.py build_cueceramica
+
+
+
+
+
+[Squarespace Website]
+       │
+       ▼
+1. utils.py           ➔ Cleans messy HTML into plain Spanish text
+       │
+       ▼
+2. translator.py      ➔ Translates Spanish text into French & English
+       │
+       ▼
+3. services.py        ➔ Builds the `product_body` dictionary & saves to Cache
+       │
+       ▼
+4. serializers.py     ➔ Checks that the data types are 100% valid
+       │
+       ▼
+5. views.py           ➔ Sends the JSON response to the user's browser
+
+http://127.0.0.1:8000/api/cueceramica-products/?lang=es
+http://127.0.0.1:8000/api/cueceramica-products/?lang=fr
+http://127.0.0.1:8000/api/cueceramica-products/?lang=en
+
+
+Weglot.getCurrentLang()
+
+
+
+python cueceramica_drf_backend.py --warm-cache  for ficher alone

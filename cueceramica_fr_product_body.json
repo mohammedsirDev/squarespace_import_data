@@ -1,0 +1,3335 @@
+[
+  {
+    "expected_images": 2,
+    "translations": "{\"fr\": {\"title\": \"Tasse Nini Rose – MINI\", \"description\": \"Le mug Nini est un petit bijou fait main qui allie design nordique, charme et fonctionnalité. Fabriquée en grès de haute qualité, elle se distingue par sa forme délicate et sa joyeuse décoration rayée dans les tons roses et gris, qui ajoutent une touche de couleur et de vitalité à n'importe quelle table ou étagère de cuisine.\\n\\nChaque tasse est peinte à la main, ce qui signifie qu’il n’y en a pas deux identiques. Les légères variations de couleur et d'intensité font partie de sa beauté, reflétant l'authenticité et le soin qui caractérisent les pièces Bloomingville. Sa finition lisse et sa taille compacte le rendent idéal pour déguster un café court, un expresso ou une infusion relaxante.\\n\\nEn plus d'être pratique, le mug Nini est un élément de décoration à lui seul. Placez-le à côté d'autres pièces en céramique sur une étagère ou une vitrine pour ajouter une touche de style artisanal et nordique à l'environnement. Son design joyeux et ses couleurs subtiles en font un cadeau parfait pour ceux qui aiment les petits détails du quotidien.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 201,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ5807116",
+        "price": 9.2,
+        "currency": "EUR",
+        "quantity": 5,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"fr\": {\"title\": \"Vase Grottaglie en céramique bleu et rouge\", \"description\": \"Ce vase en céramique Grottaglie bleu et rouge est fabriqué à la main par Gianluca Annicchiarico, artisan céramiste de Grottaglie, dans la province de Tarente, Pouilles. La pièce est travaillée au tour et finie avec un émail brillant qui associe un bleu profond à une rayure rouge très intense.\\n\\nLe contraste entre les deux couleurs confère à la pièce une esthétique très graphique et contemporaine, tout en conservant le caractère irrégulier et unique de la céramique artisanale. De petites variations de glaçage, de forme et de surface font naturellement partie du processus de fabrication et rendent chaque pièce différente.\\n\\nAvec des mesures approximatives de Ø 19 × H 17 cm, il peut être utilisé comme récipient décoratif, vase ou pièce protagoniste sur une table, une étagère ou un buffet.\\n\\nUne pièce fabriquée en Italie qui reflète la tradition céramique de Grottaglie dans une perspective moderne, avec de la couleur, de la simplicité et une forte présence visuelle.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 205,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ8673351",
+        "price": 12.0,
+        "currency": "EUR",
+        "quantity": 7,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"fr\": {\"title\": \"Vase Grottaglie en céramique bleue\", \"description\": \"Ce verre en céramique Grottaglie bleu est fabriqué à la main par Gianluca Annicchiarico, un artisan spécialisé dans les produits semi-finis et les pièces en céramique. Chaque pièce est travaillée au tour à Grottaglie, province de Tarente, dans les Pouilles, l'un des grands centres historiques de la céramique italienne.\\n\\nSa finition combine différentes intensités de bleu, des tons profonds aux nuances turquoise, créant une surface pleine de reflets et de variations. Le processus artisanal fait que chaque verre présente de petites différences de forme, de glaçure et de couleur, ce qui en fait une pièce unique.\\n\\nMesurant environ 17 × 16 cm, il se distingue par sa prestance et une esthétique méditerranéenne aux lignes simples et contemporaines. Une pièce qui unit la tradition céramique de Grottaglie avec le caractère du travail artisanal en Italie.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 205,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ8469446",
+        "price": 12.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 6,
+    "translations": "{\"fr\": {\"title\": \"Pot en céramique bleu turquoise et cobalt\", \"description\": \"Ce pot en céramique avec couvercle fait main est fabriqué et émaillé à la main dans les Pouilles, dans le sud de l'Italie, réinterprétant la tradition céramique de la région à partir d'une esthétique simple, moderne et colorée.\\n\\nSa forme cylindrique et compacte en fait une pièce polyvalente pour un usage quotidien. La finition bicolore associe un bleu turquoise lumineux en bas à un bleu cobalt intense en haut, créant un contraste épuré et très méditerranéen.\\n\\nDe petites variations de forme, de glaçure et d'intensité de couleur sont une conséquence du processus artisanal et font partie du caractère unique de chaque pièce.\\n\\nIl peut être utilisé comme pot de rangement, récipient pour petits objets ou élément décoratif, ajoutant de la couleur et de la personnalité à la cuisine, à la table, à l'étagère ou à n'importe quel coin de la maison.\\n\\nUne pièce fonctionnelle et décorative qui relie la tradition potière des Pouilles à une esthétique contemporaine.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 207,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ7180745",
+        "price": 25.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 6,
+    "translations": "{\"fr\": {\"title\": \"Pot bleu et vert émeraude\", \"description\": \"Ce pot en céramique avec couvercle est fabriqué et émaillé à la main dans les Pouilles, dans le sud de l'Italie, une région profondément liée à la tradition potière méditerranéenne.\\n\\nSa silhouette simple et légèrement tronquée est complétée par un couvercle en céramique assorti. L'émail combine un vert émeraude intense dans la partie supérieure avec du bleu turquoise dans la partie inférieure, créant une transition de couleur irrégulière pleine de nuances qui met en valeur le caractère artisanal de la pièce.\\n\\nLe travail manuel signifie que chaque pot présente de petites variations de forme, de glaçure et d'intensité de couleur. Ces différences font partie de sa singularité et font de chaque pièce un objet unique.\\n\\nSon design s'inspire des récipients traditionnels en céramique utilisés dans les Pouilles pour stocker et conserver les aliments, réinterprétés ici à partir d'une esthétique plus contemporaine. Il peut être utilisé comme pot de rangement, contenant pour petits objets ou simplement comme élément de décoration dans une cuisine, une étagère ou sur une table.\\n\\nUne pièce au fort caractère méditerranéen qui allie tradition, couleur et savoir-faire italien avec un design simple et moderne.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 207,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ6214975",
+        "price": 30.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"fr\": {\"title\": \"Bouteille d'huile bleue et violette\", \"description\": \"Ce pot à huile en céramique fait main est fabriqué et peint à la main.\\n\\nFabriqué à Grottaglie, dans les Pouilles, l'une des villes italiennes les plus reconnues pour sa tradition céramique, il allie le travail manuel de l'argile à la décoration émaillée réalisée par des artisans qui ont transmis ces techniques de génération en génération.\\n\\nSa finition en bleu et violet intenses, avec une surface brillante et de légères variations chromatiques, met en valeur sa forme arrondie et confère à la pièce un caractère très particulier. Chaque bouteille d'huile présente de petites différences inhérentes au processus artisanal, chaque pièce est donc unique.\\n\\nIl est fabriqué avec des émaux certifiés adaptés à un usage alimentaire, il peut donc être utilisé comme bidon d'huile sur la table ou dans la cuisine. En même temps, son design et sa combinaison de couleurs lui permettent d'être utilisé comme objet décoratif, apportant une touche artisanale et méditerranéenne à n'importe quel espace.\\n\\nUne pièce fonctionnelle et décorative qui allie la tradition céramique de Grottaglie à une esthétique contemporaine et colorée.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 207,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ1761522",
+        "price": 30.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"fr\": {\"title\": \"Pichet italien jaune et bleu\", \"description\": \"La cruche en céramique artisanale est fabriquée à la main à Grottaglie.\\n\\nLa finition émail combine un bleu cobalt intense sur le dessus et un jaune lumineux sur la base, unis par une subtile bande verte créée par la transition entre les deux émaux. Une combinaison vibrante et méditerranéenne qui transforme chaque pichet en une pièce particulièrement décorative. Dans la partie centrale, il présente une délicate bordure en relief réalisée sur la céramique elle-même, apportant de la texture et renforçant son caractère artisanal.\\n\\nGrâce à sa fabrication manuelle, de petites variations de couleur, de glaçure ou de forme peuvent apparaître. Ces irrégularités sont typiques du processus artisanal et rendent chaque pièce unique et irremplaçable.\\n\\nParfait aussi bien pour servir de l'eau ou d'autres boissons que pour l'utiliser comme vase ou élément décoratif, ajoutant de la couleur et de la personnalité à la table, à la cuisine ou à n'importe quel coin de la maison.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 209,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0300000",
+        "price": 35.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"fr\": {\"title\": \"Pichet italien rouge et gris\", \"description\": \"Le Salento, situé dans la région des Pouilles, au sud de l'Italie, a une longue tradition de poterie qui se reflète dans les formes simples et fonctionnelles de cette « Brocca ».\\n\\nSa finition émaillée combine un rouge profond sur le dessus avec un ton gris pierre sur la base, créant un contraste contemporain qui met à jour une pièce aux racines profondément traditionnelles.\\n\\nFabriquée avec des émaux naturels, chaque pichet présente de petites variations typiques du travail artisanal qui font de chaque pièce un objet unique.\\n\\nProduction artisanale Made in Salento, pour Cue Cerámica.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 209,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ8589603",
+        "price": 25.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"fr\": {\"title\": \"Cape jaune et verte\", \"description\": \"La céramique Capasa récupère l'une des formes traditionnelles de la céramique domestique des Pouilles. Autrefois, ces morceaux servaient à conserver les aliments, notamment les produits préparés à l'huile ou au vinaigre, comme les artichauts, les aubergines ou les poivrons.\\n\\nFabriquée à la main à Grottaglie, cette capasa conserve sa forme cylindrique caractéristique et ses deux petites poignées latérales, réinterprétant une pièce du quotidien comme un objet décoratif et fonctionnel pour la maison et la table. Il peut également être utilisé comme vase pour des fleurs, des branches ou des compositions décoratives, apportant une touche artisanale et méditerranéenne à n'importe quel espace.\\n\\nSa finition émaillée associe un jaune intense sur le dessus et un vert profond sur la base, créant un contraste de couleurs simple et très caractéristique. Les légères variations de l'émail, typiques de la production artisanale, rendent chaque pièce unique.\\n\\nUne pièce pleine de personnalité qui unit la tradition céramique de Grottaglie, Pouilles, avec une esthétique fraîche et contemporaine, parfaite pour ajouter de la couleur à une table, une cuisine, une étagère ou n'importe quel coin de la maison.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 207,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ6705581",
+        "price": 30.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 5,
+    "translations": "{\"fr\": {\"title\": \"Pichet Odina XL. 3l\", \"description\": \"La cruche Odina allie délicatesse nostalgique et touche de design contemporain. Son fond aux tons neutres sert de toile parfaite pour mettre en valeur un charmant motif floral dans les tons de rose et de bleu. En contraste saisissant, son manche rose intense ajoute une nuance moderne et dynamique qui enrichit sa silhouette romantique.\\n\\nUne élégance romantique avec une touche moderne\\n\\nUn accessoire polyvalent conçu à la fois pour habiller votre table avec distinction et pour fonctionner comme un objet décoratif plein de charme.\\n\\nDétails du produit\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 209,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ5299749",
+        "price": 54.0,
+        "currency": "EUR",
+        "quantity": 2,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 8,
+    "translations": "{\"fr\": {\"title\": \"Tasse de bégonia. 44cl\", \"description\": \"Le mug Begonia ajoute une touche de chaleur et de charme artisanal à vos moments de pause. Fabriqué en grès de haute qualité, il est décoré à la main d'un délicat motif rayé dans un doux ton bleu clair qui transmet sérénité et style.\\n\\nUn charme unique à chaque gorgée\\n\\nPeinte à la main, chaque pièce présente de légères variations qui lui confèrent son caractère propre et irremplaçable.\\n\\nDétails du produit\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 201,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ4256391",
+        "price": 20.0,
+        "currency": "EUR",
+        "quantity": 6,
+        "attributes": {
+          "Color": "Azul"
+        }
+      },
+      {
+        "sku": "SQ6825802",
+        "price": 20.0,
+        "currency": "EUR",
+        "quantity": 6,
+        "attributes": {
+          "Color": "Marrón"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"fr\": {\"title\": \"Vase en cristal bleu Carlie\", \"description\": \"Le vase Carlie est un bijou en cristal qui équilibre art et sérénité. Il se distingue par son ton bleu doux avec une texture de marbre enveloppante, contrastée avec audace par d'élégantes poignées sculpturales dans les tons beige et orange. Une pièce avec une présence unique et un langage visuel équilibré.\\n\\nArtisanat et personnalité du verre\\n\\nSoufflé et moulé à la main, chaque vase possède sa propre âme qui met en valeur la beauté du travail artisanal.\\n\\nDétails du produit\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 210,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ6385725",
+        "price": 51.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"fr\": {\"title\": \"Bougeoir Bess\", \"description\": \"Le bougeoir Bess est une pièce très décorative conçue pour attirer l'attention de tous. Fabriqué en polyrésine dans un ton bleu vif, il se distingue par sa silhouette raffinée de lignes géométriques qui apporte un air moderne, complexe et plein de caractère à n'importe quelle pièce.\\n\\nGéométrie et polyvalence décorative\\n\\nSon design architectural et sa palette de couleurs intenses en font le centre d'attention, offrant des possibilités infinies pour styliser votre maison.\\n\\nDétails du produit\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ5948869",
+        "price": 27.0,
+        "currency": "EUR",
+        "quantity": 5,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 7,
+    "translations": "{\"fr\": {\"title\": \"Cruche d'eau Eimy. 1l\", \"description\": \"La cruche Eimy se distingue par son élégance sereine et son âme artisanale. Réalisé dans un ton bleu sophistiqué, il est décoré à la main d'une délicate branche florale aux tons doux qui lui confère un air raffiné, serein et intemporel.\\n\\nArtisanat et gourmandise sur votre table\\n\\nChaque pichet est peint individuellement, il présente donc de légères variations d'intensité des couleurs qui font de chaque pièce une œuvre unique.\\n\\nDétails du produit\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 209,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ7351066",
+        "price": 40.0,
+        "currency": "EUR",
+        "quantity": 3,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"fr\": {\"title\": \"Ensemble salière et poivrière Cyrill\", \"description\": \"L'ensemble salière et poivrière Cyrill apporte une touche vivante et artisanale à la table. Réalisée en grès aux nuances vertes et à l'émail brillant plein de dynamisme, elle se distingue par ses formes décoratives de grand caractère qui en font un élément naturel pour toute présentation gastronomique.\\n\\nDesign fait main et irremplaçable\\n\\nSa finition émaillée interagit de manière unique lors de la cuisson, garantissant qu'il n'y a pas deux pièces exactement identiques.\\n\\nDétails du produit\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 207,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0589429",
+        "price": 19.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"fr\": {\"title\": \"Bol Marsala jaune\", \"description\": \"Le bol Marsala se distingue par son charme artisanal et sa texture soignée. Réalisé dans un élégant ton jaune moutarde, il présente une délicate gravure en relief de petites fleurs sous la glaçure qui lui confère une touche subtile, chaleureuse et pleine de personnalité.\\n\\nUne élégance fonctionnelle pour votre table\\n\\nSon design polyvalent en fait l'assiette creuse parfaite pour un usage quotidien et des présentations spéciales.\\n\\nDétails du produit\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 203,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0715477",
+        "price": 21.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"fr\": {\"title\": \"Bol Marsala en marron\", \"description\": \"Le bol Marsala de Creative Collection se distingue par son charme artisanal et sa texture soignée. Réalisé dans un élégant ton marron foncé, il présente une délicate gravure en relief de petites fleurs sous la glaçure qui lui confère une touche subtile, chaleureuse et pleine de personnalité.\\n\\nUne élégance fonctionnelle pour votre table\\n\\nSon design polyvalent en fait l'assiette creuse parfaite pour un usage quotidien et des présentations spéciales.\\n\\nDétails du produit\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 203,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ6586228",
+        "price": 22.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"fr\": {\"title\": \"Vase / Jardinière HAYAN\", \"description\": \"Vase Hayan, une pièce en grès au caractère unique et résolument artisanal. Il présente une teinte marron chaude avec une finition brillante, contrastée par des motifs audacieux d'yeux au beurre noir. Ses quatre poignées circulaires sur les côtés lui confèrent une silhouette distinctive pleine de personnalité, tandis que sa peinture à la main garantit que chaque pièce est unique.\\n\\nUn design artisanal avec son propre caractère\\n\\nConçue pour devenir le centre d'attention, cette jardinière combine la chaleur du grès traditionnel avec un design moderne d'inspiration sculpturale.\\n\\nDétails du produit\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 214,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ2869282",
+        "price": 33.0,
+        "currency": "EUR",
+        "quantity": 3,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 6,
+    "translations": "{\"fr\": {\"title\": \"Couverture Artiste - Coton\", \"description\": \"La couverture Artist transforme n’importe quel espace en une galerie de design contemporain. Tissée et imprimée de grands blocs de couleurs abstraits dans des tons de vert et de bleu sur une base beige clair, cette pièce se distingue par sa présence visuelle audacieuse et artistique. Ses longues franges sur les bords lui donnent une touche décontractée et pleine de texture.\\n\\nArt textile éco-responsable\\n\\nFabriquée sous la philosophie « Ne jamais refuser de réutiliser », cette couverture transforme les restes de l'industrie textile en une pièce décorative de haut niveau. Les restes de matériaux sont transformés en nouvelles fibres purifiées pour donner vie à un tissu doux, fonctionnel et durable.\\n\\nDétails du produit\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 215,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ4846414",
+        "price": 30.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"fr\": {\"title\": \"Couverture OIA - Coton\", \"description\": \"La couverture Oia de Bloomingville habille votre maison d'une esthétique chaleureuse et confortable. Tissé dans des tons rouges chauds avec des nuances beiges, il combine des motifs de flocons de neige complexes avec des motifs à rayures horizontales pour un look saisonnier classique et intemporel. Ses élégantes franges à pompons sur les bords apportent une texture douce et une touche déco impeccable.\\n\\nLa durabilité dans chaque fibre\\n\\nCréée sous la philosophie « Ne jamais refuser de réutiliser », cette pièce s'engage dans l'économie circulaire en transformant les restes de l'industrie textile en une pièce unique. Les restes de coton sont soigneusement granulés et transformés en nouvelles fibres textiles de haute qualité.\\n\\nDétails du produit\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 215,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ8122304",
+        "price": 27.0,
+        "currency": "EUR",
+        "quantity": 5,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"fr\": {\"title\": \"Couverture Gutte - Coton\", \"description\": \"La couverture Gutte de Bloomingville allie durabilité et design contemporain. Tissé à partir d'un mélange de coton et de polyester recyclés, il présente un motif géométrique audacieux dans des tons noir et beige qui offre un contraste visuel plein de personnalité. Ses longues franges sur les bords ajoutent une finition décorative qui met en valeur le caractère artisanal de la pièce.\\n\\nConception respectueuse de l'environnement\\n\\nFabriquée sous la devise « Ne jamais refuser de réutiliser », cette couverture embrasse l'économie circulaire en donnant une seconde vie aux restes de l'industrie textile. Au lieu d’être jetés, les chutes de coton sont traitées et transformées en nouvelles fibres utiles et résistantes.\\n\\nDétails du produit\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 215,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ8110543",
+        "price": 27.0,
+        "currency": "EUR",
+        "quantity": 5,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 6,
+    "translations": "{\"fr\": {\"title\": \"Couverture Vinay - Coton\", \"description\": \"La couverture Vinay de Creative Collection est une pièce textile tissée dans les tons bleu foncé, beige et noir. Il se distingue par son audacieux motif de vagues horizontales visible des deux côtés et ses longues finitions de franges multicolores, qui comprennent une bordure dynamique noire et blanche.\\n\\nConcevoir avec une âme et une conscience écologique\\n\\nFabriquée à partir de coton recyclé, chaque couverture donne une seconde vie aux chutes et restes de l'industrie textile. Au lieu de jeter ces matériaux, les fibres sont traitées et transformées en un tout nouveau fil, solide et doux au toucher.\\n\\nDétails du produit\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 215,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ1242897",
+        "price": 27.0,
+        "currency": "EUR",
+        "quantity": 3,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 5,
+    "translations": "{\"fr\": {\"title\": \"Couverture Rémy dans les tons roses\", \"description\": \"La couverture Bloomingville Remy est une pièce décorative et polyvalente qui allie design, confort et durabilité. Avec un imprimé différent sur chaque face, il offre deux styles en une seule pièce, vous permettant de renouveler facilement l'atmosphère de n'importe quel espace.\\n\\nSur le devant il présente un dessin eopz aux couleurs bleues sous rose et marron. Le revers, quant à lui, est décoré d'élégantes rayures bleues tissées qui confèrent un style plus dynamique et moderne. Chacun de ses coins est orné de pompons dans un ton bleu à l'image du poisson dessiné, un détail charmant qui ajoute de la texture et de la personnalité au design.\\n\\nFabriquée à partir de matériaux recyclés, cette couverture reflète un engagement envers une consommation plus responsable sans sacrifier la qualité ou le style. Sa texture douce et agréable au toucher en fait le compagnon idéal pour des moments douillets sur le canapé, au lit ou dans votre coin lecture préféré.\\n\\nIdéale pour ajouter de la chaleur, de la couleur et du caractère à la décoration de votre maison, la couverture Eviaya est à la fois un complément fonctionnel et un élément décoratif avec son propre charme.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 215,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ7668861",
+        "price": 25.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"fr\": {\"title\": \"Lustre Hatty en bleu et blanc\", \"description\": \"Fabriqué en grès, le candélabre Hatty se distingue par son design sobre mais avec un clin d'œil graphique. Ses traits bleus peints à la main sur la base neutre procurent une sensation de calme et d'équilibre. Grâce à ces détails colorés et simples, c'est une pièce décorative très adaptable à n'importe quel style d'intérieur. Comme il est décoré à la main, l'intensité et le ton des lignes peuvent varier légèrement.\\n\\nCaractéristiques du lustre Hatty :\\n\\nMatériel: Céramique\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ4321606",
+        "price": 30.0,
+        "currency": "EUR",
+        "quantity": 6,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"fr\": {\"title\": \"Candélabre EDIVA - Deux bougies\", \"description\": \"Le lustre Edivia de Bloomingville présente un design sculptural composé de branches ondulées et de saillies latérales. Sa peinture faite à la main intègre des tons violets, rouges et oranges dans un style dynamique et artistique. La couleur présentant de petites variations, chaque spécimen est unique.\\n\\nDétails du bougeoir :\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ8533522",
+        "price": 38.0,
+        "currency": "EUR",
+        "quantity": 5,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 6,
+    "translations": "{\"fr\": {\"title\": \"Vaisselle Complète - Palmeiras - Ollarus\", \"description\": \"Découvrez cette fantastique vaisselle artisanale de 18 pièces, composée d'assiettes de trois tailles différentes et réalisée par le studio portugais OLLARUS, à São Pedro do Corval, région de l'Alentejo (Portugal). Une zone étroitement liée à la tradition de la poterie portugaise.\\n\\nLa vaisselle comprend :\\n\\nLa vaisselle Palmeiras est émaillée en beige et décorée à la main de délicats motifs de palmiers et de lunes en vert. Son design évoque le calme et la simplicité, alliant la tradition céramique portugaise à une esthétique contemporaine au caractère méditerranéen marqué.\\n\\nFabriquée en céramique grès, c'est une vaisselle élégante, résistante et fonctionnelle, conçue aussi bien pour un usage quotidien que pour habiller une table spéciale. Ses trois tailles permettent d'utiliser les pièces pour des entrées, des desserts, des plats principaux ou des dîners, créant une composition harmonieuse pleine de personnalité.\\n\\nS'agissant d'une production artisanale et peinte à la main, chaque pièce peut présenter de légères variations de couleur, de forme et de finition, caractéristiques qui rendent chaque vaisselle unique.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 217,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ3423657",
+        "price": 330.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"fr\": {\"title\": \"Cactus en céramique - Décoration murale\", \"description\": \"Ce cactus décoratif en céramique, fabriqué à la main à Grottaglie, dans les Pouilles, est une pièce polyvalente conçue pour ajouter de la couleur et du caractère à n'importe quel espace. Au dos, il comprend une petite corde qui permet de l'accrocher facilement au mur, bien qu'il puisse également être placé sur une commode, une console ou une table d'appoint comme objet décoratif.\\n\\nDe par sa forme légèrement concave, il peut également servir de vide-poche, de plateau pour clés, bijoux ou autres petits objets du quotidien. Une pièce fonctionnelle et décorative qui laisse visibles les petites irrégularités du travail artisanal.\\n\\nIl est fabriqué à la main à Grottaglie, l'une des villes les plus étroitement liées à la tradition céramique italienne. Située dans les Pouilles, la ville conserve une forte identité artisanale dans laquelle cohabitent ateliers historiques, fours traditionnels, laboratoires et nouvelles générations de céramistes et d'artistes contemporains.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ1663431",
+        "price": 30.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"fr\": {\"title\": \"Saladier Saudade Bleu. 30 cm\", \"description\": \"Saladier fait main du studio OLLARUS, fabriqué au Portugal et appartenant à la collection SAUDADE AZUL. Modelé sur un tour de potier et peint à la main et des détails d'inspiration méditerranéenne claire qui combinent la tradition céramique portugaise avec une esthétique contemporaine.\\n\\nSon format de 30 cm le rend particulièrement polyvalent : idéal pour une salade ou utilisé comme pièce décorative – ou comme centre de table –. Chaque unité présente de légères variations dans le dessin et les coups de pinceau, typiques du travail manuel, ce qui fait de chaque assiette une pièce unique.\\n\\nFiche technique\\n\\nFonctionnalités en vedette\\n\\nRecommandations d'utilisation\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 212,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0218740",
+        "price": 40.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 5,
+    "translations": "{\"fr\": {\"title\": \"Plateau Saudade Bleu. 38 cm\", \"description\": \"Ce spectaculaire plateau en céramique est fabriqué et peint à la main. Il est parfait pour servir au centre de la table, comme saladier ou comme élément de décoration. Vous pouvez présenter un dessert, des entrées ou un centre de table à partager.\\n\\nChaque unité présente de subtiles variations typiques de sa fabrication manuelle, ce qui fait de chaque pièce un objet unique et irremplaçable.\\n\\nFiche technique\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0598039",
+        "price": 40.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"fr\": {\"title\": \"Bol de grenades. 16 cm\", \"description\": \"Bol fait main appartenant à la collection Romãs, réalisé sur un tour de potier et peint à la main dans l'atelier OLLARUS, à São Pedro do Corval, Portugal. Son format polyvalent et ses proportions équilibrées en font une pièce idéale pour servir des entrées, des petits accompagnements, des desserts ou des collations.\\n\\nFabriqué dans un moulin traditionnel portugais avec plus de 20 ans d'expérience, chaque bol présente de subtiles variations qui reflètent la valeur et l'authenticité du travail artisanal.\\n\\nFiche technique\\n\\nTechnique : Réalisé sur un tour de potier et peint à la main\\nOrigine : São Pedro do Corval, Portugal\\nFabrication : Olaria portugaise traditionnelle avec plus de 20 ans d'expérience\\nDiamètre : 16 cm\\nHauteur : 4 cm\\nUtilisation : Alimentaire / Décoratif\\n\\nCaractéristiques :\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 212,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0373664",
+        "price": 12.0,
+        "currency": "EUR",
+        "quantity": 3,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 1,
+    "translations": "{\"fr\": {\"title\": \"Assiette Saudade Sol 25,5 cm\", \"description\": \"Assiette de service artisanale du studio OLLARUS, fabriquée au Portugal et appartenant à la collection SAUDADE SOL COR. Modelé sur un tour de potier et peint à la main et des détails d'inspiration méditerranéenne claire qui combinent la tradition céramique portugaise avec une esthétique contemporaine.\\n\\nSon format de 25,5 cm le rend particulièrement polyvalent : idéal pour les entrées ou utilisé comme pièce décorative, soit comme centre de table, soit accroché au mur. Chaque unité présente de légères variations dans le dessin et les coups de pinceau, typiques du travail manuel, ce qui fait de chaque assiette une pièce unique.\\n\\nFiche technique\\n\\nFonctionnalités en vedette\\n\\nRecommandations d'utilisation\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ8337625",
+        "price": 20.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"fr\": {\"title\": \"Assiette Saudade Sol 20cm\", \"description\": \"Assiette de service artisanale du studio OLLARUS, fabriquée au Portugal et appartenant à la collection SAUDADE SOL COR. Modelé sur un tour de potier et peint à la main et des détails d'inspiration méditerranéenne claire qui combinent la tradition céramique portugaise avec une esthétique contemporaine.\\n\\nSon format de 20 cm le rend particulièrement polyvalent : idéal pour le dessert ou utilisé comme pièce décorative, soit comme centre de table, soit accroché au mur. Chaque unité présente de légères variations dans le dessin et les coups de pinceau, typiques du travail manuel, ce qui fait de chaque assiette une pièce unique.\\n\\nFiche technique\\n\\nFonctionnalités en vedette\\n\\nRecommandations d'utilisation\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0315963",
+        "price": 17.0,
+        "currency": "EUR",
+        "quantity": 6,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"fr\": {\"title\": \"Fontaine Saudade Sol - 28 cm\", \"description\": \"pièce un objet spécial aussi bien pour la table que pour la décoration.\\n\\nMesurant 28 cm de long x 17,5 cm de large, il est idéal pour présenter entrées, apéritifs, accompagnements ou petits plats au centre de la table. Il peut également être utilisé comme plat de cuisson, à condition que la finition et la pièce soient indiquées à cet effet, ou comme assiette décorative pour ajouter de la couleur et de la personnalité à n'importe quel espace.\\n\\nUne pièce polyvalente qui allie fonctionnalité, savoir-faire et langage graphique caractéristique du studio portugais OLLARUS.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ3939870",
+        "price": 30.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 6,
+    "translations": "{\"fr\": {\"title\": \"Cruche à eau Saudade bleue. 1,5l\", \"description\": \"Pichet fait main du studio portugais OLLARUS, fabriqué au Portugal et appartenant à la collection Saudade, une ligne qui récupère le bleu profond de la tradition céramique portugaise à travers des dessins simples et expressifs inspirés d'éléments méditerranéens tels que les citrons, les feuilles et les motifs végétaux.\\n\\nModelée sur un tour de potier et peinte à la main, la cruche combine un extérieur émaillé de couleur crème avec des détails bleu cobalt et un intérieur saisissant de couleur terre cuite, qui apporte contraste et personnalité à la pièce. Le nom Saudade, également peint à la main sur sa surface, renforce son lien avec la culture et la sensibilité portugaises.\\n\\nSa silhouette haute et généreuse, dotée d'une large poignée et d'un bec verseur, en fait une pièce aussi fonctionnelle que décorative. Il est parfait pour servir de l'eau, de la limonade ou d'autres boissons, mais il peut également être utilisé comme vase pour des fleurs ou des branches et comme élément décoratif sur des tables, des cuisines ou des projets de décoration d'intérieur.\\n\\nD'une capacité approximative de 1,8 à 2,1 litres, il est conçu aussi bien pour un usage quotidien que pour occuper une place de choix dans la maison.\\n\\nChaque unité présente de petites variations dans la forme, la ligne et l'émail, typiques de sa production manuelle, faisant de chaque pichet une pièce unique et irremplaçable.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 209,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ7239534",
+        "price": 33.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 9,
+    "translations": "{\"fr\": {\"title\": \"Saladier Grenade peint à la main 31cm\", \"description\": \"Dimensions :\\n\\nDiamètre : 31 cm\\n\\nHauteur : 8,5 cm\\n\\nPasse au lave-vaisselle et au micro-ondes.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ6517059",
+        "price": 34.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Verde agua"
+        }
+      },
+      {
+        "sku": "SQ6116846",
+        "price": 34.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Azul"
+        }
+      },
+      {
+        "sku": "SQ8336850",
+        "price": 34.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Rojo"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"fr\": {\"title\": \"Carafe à eau Granada 2 litres\", \"description\": \"Cette cruche de l'emblématique Fábrica Arrayanes récupère et conserve le design original de la céramique historique Fajalauza de Grenade. Chaque pièce est soigneusement peinte à la main, ce qui en fait une œuvre d'art unique et fonctionnelle.\\n\\nGrâce aux propriétés naturelles de la céramique, elle est parfaite pour maintenir l'eau ou vos boissons préférées à une température fraîche et saine de manière tout à fait naturelle.\\n\\nD'une contenance généreuse de 2 litres, c'est la pièce idéale aussi bien pour habiller votre table au quotidien que pour surprendre lors des grandes occasions. De plus, il s'adapte au rythme de vie actuel et passe au lave-vaisselle et au réfrigérateur.\\n\\nApportez un morceau de l'histoire et du design unique de Grenade à votre maison.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 209,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ7050983",
+        "price": 30.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Rosa"
+        }
+      },
+      {
+        "sku": "SQ6857539",
+        "price": 30.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Azul"
+        }
+      },
+      {
+        "sku": "SQ3797329",
+        "price": 30.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Verde agua"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"fr\": {\"title\": \"Bol - Repeint en Vert - Granada Ceramics\", \"description\": \"Un petit-déjeuner avec du granola, un gaspacho frais ou une soupe chaude en hiver... Ces bols sont le complément parfait à toute période de l'année. Conçues à Grenade par la Fábrica Arrayanes et peintes à la main, elles sont cette pièce de design exclusive qui illumine la routine quotidienne.\\n\\nPourquoi vas-tu les aimer ?\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 203,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ1845014",
+        "price": 15.0,
+        "currency": "EUR",
+        "quantity": 5,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"fr\": {\"title\": \"Salière et sucrier de Fajaluza, Grenade\", \"description\": \"Cette pièce spéciale est originale de la Fábrica de Arrayanes de Granada, Espagne. Il est peint à la main sur de l'argile, il est idéal pour maintenir le sucre ou le sel à bonne température. Ses dimensions sont de 11 x 15 centimètres, parfaites pour ranger et servir de manière confortable et élégante.\\n\\nDisponible en rose et bleu, alliant savoir-faire artisanal avec touches de couleur et de design.\\n\\nParfait pour un usage quotidien ou pour des occasions spéciales.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 207,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ6919669",
+        "price": 20.0,
+        "currency": "EUR",
+        "quantity": 2,
+        "attributes": {
+          "Color": "Rosa"
+        }
+      },
+      {
+        "sku": "SQ8134949",
+        "price": 18.0,
+        "currency": "EUR",
+        "quantity": 2,
+        "attributes": {
+          "Color": "Azul"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 5,
+    "translations": "{\"fr\": {\"title\": \"Assiette Plate - Vert Repeint - Céramique Granada - 23cm\", \"description\": \"Une pièce polyvalente et pleine de caractère, parfaite pour servir des entrées, des plats principaux, des desserts ou des petites compositions de table. Cette assiette appartient à la collection artisanale de la Fábrica de los Arrayanes, où chaque unité est décorée à la main selon des techniques traditionnelles.\\n\\nActuellement, ce modèle est disponible exclusivement en vert, un ton frais et très représentatif de la céramique de Grenade, qui met en valeur le motif végétal et ajoute de la personnalité à la table.\\n\\nSa décoration peinte à la main fait que chaque assiette présente de légères variations dans la ligne et la finition, faisant de chaque pièce un objet unique. Une proposition qui allie fonctionnalité, tradition et charme de la céramique artisanale du sud de l'Espagne.\\n\\nPasse au micro-ondes : Oui\\nPasse au lave-vaisselle : Oui\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ3467733",
+        "price": 12.0,
+        "currency": "EUR",
+        "quantity": 8,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 7,
+    "translations": "{\"fr\": {\"title\": \"Ensemble de 2 grandes assiettes creuses - Repeintes - Céramique de Grenade\", \"description\": \"Apportez la tradition de la céramique de Grenade à votre table avec cet ensemble de 2 assiettes creuses grand format de la Fábrica Arrayanes, fabriquées à la main selon la technique séculaire de Fajalauza.\\n\\nAvec leurs 29 cm de diamètre, ces assiettes sont conçues pour présenter des pâtes, du riz, des salades ou des plats principaux avec une présence spectaculaire. Sa grande taille et sa décoration peinte à la main font de chaque pièce un objet fonctionnel et, en même temps, une authentique pièce d'artisanat.\\n\\nDisponible dans une gamme vibrante de rouge, jaune et vert, vous pouvez combiner deux couleurs identiques ou différentes et créer votre propre paire. Fabriquée et décorée à la main, chaque assiette présente de petites variations de ligne, de couleur et de finition qui rendent chaque unité unique.\\n\\nLot de 2 en promotion spéciale : à l'achat de deux assiettes, chaque unité coûte 20 €, le set complet a donc un prix promotionnel de 40 €.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 217,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ5958698",
+        "price": 20.0,
+        "currency": "EUR",
+        "quantity": 3,
+        "attributes": {
+          "Color": "Verde agua"
+        }
+      },
+      {
+        "sku": "SQ2939077",
+        "price": 20.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {
+          "Color": "Rojo"
+        }
+      },
+      {
+        "sku": "SQ8657034",
+        "price": 20.0,
+        "currency": "EUR",
+        "quantity": 8,
+        "attributes": {
+          "Color": "Amarillo"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"fr\": {\"title\": \"Bol fait à la main - Design à rayures orange\", \"description\": \"Ce bol de 16 cm est une pièce emblématique de l'atelier Ollarus, où la tradition potière rencontre un design contemporain et chaleureux. Chaque pièce est unique, reflétant le travail manuel et le soin apporté aux détails que seul le travail artisanal peut offrir.\\n\\nPrincipales caractéristiques :\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ1622032",
+        "price": 8.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"fr\": {\"title\": \"Pichet à Eau - Blanc & Noir\", \"description\": \"Pichet à eau en céramique du studio de design Ollarus. Efficace pour conserver l'eau à température ambiante. Motif croix noire au centre de la cruche.\\n\\nDimensions : (P) -13,00 cm (L) -20,50 cm\\n\\nCapacité : 1,2 L\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 209,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0322061",
+        "price": 35.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"fr\": {\"title\": \"Plateau rectangulaire - Repeint Vert - Céramique Granada - 34cm\", \"description\": \"Découvrez cette rabanera entièrement artisanale fabriquée en Espagne.  Un design rectangulaire idéal pour présenter au centre d'une table, en décoration ou profiter d'une assiette design pour votre cuisine.\\n\\nModelé sur un tour de potier et peint à la main, il présente un motif au centre et des détails d'inspiration méditerranéenne claire qui combine la tradition céramique espagnole avec une esthétique contemporaine.\\n\\nSon format le rend particulièrement polyvalent : idéal pour servir au centre de la table, présenter des plats à partager ou comme objet de décoration.  Chaque unité présente de légères variations dans le dessin et les coups de pinceau, typiques du travail manuel, ce qui fait de chaque assiette une pièce unique.\\n\\nFiche technique\\n\\nRecommandations d'utilisation\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 203,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ2402792",
+        "price": 22.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"fr\": {\"title\": \"Assiette à dessert Palmeira. 18,50 cm.\", \"description\": \"Assiette artisanale du studio Ollarus, fabriquée au Portugal, appartenant à la collection Romãs. Fabriquée sur un tour de potier et peinte à la main, cette pièce allie la tradition céramique portugaise à une esthétique méditerranéenne contemporaine.\\n\\nPolyvalent et fonctionnel : son format est idéal comme assiette d'appoint pour les desserts, les apéritifs ou les petites présentations, apportant un accent décoratif et artisanal à la table. Chaque pièce présente de légères variations de pinceau et de finition qui reflètent le caractère unique du processus manuel.\\n\\nFiche technique\\n\\nFonctionnalités en vedette\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ9635009",
+        "price": 15.0,
+        "currency": "EUR",
+        "quantity": 6,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"fr\": {\"title\": \"Assiette plate moyenne Palmeira. 25,5 cm\", \"description\": \"Assiette de service faite à la main du studio OLLARUS, fabriquée au Portugal et appartenant à la collection Palmeiras. Modelé sur un tour de potier et peint à la main, il présente un motif de palmier au centre en bleu vert et des détails d'inspiration méditerranéenne claire qui allient la tradition céramique portugaise à une esthétique contemporaine.\\n\\nSon format moyen (diamètre 25,50 cm) le rend particulièrement polyvalent : idéal pour les entrées ou utilisé comme pièce décorative, comme centre de table ou accroché au mur. Chaque unité présente de légères variations dans le dessin et les coups de pinceau, typiques du travail manuel, ce qui fait de chaque assiette une pièce unique.\\n\\nFiche technique\\n\\nFonctionnalités en vedette\\n\\nRecommandations d'utilisation\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0301017",
+        "price": 23.0,
+        "currency": "EUR",
+        "quantity": 6,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"fr\": {\"title\": \"Grande assiette à dîner Palmeiras. 30 cm\", \"description\": \"Assiette de service artisanale — Collection Palmeiras (OLLARUS Studio)\\n\\nAssiette de service faite à la main du studio OLLARUS, fabriquée au Portugal et appartenant à la collection Palmeiras. Modelé sur un tour de potier et peint à la main, il présente un motif de palmier au centre en bleu vert et des détails d'inspiration méditerranéenne claire qui allient la tradition céramique portugaise à une esthétique contemporaine.\\n\\nSon grand format (diamètre 30 cm) le rend particulièrement polyvalent : idéal pour servir sur la table, présenter des plats à partager ou comme objet de décoration, en centre de table ou accroché au mur. Chaque unité présente de légères variations dans le dessin et les coups de pinceau, typiques du travail manuel, ce qui fait de chaque assiette une pièce unique.\\n\\nFiche technique\\n\\nFonctionnalités en vedette\\n\\nRecommandations d'utilisation\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ4166761",
+        "price": 30.0,
+        "currency": "EUR",
+        "quantity": 6,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"fr\": {\"title\": \"Lot de 6 assiettes - Palmeiras - Ollarus\", \"description\": \"Cette vaisselle peinte et fabriquée à la main se compose de 3 assiettes plates : principale, seconde et dessert. Vaisselle idéale pour la vie quotidienne avec style et art.\\n\\nFiche technique\\n\\nTechnique : Réalisé sur un tour de potier et peint à la main\\n\\nDiamètre :\\n\\nUtilisation : Alimentation / Service / Décoratif\\n\\nMatériau : céramique émaillée faite à la main.\\n\\nStudio: OLLARUS\\n\\nOrigine : Fabriqué au Portugal\\n\\nFonctionnalités en vedette\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 217,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ6757335",
+        "price": 140.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {
+          "Comensales": "Vajilla para 2"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"fr\": {\"title\": \"Pot à Huile en Céramique Grenadine Peint à la Main – 1L\", \"description\": \"Conservez et servez votre huile avec l’authenticité de la poterie traditionnelle. Ce pot à huile en céramique, peint à la main à Grenade, n'est pas seulement un ustensile fonctionnel, mais une pièce d'artisanat unique idéale à mettre en valeur dans votre cuisine ou votre table grâce à ses magnifiques motifs floraux traditionnels.\\n\\nSpécialement conçu pour l'utilisation d'huile brute, il dispose d'un distributeur pratique qui vous permet de distribuer la bonne quantité de manière confortable, propre et simple. Étant fabriqué en céramique, il protège l'huile de la lumière, préservant intactes toutes ses propriétés et sa saveur.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 207,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ6657755",
+        "price": 22.5,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Verde agua"
+        }
+      },
+      {
+        "sku": "SQ5099568",
+        "price": 20.5,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Azul"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"fr\": {\"title\": \"Bol de grenades. 13,5 cm\", \"description\": \"Bol fait main appartenant à la collection Romãs, réalisé sur un tour de potier et peint à la main dans l'atelier OLLARUS, à São Pedro do Corval, Portugal. Son format polyvalent et ses proportions équilibrées en font une pièce idéale pour servir des entrées, des petits accompagnements, des desserts ou des collations.\\n\\nFabriqué dans un moulin traditionnel portugais avec plus de 20 ans d'expérience, chaque bol présente de subtiles variations qui reflètent la valeur et l'authenticité du travail artisanal.\\n\\nFiche technique\\n\\nTechnique : Réalisé sur un tour de potier et peint à la main\\nOrigine : São Pedro do Corval, Portugal\\nFabrication : Olaria portugaise traditionnelle avec plus de 20 ans d'expérience\\nDiamètre : 13,5 cm\\nHauteur : 4 cm\\nUtilisation : Alimentaire / Décoratif\\n\\nCaractéristiques :\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 212,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0699747",
+        "price": 7.0,
+        "currency": "EUR",
+        "quantity": 2,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"fr\": {\"title\": \"Assiette plate de grenades. 30 cm\", \"description\": \"Assiette de service fabriquée à la main — Collection Romãs (OLLARUS Studio)\\n\\nAssiette de service artisanale du studio OLLARUS, fabriquée au Portugal et appartenant à la collection Romãs. Modelé sur un tour de potier et peint à la main, il présente un motif de grenades rouges et de feuilles vertes d'inspiration méditerranéenne claire qui allie la tradition céramique portugaise à une esthétique contemporaine.\\n\\nSon grand format (diamètre 30 cm) le rend particulièrement polyvalent : idéal pour servir sur la table, présenter des plats à partager ou comme objet de décoration, en centre de table ou accroché au mur. Chaque unité présente de légères variations dans le dessin et les coups de pinceau, typiques du travail manuel, ce qui fait de chaque assiette une pièce unique.\\n\\nFiche technique\\n\\nFonctionnalités en vedette\\n\\nRecommandations d'utilisation\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ5665462",
+        "price": 30.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"fr\": {\"title\": \"Candélabre fixe - céramique verte\", \"description\": \"Le lustre Bloomingville Fija est le complément parfait pour apporter chaleur et style à n'importe quel coin de la maison. Sa forme caractéristique et son élégant émail vert vif lui confèrent une personnalité unique, ce qui en fait une pièce décorative qui se démarque aussi bien à l'intérieur qu'à l'extérieur.\\n\\nIdéal pour créer des ambiances cosy, le bougeoir Fija est particulièrement joli sur le rebord d'une fenêtre, parmi les plantes d'intérieur et les bouquets de fleurs, où sa finition émaillée reflète subtilement la lumière naturelle. Il est également parfait pour décorer des étagères, des tables d'appoint ou des centres de table, en ajoutant une touche de couleur et de sophistication.\\n\\nUne pièce polyvalente qui allie fonctionnalité et design, conçue pour ceux qui souhaitent incorporer de petits détails avec charme et caractère dans leur décoration.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ6637426",
+        "price": 16.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 5,
+    "translations": "{\"fr\": {\"title\": \"Couverture Eviaya aux tons bleus en coton recyclé\", \"description\": \"La couverture Eviaya de Bloomingville est une pièce décorative et polyvalente qui allie design, confort et durabilité. Avec un imprimé différent sur chaque face, il offre deux styles en une seule pièce, vous permettant de renouveler facilement l'atmosphère de n'importe quel espace.\\n\\nSur le devant, il présente un motif délicat dans les tons bleus et rouges qui crée un contraste harmonieux et attrayant. Le revers, quant à lui, est orné d'élégantes rayures rouges tissées qui confèrent un style plus dynamique et moderne. Chacun de ses coins est orné de pompons de ton jaunâtre, un détail charmant qui ajoute de la texture et de la personnalité au design.\\n\\nFabriquée à partir de matériaux recyclés, cette couverture reflète un engagement envers une consommation plus responsable sans sacrifier la qualité ou le style. Sa texture douce et agréable au toucher en fait le compagnon idéal pour des moments douillets sur le canapé, au lit ou dans votre coin lecture préféré.\\n\\nIdéale pour ajouter de la chaleur, de la couleur et du caractère à la décoration de votre maison, la couverture Eviaya est à la fois un complément fonctionnel et un élément décoratif avec son propre charme.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 215,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ9563836",
+        "price": 25.0,
+        "currency": "EUR",
+        "quantity": 5,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 6,
+    "translations": "{\"fr\": {\"title\": \"Ensemble de deux tasses en céramique de Bolivie\", \"description\": \"Le mug Bloomingville Bolivia, présenté dans un ensemble de deux pièces, se distingue par sa finition émaillée réactive et ses détails peints à la main, lui conférant un caractère authentique.\\n\\nSon design combine des blocs d'un ton bleu marine intense avec de douces nuances beiges et roses, formant un élégant motif géométrique qui équilibre force et délicatesse.\\n\\nGrâce au processus de glaçage et de peinture manuelle, de légères variations dans le motif et l'intensité des couleurs peuvent se produire, rendant chaque tasse unique.\\n\\nParfaites pour un usage quotidien ou pour compléter une table élégante, les tasses Bolivia allient fonctionnalité et design dans une proposition polyvalente pleine de personnalité.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 201,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ9814712",
+        "price": 30.0,
+        "currency": "EUR",
+        "quantity": 2,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"fr\": {\"title\": \"Coffret 2 Tasses Heikki\", \"description\": \"Notre lot de 2 tasses Heikki de Bloomingville est une pièce qui allie design, qualité et chaleur dans les moindres détails, devenant le complément idéal à votre collection de vaisselle. Son élégant vernis vert apporte fraîcheur et naturel, tandis que le délicat motif en relief dans une teinte beige ajoute de la texture et de la profondeur visuelle, créant un contraste subtil et harmonieux qui ne passe pas inaperçu.\\n\\nConçue pour transformer vos moments quotidiens en expériences spéciales, la tasse Heikki est parfaite pour savourer votre café du matin, un thé relaxant l'après-midi ou toute boisson chaude pour accompagner vos pauses de la journée. Son esthétique cosy en fait une pièce décorative à part entière, idéale aussi bien pour un usage quotidien que pour surprendre vos invités lors de réunions et d'occasions spéciales.\\n\\nVous pouvez combiner cet ensemble de deux tasses avec d'autres designs pour créer une table dynamique et pleine de personnalité, ou conserver une ligne uniforme en incorporant plus de pièces de la même collection pour obtenir un style cohérent et élégant. Grâce à sa fabrication artisanale et à la nature de la glaçure réactive, chaque mug présente de légères variations de couleur et de finition, ce qui en fait une pièce unique avec son propre caractère.\\n\\nLe mug Heikki n'est pas seulement un accessoire fonctionnel, mais une expression de style qui apporte charme et authenticité à votre intérieur.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 201,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ1320068",
+        "price": 24.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 5,
+    "translations": "{\"fr\": {\"title\": \"Bougeoir en céramique Bloomingville Kairi\", \"description\": \"Le bougeoir Kairi de Bloomingville est peint à la main et plein de couleurs, conçu pour ajouter du charme à votre décoration. Avec ses motifs saisissants et ses couleurs vives, il deviendra un élément distinctif dans n'importe quelle pièce. Placez ce bougeoir sur une étagère, une table à manger ou un rebord de fenêtre pour créer une atmosphère chaleureuse. Les détails peints à la main rendent chaque bougeoir unique, garantissant qu'il n'y en a pas deux identiques.\\n\\nDimensions Diamètre9xHauteur23 cm\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0200915",
+        "price": 34.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {
+          "unidades": "Unidad"
+        }
+      },
+      {
+        "sku": "SQ8810073",
+        "price": 60.0,
+        "currency": "EUR",
+        "quantity": 2,
+        "attributes": {
+          "unidades": "Pareja"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"fr\": {\"title\": \"Vase Graphica en bleu par Bloomingville\", \"description\": \"Le vase Graphica de Bloomingville allie design contemporain et savoir-faire dans une pièce en grès de grand caractère. Son style graphique et moderne en fait un élément décoratif accrocheur, tandis que le motif bleu peint à la main ajoute une touche artistique et personnelle. De petites variations de couleur et de design rendent chaque vase unique, reflétant le savoir-faire qui le distingue.\\n\\nGrâce à sa polyvalence, vous pouvez l'utiliser pour exposer vos fleurs préférées ou simplement le placer sur une étagère, une table ou un rebord de fenêtre comme détail décoratif qui ajoute du style et de la personnalité à n'importe quel espace. Une pièce qui allie fonctionnalité et esthétique, parfaite pour ceux qui cherchent à donner une touche moderne et élégante à leur maison.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 210,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ5317738",
+        "price": 50.0,
+        "currency": "EUR",
+        "quantity": 2,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"fr\": {\"title\": \"Vase Fian Orange Rayé\", \"description\": \"Le vase Fian de Bloomingville allie élégance et savoir-faire dans une pièce en céramique soigneusement conçue. Son corps arrondi et son col étroit lui confèrent une silhouette équilibrée et sophistiquée, tandis que sa finition dolomite brillante rehausse la richesse de ses couleurs.\\n\\nLes rayures verticales dans les tons orange et blanc cassé apportent du dynamisme et une touche contemporaine, créant un effet visuel attrayant sous tous les angles. Chaque détail est peint à la main, de légères variations dans le motif et l'intensité des couleurs peuvent donc apparaître, faisant de chaque vase une œuvre unique, pleine de caractère et de personnalité. Parfait à la fois comme élément décoratif pour n’importe quel espace et pour compléter les compositions florales avec style.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 210,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ1632794",
+        "price": 12.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"fr\": {\"title\": \"Pichet à eau Lisver. 1l\", \"description\": \"Pichet fait main de la collection Lisver — Estudio OLLARUS\\n\\nPichet artisanal du studio OLLARUS, fabriqué au Portugal et faisant partie de la collection Lisvers, qui récupère la couleur bleue dans ses rayures. Modelée sur un tour de potier et peinte à la main, cette pièce fusionne la tradition céramique portugaise avec un langage décoratif contemporain.\\n\\nSa silhouette généreuse et son caractère sculptural en font un objet polyvalent : parfait pour servir de l'eau et d'autres boissons, et en même temps adapté comme élément décoratif sur les tables et les projets de décoration d'intérieur. D'une contenance approximative comprise entre 1,8 et 2,1 litres, il répond à un usage aussi bien fonctionnel qu'ornemental.\\n\\nChaque unité présente de subtiles variations typiques de sa fabrication manuelle, ce qui fait de chaque pièce un objet unique et irremplaçable.\\n\\nFiche technique\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 209,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ9393287",
+        "price": 35.0,
+        "currency": "EUR",
+        "quantity": 2,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 5,
+    "translations": "{\"fr\": {\"title\": \"Coupe à fruits sur pied Bob, style Ibiza\", \"description\": \"Ce bol à fruits est parfait pour se transformer en un joli centre de table ou en une pièce décorative avec beaucoup de personnalité. De plus, il est très utile pour garder le garde-manger organisé.\\n\\nCapacité: 1200 ml\\n\\nLe bol à fruits Bob de Bloomingville est fabriqué en grès et présente une délicate finition peinte à la main dans des tons rose, jaune et bleu, qui ajoute de la fraîcheur et de la personnalité à la pièce. Son design avec une base surélevée lui confère non seulement de la hauteur et de la prestance, mais renforce également son caractère décoratif et décontracté. Idéale à la fois pour une utilisation fonctionnelle et pour l’affichage, cette assiette allie savoir-faire et design contemporain. Les subtiles variations de couleurs et de coups de peinture reflètent le travail manuel et font de chaque pièce un objet unique.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ2715825",
+        "price": 73.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 6,
+    "translations": "{\"fr\": {\"title\": \"Pichet à eau Fauni, en jaune et grès\", \"description\": \"La cruche Fauni de Creative Collection est réalisée en grès et se distingue par sa décoration soignée de feuilles peintes à la main dans des tons jaunes chauds, qui ajoutent luminosité et personnalité à la pièce. Son design haut et stylisé, ainsi que ses coups de pinceau visibles, créent une esthétique artistique pleine de mouvement. De légères variations dans le motif et l'intensité des couleurs reflètent le savoir-faire artisanal et font de chaque pichet une pièce unique.\\n\\nDétails\\n\\nDimensions Diamètre12,5xHauteur20,5 cm\\n\\nCapacité 2165 ml\\n\\nCouleur Jaune\\n\\nStyle Botanique\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 209,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ4026118",
+        "price": 35.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"fr\": {\"title\": \"Vase Bashir en grès bleu\", \"description\": \"Le vase Bashir de Bloomingville, réalisé en grès, se distingue par son design sculptural et équilibré, avec des lignes étroites en haut et en bas qui s'élargissent doucement au centre. Sa finition en émail bleu vif à effet ciré s'associe à de délicats motifs ovales beiges. De légères variations de couleur et de motif ajoutent du caractère.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 210,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ2141779",
+        "price": 27.0,
+        "currency": "EUR",
+        "quantity": 3,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 7,
+    "translations": "{\"fr\": {\"title\": \"Assiette Plate - Vert Repeint - Céramique Granada - 26cm\", \"description\": \"Idéale pour les plats principaux et les présentations élégantes, cette assiette fait partie de la vaisselle artisanale de la Fábrica de los Arrayanes, où chaque pièce est peinte à la main avec des pigments d'origine naturelle.\\n\\nActuellement, ce modèle est disponible exclusivement en vert, un ton intense et plein de caractère qui met en valeur les motifs traditionnels inspirés de Grenade.\\n\\nSes formes et sa décoration évoquent la lumière, l'artisanat et la tradition céramique du sud de l'Espagne. Une pièce avec une grande présence sur la table, qui allie histoire, travail manuel et unicité dans chaque trait.\\n\\nPasse au micro-ondes : Oui\\nPasse au lave-vaisselle : Oui\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ7224048",
+        "price": 15.0,
+        "currency": "EUR",
+        "quantity": 10,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 7,
+    "translations": "{\"fr\": {\"title\": \"Assiette Plate - Vert Repeint - Céramique Granada - 20cm\", \"description\": \"Conception repeinte\\n\\nIdéal pour les entrées et les premiers plats. Cette vaisselle complète est la présentation idéale, élégante et colorée, qui fait partie de la vaisselle artisanale de la Fábrica de los Arrayanes, où chaque pièce est peinte à la main avec des colorants 100% naturels.\\n\\nSes couleurs vibrantes et ses designs inspirés de la tradition grenadine évoquent la lumière et l'art du sud de l'Espagne. Une pièce avec une grande présence sur la table, qui allie histoire, savoir-faire et exclusivité dans chaque trait.\\n\\nPasse au micro-ondes : oui\\nPasse au lave-vaisselle : oui\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ7966312",
+        "price": 10.0,
+        "currency": "EUR",
+        "quantity": 15,
+        "attributes": {
+          "Color": "Verde agua"
+        }
+      },
+      {
+        "sku": "SQ7875760",
+        "price": 10.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {
+          "Color": "Amarillo"
+        }
+      },
+      {
+        "sku": "SQ5720223",
+        "price": 10.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {
+          "Color": "Rojo"
+        }
+      },
+      {
+        "sku": "SQ3240685",
+        "price": 10.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {
+          "Color": "Azul"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 10,
+    "translations": "{\"fr\": {\"title\": \"Grande Assiette Creuse - Repeinte - Céramique Granada - 29cm\", \"description\": \"Conception repeinte\\n\\nChaque pièce est une œuvre unique, soigneusement réalisée par des artisans de Grenade. D'un diamètre de 29 cm, cette assiette allie beauté et fonctionnalité, idéale pour servir des pâtes, des salades, des soupes ou des crèmes.\\n\\nSes couleurs vibrantes et ses designs inspirés de la tradition de l'école des Myrtes évoquent l'essence du sud de l'Espagne. Un plat avec une grande présence sur la table, qui unit histoire, art et exclusivité à chaque coup.\\n\\nModelage : l'argile prend forme au tour ou à l'aide de moules fabriqués à la main.\\nSéchage et première cuisson : une fois sèches, les pièces sont soumises à la première cuisson (biscuit).\\nDécoration et émaillage : nous appliquons des pigments naturels et des motifs inspirés de notre tradition ancestrale.\\nCuisson finale : le feu scelle les couleurs et donne une finition parfaite.\\n\\nMicro-ondes : oui\\n\\nFour : non\\n\\nLave-vaisselle : oui\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ1279217",
+        "price": 36.0,
+        "currency": "EUR",
+        "quantity": 3,
+        "attributes": {
+          "Color": "Verde Agua"
+        }
+      },
+      {
+        "sku": "SQ2634827",
+        "price": 36.0,
+        "currency": "EUR",
+        "quantity": 3,
+        "attributes": {
+          "Color": "Mostaza"
+        }
+      },
+      {
+        "sku": "SQ8901357",
+        "price": 32.0,
+        "currency": "EUR",
+        "quantity": 3,
+        "attributes": {
+          "Color": "Rojo"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"fr\": {\"title\": \"Assiette Creuse Concave - Repeinte - Céramique Granada - 20cm\", \"description\": \"Assiettes appartenant à la collection répétitive de céramiques de Los Arrayanes. Élégante et fonctionnelle, cette assiette creuse concave de 20 cm de diamètre appartient à la collection artisanale de la Fábrica de los Arrayanes. Chaque pièce est modelée et peinte à la main avec des colorants 100% naturels, ce qui garantit son authenticité et fait de chaque assiette une création unique.\\n\\nSa forme concave le rend parfait pour les soupes, les crèmes, les pâtes ou les ragoûts, offrant une présentation impeccable et mettant en valeur la couleur et la texture de chaque recette.\\n\\nLes couleurs vives et les motifs inspirés de l'école grenadine de Los Arrayanes évoquent l'essence lumineuse du sud de l'Espagne. Une pièce de caractère, d'histoire et d'élégance artisanale, idéale pour ceux qui apprécient la céramique traditionnelle avec une touche contemporaine.\\n\\nPasse au micro-ondes : ✅\\nPasse au lave-vaisselle : ✅\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ2800581",
+        "price": 15.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Amarillo"
+        }
+      },
+      {
+        "sku": "SQ4321494",
+        "price": 15.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {
+          "Color": "Verde agua"
+        }
+      },
+      {
+        "sku": "SQ3413158",
+        "price": 15.0,
+        "currency": "EUR",
+        "quantity": 2,
+        "attributes": {
+          "Color": "Rojo"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 8,
+    "translations": "{\"fr\": {\"title\": \"Assiette à dessert - Repeinte - Grenade Céramique - 15cm\", \"description\": \"Conception repeinte\\n\\nL'assiette à dessert repeinte d'un diamètre de 15 cm est une pièce artisanale qui rend hommage à la céramique de Grenade, une tradition enracinée dans la culture nasride entre le XIIe et le XVe siècle. Des formes élégantes, des émaux vibrants et des techniques ancestrales comme la corde sèche ou la repeinture définissent ce style unique, né de la fusion entre l'art andalou et l'héritage chrétien.\\n\\nChez Cerámica Los Arrayanes, nous maintenons cette essence vivante, en fabriquant chaque plat à la main avec de l'argile naturelle, des pigments minéraux et un processus qui respecte les méthodes traditionnelles. Le design Repintado, avec ses lignes courbes et ses couleurs intenses, évoque la lumière, l'architecture et l'art raffiné du sud de l'Espagne.\\n\\nParfaite pour les desserts, les apéritifs, le café et le pain, cette assiette allie beauté, histoire et fonctionnalité. Sa finition émaillée rehausse non seulement les tons et la brillance caractéristiques de la céramique Granada, mais garantit également une grande durabilité.\\n\\nProcessus artisanal :\\n\\nModelage : l'argile prend forme au tour ou à l'aide de moules faits main.\\n\\nSéchage et première cuisson : les pièces sont bisquées pour acquérir de la résistance.\\n\\nDécoration et glaçage : des pigments naturels inspirés des motifs traditionnels des Myrtes sont appliqués.\\n\\nCuisson finale : le feu fixe les couleurs et apporte une finition brillante et durable.\\n\\nPasse au micro-ondes : Oui\\n\\nPasse au lave-vaisselle : Oui\\n\\nUne pièce pleine d'histoire, d'âme et de caractère, idéale pour ceux qui cherchent à remplir leur table d'art et de tradition andalouse.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ2000168",
+        "price": 6.0,
+        "currency": "EUR",
+        "quantity": 7,
+        "attributes": {
+          "Color": "Verde agua"
+        }
+      },
+      {
+        "sku": "SQ8846422",
+        "price": 6.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {
+          "Color": "Amarillo"
+        }
+      },
+      {
+        "sku": "SQ2564524",
+        "price": 6.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {
+          "Color": "Azul"
+        }
+      },
+      {
+        "sku": "SQ8747773",
+        "price": 6.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Rosa"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 7,
+    "translations": "{\"fr\": {\"title\": \"Assiette à dessert - Filo et Grenade - Grenade Céramique - 15cm\", \"description\": \"Conception de filo et de grenade\\n\\nL'assiette à dessert Filo et Granada d'un diamètre de 15 cm est une pièce artisanale qui rend hommage à la céramique de Grenade, une tradition enracinée dans la culture nasride entre le XIIe et le XVe siècle. Des formes élégantes, des émaux vibrants et des techniques ancestrales comme la corde sèche ou la repeinture définissent ce style unique, né de la fusion entre l'art andalou et l'héritage chrétien.\\n\\nChez Cerámica Los Arrayanes, nous maintenons cette essence vivante, en fabriquant chaque plat à la main avec de l'argile naturelle, des pigments minéraux et un processus qui respecte les méthodes traditionnelles. Le design Filo et Granada, avec ses traits délicats et ses couleurs intenses, évoque la lumière, l'architecture et l'art raffiné du sud de l'Espagne.\\n\\nParfaite pour les desserts, les apéritifs, le café et le pain, cette assiette allie beauté, histoire et fonctionnalité. Sa finition émaillée rehausse non seulement les tons et la brillance caractéristiques de la céramique Granada, mais garantit également une grande durabilité.\\n\\nProcessus artisanal :\\n\\nModelage : l'argile prend forme au tour ou à l'aide de moules faits main.\\n\\nSéchage et première cuisson : les pièces sont bisquées pour acquérir de la résistance.\\n\\nDécoration et glaçage : des pigments naturels inspirés des motifs traditionnels des Myrtes sont appliqués.\\n\\nCuisson finale : le feu fixe les couleurs et apporte une finition brillante et durable.\\n\\nPasse au micro-ondes : Oui\\n\\nPasse au lave-vaisselle : Oui\\n\\nUne pièce pleine d'histoire, d'âme et de caractère, idéale pour ceux qui cherchent à remplir leur table d'art et de tradition andalouse.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ3602228",
+        "price": 4.5,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Rojo"
+        }
+      },
+      {
+        "sku": "SQ3678437",
+        "price": 4.5,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Verde agua"
+        }
+      },
+      {
+        "sku": "SQ8243256",
+        "price": 4.5,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Amarillo"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"fr\": {\"title\": \"Grand saladier en trois couleurs - Filo et Granada - Granada Ceramics - 31cm\", \"description\": \"Dimensions :\\n\\nDiamètre : 31 cm\\n\\nHauteur : 8 cm\\n\\nPasse au lave-vaisselle et au micro-ondes.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 212,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ4506171",
+        "price": 34.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Azul"
+        }
+      },
+      {
+        "sku": "SQ7947096",
+        "price": 34.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Amarillo"
+        }
+      },
+      {
+        "sku": "SQ2630711",
+        "price": 34.0,
+        "currency": "EUR",
+        "quantity": 5,
+        "attributes": {
+          "Color": "Rojo"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 5,
+    "translations": "{\"fr\": {\"title\": \"Vaisselle Complète - Repeint Vert - Céramique Granada\", \"description\": \"Nous avons la vaisselle parfaite pour votre maison, les assiettes et plats en céramique de l'usine Arrayanes vous offrent de la couleur et du savoir-faire dans votre maison, habillez votre table comme jamais auparavant.\\n\\nNous vous proposons un set de vaisselle pour 6 personnes avec trois pièces par personne et une assiette de la taille d'un saladier pour le centre. Au total, un service de table de 19 pièces de haute qualité.\\n\\n*LIVRAISON GRATUITE pour ce produit en appliquant le code d'achat : FREE75\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 217,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ1215859",
+        "price": 325.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 8,
+    "translations": "{\"fr\": {\"title\": \"Vaisselle Neri 18 pièces au subtil relief noir\", \"description\": \"Découvrez cette fantastique vaisselle composée de 18 pièces d'assiettes de trois tailles différentes.\\n\\nL'assiette Neri est réalisée en grès noir et se distingue par son design minimaliste au style nordique marqué. Sa forme classique est rehaussée de détails subtils qui ajoutent une touche décorative au design monochrome. Grâce à sa taille, il est parfait comme plat principal ou plat de dîner, alliant fonctionnalité et esthétique en une seule pièce.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 217,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ3498264",
+        "price": 277.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 6,
+    "translations": "{\"fr\": {\"title\": \"Assiette Noire - Neri au subtil relief - 29cm\", \"description\": \"L'assiette Neri est réalisée en grès noir et se distingue par son design minimaliste au style nordique marqué. Sa forme classique est rehaussée de détails subtils qui ajoutent une touche décorative au design monochrome. Grâce à sa taille, il est parfait comme plat principal ou plat de dîner, alliant fonctionnalité et esthétique en une seule pièce.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ5342927",
+        "price": 20.0,
+        "currency": "EUR",
+        "quantity": 6,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 8,
+    "translations": "{\"fr\": {\"title\": \"Assiette Noire - Neri au subtil relief - 23cm\", \"description\": \"Assiette Neri Noire – Moyenne\\n\\nL'Assiette Neri se distingue par son design minimaliste et son style nordique, alliant élégance et fonctionnalité dans une pièce en grès noir à la finition impeccable. Sa forme classique est rehaussée de subtils détails décoratifs qui ajoutent une touche sophistiquée au design monochrome.\\n\\nGrâce à son format pratique, elle est parfaite comme assiette pour le déjeuner ou les repas légers. De plus, il passe au lave-vaisselle, ce qui facilite son utilisation au quotidien sans perdre son charme.\\n\\nUne assiette moderne, élégante et fonctionnelle qui apporte le style scandinave à votre table.\\n\\nMatériel: Grès\\nCouleur: Noir\\n\\nDiamètre : 23 cm\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ1842899",
+        "price": 17.0,
+        "currency": "EUR",
+        "quantity": 6,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 12,
+    "translations": "{\"fr\": {\"title\": \"Assiette Noire - Neri au subtil relief - 18cm\", \"description\": \"Assiette Neri Noire – Petite\\n\\nL'Assiette Neri se caractérise par son design minimaliste inspiré du style nordique, alliant élégance et utilité dans une pièce en grès noir à la finition parfaite. Sa silhouette classique est rehaussée de détails décoratifs délicats qui confèrent une sophistication subtile au design monochrome.\\n\\nD'une taille idéale, il est parfait pour les déjeuners ou les repas légers. De plus, sa résistance au lave-vaisselle garantit une utilisation confortable et pratique sans sacrifier sa beauté.\\n\\nUne assiette contemporaine, élégante et fonctionnelle qui ajoute une touche de style scandinave à n'importe quelle table.\\n\\nMatériel: Grès\\nCouleur: Noir\\n\\nDiamètre : 18 cm\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ6446867",
+        "price": 12.0,
+        "currency": "EUR",
+        "quantity": 6,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"fr\": {\"title\": \"Assiette Dorothy Rose\", \"description\": \"L'assiette Bloomingville Dorothy est un authentique bijou décoratif en grès de haute qualité. Sa surface en relief présente un motif floral coloré dans les tons rouge, bleu, rose et vert, ce qui lui donne un aspect similaire à une broderie faite à la main, créant une texture incroyable au toucher et à la vue.\\n\\nLe bord rose tendre ajoute une touche d'élégance et de délicatesse, ce qui en fait une pièce parfaite à utiliser sur la table et pour décorer n'importe quel coin de la maison.\\n\\nUne assiette unique et texturée qui allie art, couleur et élégance dans chaque détail.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ5838259",
+        "price": 15.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 7,
+    "translations": "{\"fr\": {\"title\": \"Assiette Rouge - Latina Large - 27cm\", \"description\": \"Nos plats les plus spéciaux. De la collection « Latina », elle est réalisée en grès de haute qualité et est émaillée dans un ton rouge profond qui ne passe pas inaperçu. Son design aux bords ondulés ajoute de la texture et une touche d'élégance artisanale, ce qui en fait une pièce qui se démarque sur n'importe quelle table.\\n\\nLa taille polyvalente de l'assiette la rend parfaite pour s'adapter facilement à différents styles de présentation. De plus, sa finition émaillée crée de subtiles variations de couleurs, rendant chaque assiette unique et dotée de sa propre personnalité.\\n\\nLa couleur et le toucher de l’assiette Latina sont si particuliers qu’il est difficile de les décrire avec des mots. Sa surface lisse et son ton rouge profond captent la lumière de manière spectaculaire, apportant chaleur, sophistication et caractère à tout repas ou réunion.\\n\\nIdéale pour ceux qui apprécient la céramique artisanale, l'assiette Latina allie beauté, fonctionnalité et design scandinave en une seule pièce qui rehausse votre expérience à table jour après jour.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ7904952",
+        "price": 15.0,
+        "currency": "EUR",
+        "quantity": 12,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 7,
+    "translations": "{\"fr\": {\"title\": \"Assiette Rouge - Latina Petite - 20cm\", \"description\": \"L'assiette Latina est fabriquée en grès émaillé d'un ton rouge profond qui apporte chaleur et style à n'importe quelle table. Ses bords ondulés lui confèrent de la texture et une touche élégante et distinctive.\\n\\nGrâce à sa grande taille, il est parfait comme plat principal pour les repas de tous les jours ou les dîners spéciaux. L'émaillage réalisé à la main peut présenter de légères variations de couleurs, rendant chaque pièce unique.\\n\\n✨ Un plat élégant et plein de personnalité, idéal pour rehausser n'importe quelle table.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0236545",
+        "price": 8.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 6,
+    "translations": "{\"fr\": {\"title\": \"Bol Rouge - Latina - 12cm\", \"description\": \"Le Latina Bowl allie simplicité et élégance dans un design fait main avec un bel émail rouge. Son format pratique le rend idéal pour le petit-déjeuner, ainsi que pour servir des apéritifs ou des collations sucrées et salées.\\n\\nLa finition émaillée peut présenter de légères variations de couleurs, ce qui confère à chaque pièce un caractère unique et particulier.\\n\\nUn bol polyvalent, coloré et charmant pour profiter de chaque instant à table.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 201,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ7649143",
+        "price": 4.5,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 5,
+    "translations": "{\"fr\": {\"title\": \"Vaisselle en rouge 19 pièces de luxe\", \"description\": \"Découvrez cette fantastique vaisselle composée de 19 pièces d'assiettes de trois tailles différentes.\\n\\nLa vaisselle Latina est émaillée en rouge cerise avec un éclat élégant. Fabriqué en céramique de grès et se distingue par son design minimaliste au style nordique marqué. Grâce à sa taille, il est parfait comme plat principal ou plat de dîner, alliant fonctionnalité et esthétique en une seule pièce.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 217,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ5772445",
+        "price": 265.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"fr\": {\"title\": \"Pichet Rouge - Latin - 1,2l\", \"description\": \"Cette cruche spéciale est fabriquée en grès de haute qualité et émaillée dans un ton rouge intense et brillant, ce qui lui confère un caractère élégant et saisissant. D'une capacité de 1,2 litre, il est parfait aussi bien pour servir des boissons au quotidien que pour accompagner des moments privilégiés autour de la table. Chaque pichet est unique, car la couleur de la glaçure peut varier légèrement, faisant de chaque pièce un objet exclusif. Ses lignes droites et son design harmonieux apportent une touche à la fois classique et moderne, tandis que la poignée arrondie assure une prise en main confortable et sûre. Sans aucun doute, c'est une pièce qui brille d'elle-même et devient un élément décoratif et fonctionnel dans n'importe quelle maison.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 209,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ4129919",
+        "price": 29.9,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"fr\": {\"title\": \"Vase Elitta en céramique marron\", \"description\": \"Le vase ou pot Elitta est l'une des pièces avec la plus grande personnalité et le plus d'attrait de notre catalogue actuel. De la ligne Creative Collection, il est fabriqué en céramique marron naturel, avec une jolie finition en relief 3D qui ajoute de la texture et du caractère à n'importe quel espace.\\n\\nIdéal à placer sur un rebord de fenêtre ou sur une table avec une petite plante ou des fleurs fraîches.\\n\\nMesures:\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 214,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ2532921",
+        "price": 35.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"fr\": {\"title\": \"Vase vert Odina à motifs floraux\", \"description\": \"Le vase Odina se distingue par son design artisanal et son charme naturel. Fabriqué à partir de grès de haute qualité, il présente une base aux tons crème décorée d'un délicat motif floral peint à la main, garantissant que chaque pièce est unique.\\n\\nSon style allie rustique et contemporain, ce qui en fait un accessoire de décoration polyvalent : il est spectaculaire aussi bien seul qu'accompagné de fleurs fraîches ou séchées.\\n\\n✨ Apportez chaleur, couleur et authenticité à votre intérieur avec ce vase fait main. Parfait pour donner vie à n'importe quel coin avec une élégance naturelle.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ9592069",
+        "price": 24.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 7,
+    "translations": "{\"fr\": {\"title\": \"Vase et bougeoir - Tête sicilienne Miss Jody\", \"description\": \"Le vase Miss Jody est une authentique œuvre d'art fonctionnelle qui combine le charme du design italien avec l'essence artisanale du style nordique contemporain. Fabriqué en grès de haute qualité et peint à la main, ce vase sculptural représente un visage féminin élégant et expressif, symbole de beauté, de créativité et de caractère.\\n\\nSon design polyvalent lui permet d'être utilisé à la fois comme vase à fleurs et comme bougeoir décoratif, s'adaptant naturellement à n'importe quel environnement. D'une simple rotation, il change de fonction sans perdre sa présence artistique, devenant le centre d'attention sur une table, un buffet ou une étagère.\\n\\nLes tons doux et la finition artisanale rehaussent sa personnalité unique : chaque pièce présente de légères variations de couleur et de texture, témoignage d'un processus artisanal qui transforme chaque vase en une œuvre unique.\\n\\nLe vase Miss Jody non seulement décore, mais transforme les espaces, apportant une note de sophistication méditerranéenne et de chaleur moderne. Idéal pour ceux qui recherchent des pièces avec histoire, âme et polyvalence.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ9037894",
+        "price": 50.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"fr\": {\"title\": \"Vase Odina rouge à motifs floraux bleus\", \"description\": \"Le vase Odina se distingue par son ton rouge intense et son délicat motif floral peint à la main dans les tons bleu, rose et blanc. Chaque pièce est unique, puisque sa finition artisanale lui confère un charme particulier et irremplaçable.\\n\\nFabriqué en grès, ce vase allie durabilité et élégance, devenant le complément parfait pour rehausser n'importe quel espace, soit comme élément décoratif indépendant, soit avec un bouquet de fleurs fraîches ou séchées.\\n\\nDimensions : Ø11 x H15 x L16 cm\\nMatériel: Grès\\nCouleur : Rouge avec détails floraux peints à la main\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0175593",
+        "price": 17.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"fr\": {\"title\": \"Tasse Nini Rouge – MINI\", \"description\": \"Le mug Nini est un petit bijou fait main qui allie design nordique, charme et fonctionnalité. Fabriquée en grès de haute qualité, elle se distingue par sa forme délicate et sa joyeuse décoration rayée dans les tons roses et rouges, qui ajoutent une touche de couleur et de vitalité à n'importe quelle table ou étagère de cuisine.\\n\\nChaque tasse est peinte à la main, ce qui signifie qu’il n’y en a pas deux identiques. Les légères variations de couleur et d'intensité font partie de sa beauté, reflétant l'authenticité et le soin qui caractérisent les pièces Bloomingville. Sa finition lisse et sa taille compacte le rendent idéal pour déguster un café court, un expresso ou une infusion relaxante.\\n\\nEn plus d'être pratique, le mug Nini est un élément de décoration à lui seul. Placez-le à côté d'autres pièces en céramique sur une étagère ou une vitrine pour ajouter une touche de style artisanal et nordique à l'environnement. Son design joyeux et ses couleurs subtiles en font un cadeau parfait pour ceux qui aiment les petits détails du quotidien.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 201,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ2070384",
+        "price": 9.2,
+        "currency": "EUR",
+        "quantity": 5,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 12,
+    "translations": "{\"fr\": {\"title\": \"Tasse Agnès pour enfants – MINI\", \"description\": \"Tasse de petit-déjeuner Agnes, une charmante tasse faite à la main conçue spécialement pour les plus petits. Fabriquée en grès de haute qualité avec un vernis blanc brillant, elle se distingue par son adorable design avec une petite orange à l'intérieur de la tasse, une surprise qui fera sourire tous les enfants lorsqu'ils auront fini de boire.\\n\\nChaque pièce est unique, puisque sa finition est réalisée à la main et peut présenter de subtiles variations de couleur et de texture, ce qui en fait un petit trésor sur la table des enfants. Idéal pour accompagner les petits déjeuners, les goûters ou les moments de jeu avec style et tendresse.\\n\\n✨Une tasse unique, ludique et parfaite pour les petites mains.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 202,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ9045415",
+        "price": 15.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"fr\": {\"title\": \"Pot en grès bleu Abner\", \"description\": \"Le pot Abner de la Creative Collection avec un design détaillé et un vernis réactif spectaculaire qui crée des effets uniques dans chaque pièce. Les tons bleus naturels et les variations subtiles de finition rendent chaque pot différent, ajoutant du caractère et du style à n'importe quel coin de votre maison.\\n\\nParfait pour ceux qui aiment la décoration avec de la couleur, de la texture et une touche artistique. Abner remplira votre espace de charme et de personnalité.\\n\\nDétails du produit :\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 214,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ2826945",
+        "price": 33.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"fr\": {\"title\": \"Grande jardinière en grès bleu Romy\", \"description\": \"Donnez vie à vos plantes avec le pot Romy ! Fabriquée en grès et peinte à la main avec de joyeux coups de pinceau ondulés dans des tons de bleu, cette pièce déborde de couleur et de personnalité. Sa finition artisanale rend chaque pot unique, avec de petites variations qui en font un véritable bijou décoratif.\\n\\nIdéale pour ceux qui aiment s'entourer de couleur, de créativité et de charme naturel, la jardinière Romy est parfaite pour donner une touche vibrante à votre intérieur. 🌈🌿\\n\\nDétails du produit :\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 214,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ6727797",
+        "price": 39.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"fr\": {\"title\": \"Jardinière décorative Parvin en noir\", \"description\": \"La jardinière Parvin est une pièce en terre cuite noire avec une texture sophistiquée et un design qui reflète l'essence du style nordique contemporain. Sa finition artisanale et son ton profond confèrent un air exclusif et serein à n'importe quel espace, ce qui en fait un complément idéal pour mettre en valeur les plantes naturelles ou décoratives.\\n\\nAvec des lignes simples et élégantes, le pot de fleurs Parvin s'intègre particulièrement bien sur un rebord de fenêtre, une table d'appoint ou une étagère, où sa couleur noire et sa texture rugueuse créent un contraste parfait avec le vert des plantes.\\n\\nFabriqué et émaillé à la main, chaque pot présente de légères variations de ton et de finition, ce qui en fait une pièce unique pleine de caractère. En raison de sa nature artisanale, il peut ne pas être complètement étanche, il est donc recommandé de placer une base ou une plaque si vous l'utilisez avec des plantes naturelles.\\n\\nLe pot de fleurs Parvin Deco allie élégance, simplicité et authenticité, idéal pour ceux qui cherchent à décorer leur maison avec des pièces qui véhiculent un style calme et naturel.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 214,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ3883568",
+        "price": 16.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"fr\": {\"title\": \"Bougeoir Eja marron et blanc\", \"description\": \"Le bougeoir Eja de Bloomingville combine la forme d'un bol avec un bougeoir intégré, créant une pièce décorative élégante et fonctionnelle. Sa finition en émail rayé dans les tons noir et blanc apporte une touche moderne et sophistiquée à l'espace. Élément décoratif avec beaucoup de personnalité, ce lustre individuel donne un air scandinave et ludique à votre intérieur.\\n\\nDétails:\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ6392347",
+        "price": 12.0,
+        "currency": "EUR",
+        "quantity": 3,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"fr\": {\"title\": \"Bougeoir Tacana en grès gris\", \"description\": \"Illuminez votre maison avec le Tacana, un lustre en grès peint à la main dans des tons chauds qui apportent une touche cosy et pleine de personnalité. Chaque pièce est unique, avec de légères variations de couleurs qui la rendent spéciale. Idéal à placer sur la fenêtre, la table ou l'étagère, et ajouter une touche de couleur et de chaleur à n'importe quel coin. 🕯️✨\\n\\nDétails du produit :\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ3488097",
+        "price": 15.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"fr\": {\"title\": \"Set de 2 bougeoirs Tigres Rory\", \"description\": \"Le set de bougeoirs Rory allie originalité et charme artisanal dans une pièce qui séduit au premier regard. Fabriqués en céramique de haute qualité, ces deux bougeoirs en forme de tigre ajoutent une touche amusante et élégante à n'importe quelle pièce.\\n\\nChaque pièce a été peinte à la main, ce qui rend chaque ensemble unique, avec de légères variations de couleurs qui rehaussent son caractère artisanal. Idéals pour être placés sur une fenêtre, une table d'appoint ou une cheminée, les lustres Rory illuminent l'espace avec une chaleur naturelle et un style scandinave incomparable.\\n\\nCaractéristiques du lot de bougeoirs Rory :\\n\\nMarque : Bloomingville\\n\\nModèle : bougeoir Rory, blanc\\n\\nFormat : Ensemble de 2 unités\\n\\nStyle : scandinave/décoratif/fait main.\\n\\nDonnez de la personnalité et une touche artistique à votre maison avec l'ensemble de bougeoirs Rory, une combinaison parfaite de design nordique, de détails artisanaux et de charme animal.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ8319245",
+        "price": 55.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 7,
+    "translations": "{\"fr\": {\"title\": \"Chandelier Syra blanc en polyrésine\", \"description\": \"Le lustre Syra est une pièce au design sculptural et contemporain, parfaite pour ceux qui souhaitent ajouter une touche artistique et élégante à leur maison. Fabriqué en polyrésine de haute qualité, il se distingue par sa surface texturée et son double design pour bougies, qui apporte un équilibre visuel et un style sophistiqué à n'importe quelle pièce.\\n\\nCes lustres décoratifs et modernes allient parfaitement l'esthétique nordique avec des matériaux durables et une finition artisanale. Il est idéal pour décorer les salons, les salles à manger, les couloirs ou les étagères, créant une atmosphère chaleureuse et pleine de personnalité.\\n\\nCaractéristiques du bougeoir Syra :\\n\\nAjoutez le bougeoir Syra à votre collection de décoration et transformez n'importe quel coin en un espace plein d'art et de sophistication.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ9684869",
+        "price": 22.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {
+          "Diseño": "1 vela"
+        }
+      },
+      {
+        "sku": "SQ0013335",
+        "price": 25.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {
+          "Diseño": "2 velas"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 8,
+    "translations": "{\"fr\": {\"title\": \"Bougie Aromatique à la cire naturelle N°4 Verveine Citronnée – ILLUME\", \"description\": \"Donnez une touche de fraîcheur et d'énergie à votre intérieur avec la Bougie Parfumée Verveine Citronnée N°4 de ILLUME. Fabriquée avec de la cire naturelle, cette bougie combine les notes vibrantes de citron, de verveine et d'herbes fraîches, créant une atmosphère relaxante et cosy dans n'importe quelle pièce : salle de bain, salon ou chambre.\\n\\nSon élégant récipient en verre beige mat apporte une touche décorative et sophistiquée, tandis que sa présentation dans un coffret cadeau en fait le détail parfait pour toute occasion.\\n\\nCaractéristiques:\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ5346905",
+        "price": 15.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"fr\": {\"title\": \"Bougeoir en grès bleu cobalt\", \"description\": \"Design Scandinave de Haute Qualité, le lustre Thorne se démarque par son design scandinave élégant et contemporain, réalisé en grès de haute qualité avec un vernis bleu profond et mat.\\n\\nSa forme incurvée et stylisée apporte une touche artistique et moderne qui met en valeur n'importe quel espace. Parfait pour décorer une étagère, un plateau ou un rebord de fenêtre, ce bougeoir allie fonctionnalité et esthétique, offrant un détail décoratif sophistiqué qui illumine n'importe quel environnement avec style.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ4555237",
+        "price": 22.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 6,
+    "translations": "{\"fr\": {\"title\": \"Saladier Ovale Leyva - Filo et Grenade - Céramique Grenade - 32 cm\", \"description\": \"Saladier Ovallada Leyva, une pièce en céramique qui allie art, design et fonctionnalité dans un seul objet. Avec ses dimensions de 32 x 8,5 centimètres, cette création se distingue par sa présence équilibrée et sa forme organique, inspirée de la douceur et de l'harmonie des graines naturelles. Chaque courbe et proportion a été soigneusement pensée pour offrir une esthétique moderne, sans perdre l'essence artisanale qui la rend unique.\\n\\nMesures :\\n\\nPasse au micro-ondes et au lave-vaisselle\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ2962194",
+        "price": 45.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Amarillo"
+        }
+      },
+      {
+        "sku": "SQ5267902",
+        "price": 45.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Negro"
+        }
+      },
+      {
+        "sku": "SQ4872197",
+        "price": 45.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Rojo"
+        }
+      },
+      {
+        "sku": "SQ0274298",
+        "price": 45.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Azul"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 11,
+    "translations": "{\"fr\": {\"title\": \"Plateau rectangulaire - Filo et Grenade - Grenade Céramique - 34cm\", \"description\": \"Pièce unique de céramique artisanale, réalisée et peinte à la main à la Fábrica de los Arrayanes. Cette élégante rabanera rectangulaire blanche se distingue par sa décoration centrale : une grenade, symbole de la ville qui inspire toute la collection.\\n\\nCette rabanera est parfaite pour servir du pain, des crudités ou des entrées principales avec une présentation élégante.\\n\\nSon design allie simplicité et raffinement, idéal pour présenter avec une touche de classe des entrées, des fruits ou des accompagnements. Chaque trait reflète la maîtrise de l'école de Grenade et le caractère lumineux du sud de l'Espagne.\\n\\nUne pièce qui allie tradition, art et exclusivité, conçue pour ceux qui apprécient la beauté de ce qui est fait main.\\n\\nPasse au micro-ondes : ✅\\nPasse au lave-vaisselle : ✅\\n\\nTaille :\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ8939578",
+        "price": 23.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Azul"
+        }
+      },
+      {
+        "sku": "SQ5677865",
+        "price": 23.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Amarillo"
+        }
+      },
+      {
+        "sku": "SQ5373458",
+        "price": 23.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Rojo"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"fr\": {\"title\": \"Vase Citrouille - 5l\", \"description\": \"Pumpkin Vase XL n’a pas besoin de beaucoup de présentation. Cet élégant Vase ou « Barrila » est l'une des pièces les plus caractéristiques de la « poterie d'eau » de Moveros dans la province de Zamora.\\n\\nLe tonneau était utilisé à la campagne pendant l'été, notamment pour le fauchage, le transport et le battage, car il avait la capacité de garder l'eau relativement fraîche même en période de chaleur intense.\\n\\nMoveros était une ville importante à son époque, connue principalement pour son activité de poterie traditionnelle, un métier exercé exclusivement par les femmes locales.\\n\\nLe vase citrouille est fabriqué à la main et cuit au four à bois. Il n’y en a pas deux pareils !\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 223,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "852",
+        "price": 55.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 9,
+    "translations": "{\"fr\": {\"title\": \"Ensemble pichet et 6 verres en céramique\", \"description\": \"Ensemble composé d'un pichet aux formes rétro et arrondies et de 6 verres assortis. Idéal pour servir de l'eau, de la sangria, du gaspacho ou de la limonade au style unique et méditerranéen.\\n\\nDétails du produit :\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 205,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ7741629",
+        "price": 40.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 5,
+    "translations": "{\"fr\": {\"title\": \"Pichet à sangria - 2,5l\", \"description\": \"Cette cruche de sangria traditionnelle, fabriquée en porcelaine fine et peinte à la main, représente un symbole vivant de la boisson par excellence de l'Espagne. Son design artisanal honore non seulement la riche tradition culturelle, mais apporte également une touche d'élégance et d'authenticité à toute occasion.\\n\\nDe plus, c'est un objet décoratif unique qui rehausse l'esthétique de n'importe quel espace, que ce soit sur la table à manger, lors d'un rassemblement en plein air ou comme pièce remarquable dans une vitrine.\\n\\nPour compléter cette pièce, nous proposons des petits pichets assortis pouvant servir de verres individuels. Ces miniatures maintiennent non seulement le tout ensemble, mais ajoutent également une touche de charme supplémentaire à l'expérience de servir et de déguster la sangria.\\n\\nDimensions : 25 (largeur) x 53 (hauteur) cm\\n\\nPoids : 1,5 kg\\n\\nCapacité : 2,5 L\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 209,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "CUE021",
+        "price": 54.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"fr\": {\"title\": \"Verres à Sangria - 0,33l\", \"description\": \"Verres à sangria traditionnels, en porcelaine et peints à la main dans le style Manises.\\n\\nDimensions : 11 (largeur) x 16 (hauteur) cm\\n\\nCapacité : 0,33L\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 205,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "CUE027",
+        "price": 10.0,
+        "currency": "EUR",
+        "quantity": 6,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"fr\": {\"title\": \"Pot à pharmacie en porcelaine\", \"description\": \"Inspiré des albarelos traditionnels utilisés dans les anciennes pharmacies pour conserver les médicaments, ce pot en porcelaine allie l'élégance du design classique à la fonctionnalité moderne.\\n\\nIdéal à la fois pour décorer et ranger dans la cuisine, ce pot est non seulement une pièce décorative qui apporte une touche distinctive et sophistiquée à n'importe quel espace, mais il est également pratique pour conserver des épices, des herbes ou tout autre ingrédient du quotidien. Sa conception soignée et détaillée lui permet de s'intégrer parfaitement dans les environnements rustiques et contemporains, devenant ainsi un élément polyvalent et fonctionnel.\\n\\nDe plus, la finition en porcelaine de haute qualité assure durabilité et facilité de nettoyage, faisant de ce pot un excellent choix pour ceux qui cherchent à allier esthétique et praticité dans leur maison. Apportez une touche d'élégance historique et de fonctionnalité moderne à votre cuisine avec ce charmant pot en porcelaine.\\n\\nTechnique : Céramique vitrifiée à haute température.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 207,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "CUE012",
+        "price": 60.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"fr\": {\"title\": \"Pichet en porcelaine - 1l\", \"description\": \"Conxuro da queimada : Mouchos, curuxas, crapauds et sorcières. Démos, gobelins et diaños, esprits, das nebeodas veigas. Corvos, pintegas et meigas…\\n\\nPour les amateurs de traditions, de sorcellerie et de bon design. Cette cruche en porcelaine a été réalisée pour servir le marc traditionnel la nuit de la Saint-Jean en Galice. Actuellement, c'est une merveille pour n'importe quel salon ou cuisine.\\n\\nTechnique : Céramique vitrifiée à haute température.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 225,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "CUE016",
+        "price": 45.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"fr\": {\"title\": \"Coffret de 6 verres en porcelaine\", \"description\": \"Coffret de 6 verres originaux adaptés pour infusion, café, crèmes buvables ou liqueurs.\\n\\nPour les amateurs de traditions, de sorcellerie et de bon design. Ces verres ont été fabriqués pour boire le marc traditionnel galicien.  Actuellement, ils conviennent parfaitement à n’importe quel salon ou cuisine.\\n\\nTechnique : Céramique vitrifiée à haute température.\\n\\nIl est réalisé par le céramiste, sculpteur et artiste Martínez Coello dont le travail est représenté dans les musées et collections privées du monde entier et Antonia Blanes.\\n\\nDimensions : 8 (largeur) x 8 (longueur) x 12 (hauteur) cm\\n\\nPoids : 0,15 kg\\n\\nCapacité : 0,20 l\\n\\nRecevez-le en 72 heures !\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 205,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "CUE026",
+        "price": 36.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"fr\": {\"title\": \"Pichet Traiguera\", \"description\": \"La cruche Traiguera est une pièce emblématique de la poterie traditionnelle de cette ville située à l'extrême nord de la Communauté valencienne, près de la frontière avec Tarragone. Traiguera est connue pour sa riche tradition de poterie et ses cruches conservent une profonde valeur historique et culturelle.\\n\\nLes cruches Traiguera, également connues sous le nom de « cantes », se caractérisent par leur forme robuste et distinctive. Ces vaisseaux ont un corps bombé et nervuré, avec une base étroite qui s'élargit vers le centre, formant un ventre proéminent. Le col de la cruche est allongé, et deux anses en émergent qui s'étendent vers le bas, reposant sur le corps bombé de la pièce.\\n\\nLa décoration de ces cruches est réalisée à l'oxyde de manganèse, en appliquant des traits et des rayures répartis sur toute la surface. Cette décoration est réalisée à l'aide d'un peigne à quatre, cinq ou six griffes, ce qui lui confère un aspect unique et artisanal. L'argile utilisée pour sa fabrication est rouge, finement tamisée, et après cuisson, elle acquiert une teinte paille caractéristique.\\n\\nCes cruches représentent non seulement le savoir-faire technique des potiers de Traiguera, mais aussi la préservation d'une tradition séculaire encore vivante dans la région.\\n\\nMesures: 22 (hauteur) cm\\n\\nRecevez-le en 72 heures !\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 210,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ5938972",
+        "price": 35.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"fr\": {\"title\": \"salière en porcelaine\", \"description\": \"Cette salière en porcelaine a été méticuleusement conçue pour compléter les cuisines traditionnelles. Chaque pièce est unique, car elle est réalisée à la main selon des techniques artisanales, ce qui garantit qu'il n'y a pas deux salières identiques.\\n\\nL'attention portée aux détails dans sa création se reflète dans son design élégant et fonctionnel, idéal pour ceux qui apprécient l'authenticité et la qualité de leurs ustensiles de cuisine. De plus, sa finition délicate et raffinée apporte une touche de sophistication et de charme à toute cuisine, devenant non seulement un ustensile pratique, mais aussi une pièce décorative qui met en valeur le caractère et la personnalité de l'espace culinaire.\\n\\nTechnique : Céramique vitrifiée à haute température.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 207,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ9080616",
+        "price": 15.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Verde oliva"
+        }
+      },
+      {
+        "sku": "SQ6498450",
+        "price": 15.0,
+        "currency": "EUR",
+        "quantity": 3,
+        "attributes": {
+          "Color": "Azul"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"fr\": {\"title\": \"sucrier en porcelaine\", \"description\": \"Ce superbe sucrier en porcelaine peint à la main a été soigneusement conçu pour être utilisé dans les cuisines traditionnelles, apportant une touche d'élégance et d'authenticité à votre espace culinaire. Chaque pièce est unique, réalisée à la main selon des techniques artisanales, ce qui garantit qu'il n'y a pas deux sucriers identiques.\\n\\nSes lignes douces et sa finition impeccable le rendent parfait pour compléter tout style de cuisine, du plus classique au plus contemporain. La porcelaine de haute qualité utilisée dans sa fabrication assure une durabilité exceptionnelle, ainsi qu'un nettoyage facile, gardant sa beauté intacte dans le temps.\\n\\nCe sucrier est non seulement idéal pour conserver le sucre, mais peut également être utilisé pour stocker d'autres ingrédients, tels que des épices, des herbes ou des petites friandises, ajoutant ainsi de la polyvalence à son utilisation. Sa présence sur la table ou le comptoir de cuisine ne passera pas inaperçue, devenant un élément central qui allie praticité et esthétique charmante.\\n\\nAjoutez une touche de tradition et de sophistication à votre cuisine avec ce sucrier en porcelaine fabriqué à la main, une pièce unique qui célèbre l'artisanat et la beauté dans les moindres détails.\\n\\nTechnique : Céramique vitrifiée à haute température.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 207,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ3683401",
+        "price": 12.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Azul"
+        }
+      },
+      {
+        "sku": "SQ9889300",
+        "price": 12.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {
+          "Color": "Verde"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"fr\": {\"title\": \"Assiette à café en porcelaine - 16 cm\", \"description\": \"Assiette à café artisanale créée par l'atelier Artesanía & Signos. Fabriqué en céramique vitrifiée à haute température.\\n\\nCette assiette est l'œuvre du céramiste, sculpteur et artiste Martínez Coello, dont les créations se trouvent dans des musées et des collections privées du monde entier, en collaboration avec Antonia Blanes.\\n\\nDimensions : 16 (largeur) x 16 (longueur) x 1 (hauteur) cm\\n\\nPoids : 0,16 kg\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 225,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ8051310",
+        "price": 11.0,
+        "currency": "EUR",
+        "quantity": 8,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"fr\": {\"title\": \"Assiette à café en porcelaine - 18 cm\", \"description\": \"Assiette à café asymétrique fabriquée à la main par Trabajodoiro Artesania & Signos. Céramique vitrifiée haute température\\n\\nIl est réalisé par le céramiste, sculpteur et artiste Martínez Coello dont le travail est représenté dans les musées et collections privées du monde entier et Antonia Blanes.\\n\\nDimensions : 18 (largeur) x 18 (longueur) x 2 (hauteur) cm\\n\\nPoids : 0,24 kg\\n\\nRecevez-le en 72 heures !\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 201,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ3353033",
+        "price": 6.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {
+          "Color": "Verde"
+        }
+      },
+      {
+        "sku": "SQ7091589",
+        "price": 6.0,
+        "currency": "EUR",
+        "quantity": 2,
+        "attributes": {
+          "Color": "Azul"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"fr\": {\"title\": \"Assiette apéritive en porcelaine\", \"description\": \"Assiette apéritive en porcelaine - 22cm\\n\\nAssiette apéritive réalisée par l'atelier Artesanía & Signos. Fabriqué en céramique vitrifiée à haute température.\\n\\nCette assiette est l'œuvre du céramiste, sculpteur et artiste Martínez Coello, dont les créations se trouvent dans des musées et des collections privées du monde entier, en collaboration avec Antonia Blanes.\\n\\nDimensions : 17 (largeur) x 22 (longueur) x 2 (hauteur) cm\\n\\nPoids : 0,49kg\\n\\nRecevez-le en 72 heures !\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 225,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0898051",
+        "price": 12.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 5,
+    "translations": "{\"fr\": {\"title\": \"mortier en céramique\", \"description\": \"Mortier en céramique bicolore avec maillet en bois, parfait pour écraser et combiner graines et herbes. Idéal pour préparer des vinaigrettes et autres délicieuses sauces.\\n\\nFabriqué à la main par L'alfarería à Castellón, en Espagne.\\n\\nDimensions : 16 (largeur) x 16 (longueur) x 10 (hauteur) cm\\n\\nPoids : 1kg\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 207,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ1619502",
+        "price": 18.95,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Verde agua"
+        }
+      },
+      {
+        "sku": "SQ2527434",
+        "price": 18.95,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Amarillo"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"fr\": {\"title\": \"Porte-serviettes en céramique tricolore\", \"description\": \"Porte-serviettes en céramique en forme d'éventail, idéal pour compléter la décoration de n'importe quelle salle à manger ou cuisine.\\n\\nFabriqué à la main par L'alfarería à Castellón, en Espagne.\\n\\nDimensions : 15 (longueur) x 8 (hauteur) cm\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 212,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0833348",
+        "price": 14.5,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"fr\": {\"title\": \"salière en céramique\", \"description\": \"Avant-toit fait main en céramique avec décoration en trois tons peints à la main.\\n\\nFabriqué à la main par L'alfarería à Castellón, en Espagne.\\n\\nDimensions : 5 (largeur) x 5 (longueur) x 8 (hauteur) cm\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 207,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ6901275",
+        "price": 8.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"fr\": {\"title\": \"Oiseaux aquatiques en céramique Talavera\", \"description\": \"Oiseaux aquatiques en céramique qui imitent parfaitement le chant d'un oiseau. Disponible en différentes couleurs\\n\\nFabriqué à la main par le potier Moreno Benito, à Talavera de la Reina, Espagne.\\n\\nDimensions : 5,5 (largeur) x 6 (hauteur) cm\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 224,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ2435770",
+        "price": 4.5,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {
+          "Color": "Rojo"
+        }
+      },
+      {
+        "sku": "SQ7346449",
+        "price": 4.5,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "rosa"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 5,
+    "translations": "{\"fr\": {\"title\": \"Lot de 2 verres en céramique - 0,20l\", \"description\": \"Tasses originales en céramique faites à la main. Vous avez le choix entre deux couleurs : vert et ocre.\\n\\nFabriquées à Ourente dans l'atelier de poterie Artesanía de l'artiste Martin Coello, elles ont été réalisées au début du XXe siècle.\\n\\nDimensions : 6 (largeur) x 6 (longueur) x 8 (hauteur) cm\\n\\nPoids : 87g\\n\\nCapacité : 0,20l\\n\\nRecevez-le en 72 heures !\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 205,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ8329550",
+        "price": 8.0,
+        "currency": "EUR",
+        "quantity": 2,
+        "attributes": {
+          "Color": "Verde agua"
+        }
+      },
+      {
+        "sku": "SQ0283374",
+        "price": 8.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Amarillo"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 5,
+    "translations": "{\"fr\": {\"title\": \"Ensemble de tasses en céramique\", \"description\": \"Les verres sont fabriqués et décorés à la main dans l'atelier artisanal de MARTINEZ COELLO, artiste dont l'œuvre picturale est représentée dans les plus importants musées et collections privées en Espagne, États-Unis, Mexique, Italie, Brésil, Venezuela, France, Portugal...\\n\\nCoello utilise pour ses créations la PORCELAINE, un matériau céramique noble, cuit à haute température (1 300%). Chaque pièce est unique et a été entièrement réalisée à la main, ce qui lui confère le caractère d'une œuvre d'art.\\n\\nCes verres originaux verts et jaunes sont indispensables pour compléter l'ensemble des pièces de la collection Silvestre. On les utilise pour accompagner le café avec de l'eau ou prendre une petite gorgée d'alcool.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 205,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ5272754",
+        "price": 3.0,
+        "currency": "EUR",
+        "quantity": 3,
+        "attributes": {
+          "Color": "Verde agua"
+        }
+      },
+      {
+        "sku": "SQ9379438",
+        "price": 3.0,
+        "currency": "EUR",
+        "quantity": 3,
+        "attributes": {
+          "Color": "Amarillo"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"fr\": {\"title\": \"Service en porcelaine pour café et thé. Pack de deux tasses avec soucoupe.\", \"description\": \"Ensemble en porcelaine à double vitrage ; La couleur terreuse et la couleur verte moisie sont la meilleure option pour ceux qui aiment boire un café ou un thé moyen.\\n\\nSa texture vous transporte dans des environnements naturels rocheux et comme il est fabriqué à la main, nous n'avons pas deux pièces exactes mais ensemble, elles créent un service à café ou à thé spectaculaire.\\n\\nPasse au lave-vaisselle et au micro-ondes.\\n\\nIl est réalisé par le céramiste, sculpteur et artiste Martínez Coello dont le travail est représenté dans des musées et des collections privées du monde entier et par Antonia Blanes, céramiste spécialisée et chercheuse dans les processus techniques de création de la céramique.\\n\\nMesures :\\n\\nTasse 6,6 (largeur) x 6,6 (longueur) x 4 (hauteur) cm / Assiette 12,5 (largeur) x 12,5 (longueur) x 1,4 (hauteur) cm\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 201,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "CUE02",
+        "price": 14.0,
+        "currency": "EUR",
+        "quantity": 6,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"fr\": {\"title\": \"Vieux Botijo ​​​​de Puerto del Arzobispo\", \"description\": \"Botijo ​​​​de Puente del Arzobispo à Tolède, ce botijo ​​​​reflète la riche tradition artisanale et la beauté de la céramique espagnole. Leurs dessins suggèrent qu'ils font partie de la série de nœuds papillon d'influence levantine (Manises). Au centre, un oiseau stylisé est entouré de branches à plumes, tandis qu'une polychromie classique en vert, jaune et bleu, accompagnée de détails en manganèse\\n\\nLa cruche présente de légers dommages comme le montrent les photographies.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ2255868",
+        "price": 32.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"fr\": {\"title\": \"Assiette décorative originale en céramique avec détail cousu\", \"description\": \"Assiette décorative en céramique avec une pièce cousue main sur une de ses faces. Fabriqué à Zamora par le maître potier PHera.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 224,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ7000734",
+        "price": 22.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"fr\": {\"title\": \"Assiette décorative illustrée\", \"description\": \"Assiette en céramique peinte à la main. Fabriqué à Zamora par le maître potier PHera.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 224,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ6881854",
+        "price": 19.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"fr\": {\"title\": \"Assiette à café - lot de deux assiettes 16 cm\", \"description\": \"Assiette à café de la collection sauvage.\\n\\nIl est réalisé par le céramiste, sculpteur et artiste Martínez Coello dont le travail est représenté dans les musées et collections privées du monde entier et Antonia Blanes.\\n\\nDimensions : 16 (largeur) x 16 (longueur) x 1 (hauteur) cm\\n\\nPoids : 0,15 kg\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 201,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0345638",
+        "price": 11.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"fr\": {\"title\": \"Casquette ronde Pereruela\", \"description\": \"Couverture en argile Pereruela.\\n\\nFabriqué à la main à Zámora, en Espagne.\\n\\nDimensions : 27 (largeur) x 27 (longueur) x 2 (hauteur) cm\\n\\nPoids : 1kg\\n\\nRecevez-le en 72 heures !\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 203,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0258010",
+        "price": 14.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"fr\": {\"title\": \"Cruche en céramique émaillée verte\", \"description\": \"Verseuse en porcelaine d'une belle couleur verte, soigneusement travaillée et décorée de motifs en relief de grand volume. Cette pièce est une excellente option à la fois pour servir de l'eau fraîche ou des limonades ou comme objet décoratif attrayant dans n'importe quel espace de votre maison.\\n\\nIl présente quelques légers dégâts comme on peut le voir sur les photographies.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 209,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ9442002",
+        "price": 33.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"fr\": {\"title\": \"Assiette à Dessert - Design Rayé Bleu Mer\", \"description\": \"Ajoutez une touche de fraîcheur et de caractère artisanal à votre table avec cette assiette à dessert de 18,50 cm, création exclusive de l'atelier Ollarus. Cette pièce n'est pas seulement un support pour vos bonbons préférés, mais une déclaration de style qui célèbre la beauté du fait main.\\n\\nHabillez votre table avec l'authenticité des céramiques signature et transformez chaque bouchée en une expérience visuelle aussi délicieuse que le menu lui-même.\\n\\nFiche technique\\n\\nFonctionnalités en vedette\\n\\nRecommandations d'utilisation\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ7409717",
+        "price": 10.0,
+        "currency": "EUR",
+        "quantity": 8,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  }
+]

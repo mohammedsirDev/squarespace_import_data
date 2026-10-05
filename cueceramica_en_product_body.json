@@ -1,0 +1,3335 @@
+[
+  {
+    "expected_images": 2,
+    "translations": "{\"en\": {\"title\": \"Pink Nini Mug – MINI\", \"description\": \"The Nini mug is a small handmade jewel that combines Nordic design, charm and functionality. Made of high-quality stoneware, it stands out for its delicate shape and its cheerful striped decoration in pink and gray tones, which add a touch of color and vitality to any kitchen table or shelf.\\n\\nEach mug is hand painted, meaning no two are the same. The slight variations in color and intensity are part of its beauty, reflecting the authenticity and care that characterize Bloomingville pieces. Its smooth finish and compact size make it ideal for enjoying a short coffee, an espresso or a relaxing infusion.\\n\\nIn addition to being practical, the Nini mug is a decorative element in itself. Place it next to other ceramic pieces on a shelf or display case to add a touch of artisanal and Nordic style to the environment. Its cheerful design and subtle coloring make it a perfect gift for those who enjoy small everyday details.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 201,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ5807116",
+        "price": 9.2,
+        "currency": "EUR",
+        "quantity": 5,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"en\": {\"title\": \"Grottaglie blue and red ceramic vase\", \"description\": \"This blue and red Grottaglie ceramic vase is handmade by Gianluca Annicchiarico, ceramic craftsman from Grottaglie, in the province of Taranto, Puglia. The piece is worked on a wheel and finished with a shiny enamel that combines a deep blue with a very intense red stripe.\\n\\nThe contrast between both colors gives the piece a very graphic and contemporary aesthetic, while maintaining the irregular and unique character of artisanal ceramics. Small variations in glaze, shape and surface are a natural part of the making process and make each piece different.\\n\\nWith approximate measurements of Ø 19 × H 17 cm, it can be used as a decorative container, vase or protagonist piece on a table, shelf or sideboard.\\n\\nA piece made in Italy that reflects Grottaglie's ceramic tradition from a modern perspective, with color, simplicity and a strong visual presence.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 205,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ8673351",
+        "price": 12.0,
+        "currency": "EUR",
+        "quantity": 7,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"en\": {\"title\": \"Grottaglie Blue Ceramic Vase\", \"description\": \"This blue Grottaglie ceramic glass is handmade by Gianluca Annicchiarico, an artisan specialized in semi-finished products and ceramic pieces. Each piece is worked on the wheel in Grottaglie, province of Taranto, in Puglia, one of the great historical centers of Italian ceramics.\\n\\nIts finish combines different intensities of blue, from deep tones to turquoise nuances, creating a surface full of reflections and variations. The artisanal process means that each glass presents small differences in shape, glaze and color, making it a unique piece.\\n\\nMeasuring approximately 17 × 16 cm, it stands out for its presence and a Mediterranean aesthetic with simple and contemporary lines. A piece that unites the ceramic tradition of Grottaglie with the character of handmade work in Italy.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 205,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ8469446",
+        "price": 12.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 6,
+    "translations": "{\"en\": {\"title\": \"Turquoise Blue and Cobalt Ceramic Jar\", \"description\": \"This handmade ceramic jar with lid is made and glazed by hand in Puglia, southern Italy, reinterpreting the ceramic tradition of the region from a simple, modern and colorful aesthetic.\\n\\nIts cylindrical and compact shape makes it a versatile piece for everyday use. The two-tone finish combines a luminous turquoise blue at the bottom with an intense cobalt blue at the top, creating a clean and very Mediterranean contrast.\\n\\nSmall variations in shape, glaze and color intensity are a consequence of the artisanal process and are part of the unique character of each piece.\\n\\nIt can be used as a storage jar, container for small objects or decorative piece, adding color and personality to the kitchen, table, shelf or any corner of the house.\\n\\nA functional and decorative piece that connects the pottery tradition of Puglia with a contemporary aesthetic.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 207,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ7180745",
+        "price": 25.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 6,
+    "translations": "{\"en\": {\"title\": \"Blue and emerald green jar\", \"description\": \"This handmade ceramic jar with lid is made and glazed by hand in Puglia, southern Italy, a region deeply linked to the Mediterranean pottery tradition.\\n\\nIts simple, slightly truncated silhouette is completed with a matching ceramic lid. The glaze combines an intense emerald green in the upper part with turquoise blue in the lower part, creating an irregular color transition full of nuances that highlights the artisanal nature of the piece.\\n\\nManual work means that each jar presents small variations in shape, glaze and color intensity. These differences are part of its uniqueness and make each piece a unique object.\\n\\nIts design is based on the traditional ceramic containers used in Puglia to store and preserve food, reinterpreted here from a more contemporary aesthetic. It can be used as a storage jar, container for small objects or simply as a decorative element in a kitchen, a shelf or on a table.\\n\\nA piece with a strong Mediterranean character that combines tradition, color and Italian craftsmanship with a simple and modern design.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 207,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ6214975",
+        "price": 30.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"en\": {\"title\": \"Blue and violet oil bottle\", \"description\": \"This handmade ceramic oil pot is made and painted by hand.\\n\\nMade in Grottaglie, Puglia, one of the Italian towns most recognized for its ceramic tradition, it combines manual clay work with enamelled decoration made by artisans who have transmitted these techniques from generation to generation.\\n\\nIts finish in intense blue and violet, with a shiny surface and slight chromatic variations, highlights its rounded shape and gives the piece a very special character. Each oil bottle presents small differences inherent to the artisanal process, so each piece is unique.\\n\\nIt is made with certified enamels suitable for food use, so it can be used as an oil can on the table or in the kitchen. At the same time, its design and color combination allow it to be used as a decorative object, providing a handmade and Mediterranean touch to any space.\\n\\nA functional and decorative piece that brings together Grottaglie's ceramic tradition with a contemporary and colorful aesthetic.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 207,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ1761522",
+        "price": 30.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"en\": {\"title\": \"Italian yellow and blue jug\", \"description\": \"The handmade ceramic jug is made by hand in Grottaglie.\\n\\nThe enamel finish combines an intense cobalt blue on the top with luminous yellow on the base, united by a subtle green stripe created by the transition between both enamels. A vibrant and Mediterranean combination that turns each jug into a particularly decorative piece. In the central part it has a delicate relief border made on the ceramic itself, providing texture and reinforcing its artisanal character.\\n\\nThanks to its manual production, small variations in color, glaze or shape may appear. These irregularities are typical of the artisanal process and make each piece unique and unrepeatable.\\n\\nPerfect both for serving water or other drinks and for using it as a vase or decorative element, adding color and personality to the table, kitchen or any corner of the house.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 209,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0300000",
+        "price": 35.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"en\": {\"title\": \"Italian red and gray jug\", \"description\": \"Salento, located in the Puglia region, in southern Italy, has a long pottery tradition that is reflected in the simple and functional forms of this “Brocca”\\n\\nIts enameled finish combines a deep red on the top with a stone gray tone on the base, creating a contemporary contrast that updates a piece with deeply traditional roots.\\n\\nMade with natural enamels, each jug presents small variations typical of the artisan work that make each piece a unique object.\\n\\nArtisan production Made in Salento, for Cue Cerámica.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 209,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ8589603",
+        "price": 25.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"en\": {\"title\": \"Yellow and Green Cape\", \"description\": \"The ceramic Capasa recovers one of the traditional forms of domestic ceramics from Puglia. In the past, these pieces were used to preserve food, especially products prepared in oil or vinegar, such as artichokes, eggplants or peppers.\\n\\nHandcrafted in Grottaglie, this capasa maintains its characteristic cylindrical shape and its two small side handles, reinterpreting an everyday piece as a decorative and functional object for the home and the table. It can also be used as a vase for flowers, branches or decorative compositions, providing a handmade and Mediterranean touch to any space.\\n\\nIts enamelled finish combines intense yellow on the top and deep green on the base, creating a simple and very characteristic color contrast. The slight variations in the enamel, typical of artisanal production, make each piece unique.\\n\\nA piece full of personality that unites the ceramic tradition of Grottaglie, Puglia, with a fresh and contemporary aesthetic, perfect for adding color to a table, a kitchen, a shelf or any corner of the house.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 207,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ6705581",
+        "price": 30.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 5,
+    "translations": "{\"en\": {\"title\": \"Odina XL jug. 3l\", \"description\": \"The Odina jug fuses nostalgic delicacy with a touch of contemporary design. Its neutral tone background serves as the perfect canvas to highlight a charming floral motif in shades of pink and blue. As a striking contrast, its intense pink handle adds a modern and dynamic nuance that enriches its romantic silhouette.\\n\\nRomantic elegance with a modern touch\\n\\nA versatile accessory designed both to dress your table with distinction and to function as a decorative object full of charm.\\n\\nProduct details\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 209,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ5299749",
+        "price": 54.0,
+        "currency": "EUR",
+        "quantity": 2,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 8,
+    "translations": "{\"en\": {\"title\": \"Begonia Mug. 44cl\", \"description\": \"The Begonia mug adds a touch of warmth and artisanal charm to your moments of pause. Made of high-quality stoneware, it is hand-decorated with a delicate striped pattern in a soft light blue tone that conveys serenity and style.\\n\\nUnique charm in every sip\\n\\nBeing painted by hand, each piece has slight variations that give it its own and unrepeatable character.\\n\\nProduct details\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 201,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ4256391",
+        "price": 20.0,
+        "currency": "EUR",
+        "quantity": 6,
+        "attributes": {
+          "Color": "Azul"
+        }
+      },
+      {
+        "sku": "SQ6825802",
+        "price": 20.0,
+        "currency": "EUR",
+        "quantity": 6,
+        "attributes": {
+          "Color": "Marrón"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"en\": {\"title\": \"Carlie Blue Crystal Vase\", \"description\": \"The Carlie vase is a crystal jewel that balances art and serenity. It stands out for its soft blue tone with an enveloping marble texture, boldly contrasted by elegant sculptural handles in beige and orange tones. A piece with a unique presence and balanced visual language.\\n\\nCraftsmanship and personality in glass\\n\\nBlown and molded by hand, each vase has its own soul that highlights the beauty of artisanal work.\\n\\nProduct details\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 210,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ6385725",
+        "price": 51.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"en\": {\"title\": \"Bess Candlestick\", \"description\": \"The Bess candle holder is a highly decorative piece designed to attract everyone's attention. Made of polyresin in a vibrant blue tone, it stands out for its refined silhouette of geometric lines that brings a modern, intricate air and full of character to any room.\\n\\nGeometry and decorative versatility\\n\\nIts architectural design and intense color palette make it the center of attention, offering endless possibilities to stylize your home.\\n\\nProduct details\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ5948869",
+        "price": 27.0,
+        "currency": "EUR",
+        "quantity": 5,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 7,
+    "translations": "{\"en\": {\"title\": \"Eimy water jug. 1l\", \"description\": \"The Eimy jug stands out for its serene elegance and artisanal soul. Made in a sophisticated blue tone, it is hand-decorated with a delicate floral branch in soft tones that gives it a refined, serene and timeless air.\\n\\nCraftsmanship and delicacy on your table\\n\\nEach jug is painted individually, so it presents slight variations in color intensity that make each piece a unique work.\\n\\nProduct details\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 209,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ7351066",
+        "price": 40.0,
+        "currency": "EUR",
+        "quantity": 3,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"en\": {\"title\": \"Cyrill Salt and Pepper Shaker Set\", \"description\": \"The Cyrill salt and pepper shaker set adds a lively, artisanal touch to the table. Made of stoneware with green nuances and a shiny glaze full of dynamism, it stands out for its decorative shapes of great character that make it a natural element for any gastronomic presentation.\\n\\nHandmade and unrepeatable design\\n\\nIts enamel finish interacts in a unique way during firing, ensuring that no two pieces are exactly the same.\\n\\nProduct details\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 207,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0589429",
+        "price": 19.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"en\": {\"title\": \"Yellow Marsala bowl\", \"description\": \"The Marsala bowl stands out for its artisanal charm and its careful texture. Made in an elegant mustard yellow tone, it presents a delicate embossed engraving with small flowers under the glaze that gives it a subtle, warm touch and full of personality.\\n\\nFunctional elegance for your table\\n\\nIts versatile design makes it the perfect deep plate for both everyday use and special presentations.\\n\\nProduct details\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 203,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0715477",
+        "price": 21.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"en\": {\"title\": \"Marsala Bowl in Brown\", \"description\": \"The Marsala bowl from Creative Collection stands out for its artisanal charm and its careful texture. Made in an elegant dark brown tone, it presents a delicate embossed engraving with small flowers under the glaze that gives it a subtle, warm touch and full of personality.\\n\\nFunctional elegance for your table\\n\\nIts versatile design makes it the perfect deep plate for both everyday use and special presentations.\\n\\nProduct details\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 203,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ6586228",
+        "price": 22.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"en\": {\"title\": \"HAYAN Vase / Planter\", \"description\": \"Hayan vase, a stoneware piece with a unique and markedly artisanal character. It features a warm brown hue with a glossy finish, contrasted by bold black eye motifs. Its four circular handles on the sides give it a distinctive silhouette full of personality, while its hand-painting guarantees that each piece is unrepeatable.\\n\\nHandcrafted design with its own character\\n\\nDesigned to become the center of attention, this planter combines the warmth of traditional stoneware with a modern, sculptural-inspired design.\\n\\nProduct details\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 214,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ2869282",
+        "price": 33.0,
+        "currency": "EUR",
+        "quantity": 3,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 6,
+    "translations": "{\"en\": {\"title\": \"Artist Blanket - Cotton\", \"description\": \"The Artist blanket turns any space into a gallery of contemporary design. Woven and printed with large abstract color blocks in shades of green and blue on a light beige base, this piece stands out for its bold and artistic visual presence. Its long fringes on the edges give it a casual touch and full of texture.\\n\\nEco-conscious textile art\\n\\nMade under the philosophy \\\"Never refuse to reuse\\\", this blanket transforms leftovers from the textile industry into a high-level decorative piece. Leftover materials are converted into new purified fibers to give life to a soft, functional and sustainable fabric.\\n\\nProduct details\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 215,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ4846414",
+        "price": 30.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"en\": {\"title\": \"OIA Blanket - Cotton\", \"description\": \"Bloomingville's Oia blanket dresses your home with a warm and cozy aesthetic. Woven in warm red tones with beige undertones, it combines intricate snowflake motifs with horizontal striped patterns for a classic and timeless seasonal look. Its elegant tassel fringes on the edges provide a soft texture and an impeccable decorative touch.\\n\\nSustainability in every fiber\\n\\nCreated under the philosophy \\\"Never refuse to reuse\\\", this piece is committed to the circular economy by transforming leftovers from the textile industry into a unique piece. Leftover cotton scraps are carefully granulated and processed into new, high-quality textile fibers.\\n\\nProduct details\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 215,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ8122304",
+        "price": 27.0,
+        "currency": "EUR",
+        "quantity": 5,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"en\": {\"title\": \"Gutte Blanket - Cotton\", \"description\": \"Bloomingville's Gutte blanket combines sustainability and contemporary design. Woven from a mix of recycled cotton and polyester, it shows off a bold geometric pattern in black and beige tones that provides a visual contrast full of personality. Its long fringes on the edges add a decorative finish that highlights the artisanal character of the piece.\\n\\nEco-conscious design\\n\\nMade under the motto \\\"Never refuse to reuse\\\", this blanket embraces the circular economy giving a second life to leftovers from the textile industry. Instead of being discarded, cotton scraps are processed and transformed into useful and strong new fibers.\\n\\nProduct details\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 215,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ8110543",
+        "price": 27.0,
+        "currency": "EUR",
+        "quantity": 5,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 6,
+    "translations": "{\"en\": {\"title\": \"Vinay Blanket - Cotton\", \"description\": \"The Vinay blanket from Creative Collection is a textile piece woven in dark blue, beige and black tones. It stands out for its bold horizontal wave pattern visible on both sides and its long multicolor fringe finishes, which include a dynamic black and white border.\\n\\nDesign with soul and ecological awareness\\n\\nMade from recycled cotton, each blanket gives a second life to scraps and leftovers from the textile industry. Instead of discarding these materials, the fibers are processed and transformed into a completely new yarn, strong and soft to the touch.\\n\\nProduct details\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 215,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ1242897",
+        "price": 27.0,
+        "currency": "EUR",
+        "quantity": 3,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 5,
+    "translations": "{\"en\": {\"title\": \"Remy blanket in pink tones\", \"description\": \"The Bloomingville Remy blanket is a decorative and versatile piece that combines design, comfort and sustainability. With a different print on each side, it offers two styles in one piece, allowing you to easily renew the atmosphere of any space.\\n\\nOn the front it presents an eopz drawing in blue colors under pink and maroon. The reverse, for its part, is decorated with elegant woven blue stripes that provide a more dynamic and modern style. Each of its corners is finished with tassels in a blue tone just like the drawn fish, a charming detail that adds texture and personality to the design.\\n\\nMade from recycled materials, this blanket reflects a commitment to more responsible consumption without sacrificing quality or style. Its soft and pleasant to the touch texture makes it the perfect companion for cozy moments on the sofa, in bed or in your favorite reading corner.\\n\\nIdeal for adding warmth, color and character to home decoration, the Eviaya blanket is both a functional complement and a decorative element with its own charm.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 215,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ7668861",
+        "price": 25.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"en\": {\"title\": \"Hatty Chandelier in Blue and White\", \"description\": \"Made of stoneware, the Hatty candelabra stands out for its sober design but with a graphic nod. Its hand-painted blue strokes on the neutral base provide a feeling of calm and balance. Thanks to these colorful and simple details, it is a decorative piece that is very adaptable to any home style. As it is decorated by hand, the intensity and tone of the lines may vary slightly.\\n\\nHatty Chandelier Features:\\n\\nMaterial: Ceramic\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ4321606",
+        "price": 30.0,
+        "currency": "EUR",
+        "quantity": 6,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"en\": {\"title\": \"EDIVA Candelabra - Two candles\", \"description\": \"Bloomingville's Edivia chandelier features a sculptural design of wavy branches and side protrusions. His handmade painting integrates purple, red and orange tones in a dynamic and artistic style. Since the color presents small variations, each specimen is unique.\\n\\nCandle holder details:\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ8533522",
+        "price": 38.0,
+        "currency": "EUR",
+        "quantity": 5,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 6,
+    "translations": "{\"en\": {\"title\": \"Complete Tableware - Palmeiras - Ollarus\", \"description\": \"Discover this fantastic 18-piece handmade tableware, made up of plates of three different sizes and made by the Portuguese studio OLLARUS, in São Pedro do Corval, Alentejo region (Portugal). An area closely linked to the Portuguese pottery tradition.\\n\\nThe tableware includes:\\n\\nThe Palmeiras tableware is glazed in beige and hand-decorated with delicate motifs of palm trees and moons in green. Its design conveys calm and simplicity, combining Portuguese ceramic tradition with a contemporary aesthetic with a marked Mediterranean character.\\n\\nMade of stoneware ceramic, it is elegant, resistant and functional tableware, designed both for everyday use and to dress a special table. Its three sizes allow the pieces to be used for starters, desserts, main courses or dinners, creating a harmonious composition full of personality.\\n\\nAs it is an artisanal and hand-painted production, each piece may present slight variations in color, shape and finish, characteristics that make each tableware unique.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 217,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ3423657",
+        "price": 330.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"en\": {\"title\": \"Ceramic Cactus - Wall Decoration\", \"description\": \"This decorative ceramic cactus, handcrafted in Grottaglie, Puglia, is a versatile piece designed to add color and character to any space. On the back it includes a small rope that allows it to be easily hung on the wall, although it can also be placed on a dresser, console or side table as a decorative object.\\n\\nDue to its slightly concave shape, it can also be used as a pocket emptyer, a tray for keys, jewelry or other small everyday objects. A functional and decorative piece that keeps the small irregularities of artisanal work visible.\\n\\nIt is made by hand in Grottaglie, one of the towns most closely linked to the Italian ceramic tradition. Located in Puglia, the city preserves a strong artisanal identity in which historical workshops, traditional kilns, laboratories and new generations of ceramicists and contemporary artists coexist.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ1663431",
+        "price": 30.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"en\": {\"title\": \"Blue Saudade Salad Bowl. 30cm\", \"description\": \"Handmade salad bowl from the OLLARUS studio, made in Portugal and belonging to the SAUDADE AZUL collection. Modeled on a potter's wheel and painted by hand and details of clear Mediterranean inspiration that combine the Portuguese ceramic tradition with a contemporary aesthetic.\\n\\nIts 30cm format makes it especially versatile: ideal for a salad or used as a decorative piece—either as a centerpiece—. Each unit shows slight variations in drawing and brushstrokes, typical of manual work, which makes each plate a unique piece.\\n\\nTechnical sheet\\n\\nFeatured Features\\n\\nRecommendations for use\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 212,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0218740",
+        "price": 40.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 5,
+    "translations": "{\"en\": {\"title\": \"Blue Saudade Tray. 38cm\", \"description\": \"This spectacular ceramic tray is made and painted by hand. It is perfect to serve in the center of the table, as a salad bowl or as a decorative element. You can present a dessert, starters or a centerpiece to share.\\n\\nEach unit presents subtle variations typical of its manual manufacture, which makes each piece a unique and unrepeatable object.\\n\\nTechnical sheet\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0598039",
+        "price": 40.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"en\": {\"title\": \"Pomegranates bowl. 16cm\", \"description\": \"Handmade bowl belonging to the Romãs collection, made on a potter's wheel and hand painted in the OLLARUS studio, in São Pedro do Corval, Portugal. Its versatile format and balanced proportions make it an ideal piece for serving appetizers, small accompaniments, desserts or snacks.\\n\\nMade in a traditional Portuguese mill with more than 20 years of experience, each bowl presents subtle variations that reflect the value and authenticity of the artisan work.\\n\\nTechnical Sheet\\n\\nTechnique: Made on a potter's wheel and hand painted\\nOrigin: São Pedro do Corval, Portugal\\nManufacturing: Traditional Portuguese Olaria with more than 20 years of experience\\nDiameter: 16cm\\nHeight: 4cm\\nUse: Food / Decorative\\n\\nFeatures:\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 212,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0373664",
+        "price": 12.0,
+        "currency": "EUR",
+        "quantity": 3,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 1,
+    "translations": "{\"en\": {\"title\": \"Saudade Sol Plate 25.5cm\", \"description\": \"Handmade serving plate from the OLLARUS studio, manufactured in Portugal and belonging to the SAUDADE SOL COR collection. Modeled on a potter's wheel and painted by hand and details of clear Mediterranean inspiration that combine the Portuguese ceramic tradition with a contemporary aesthetic.\\n\\nIts 25.5cm format makes it especially versatile: ideal for first courses or used as a decorative piece—either as a centerpiece or hanging on the wall. Each unit shows slight variations in drawing and brushstrokes, typical of manual work, which makes each plate a unique piece.\\n\\nTechnical sheet\\n\\nFeatured Features\\n\\nRecommendations for use\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ8337625",
+        "price": 20.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"en\": {\"title\": \"Saudade Sol Plate 20cm\", \"description\": \"Handmade serving plate from the OLLARUS studio, manufactured in Portugal and belonging to the SAUDADE SOL COR collection. Modeled on a potter's wheel and painted by hand and details of clear Mediterranean inspiration that combine the Portuguese ceramic tradition with a contemporary aesthetic.\\n\\nIts 20cm format makes it especially versatile: ideal for dessert or used as a decorative piece—either as a centerpiece or hanging on the wall. Each unit shows slight variations in drawing and brushstrokes, typical of manual work, which makes each plate a unique piece.\\n\\nTechnical sheet\\n\\nFeatured Features\\n\\nRecommendations for use\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0315963",
+        "price": 17.0,
+        "currency": "EUR",
+        "quantity": 6,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"en\": {\"title\": \"Saudade Sol Fountain - 28cm\", \"description\": \"piece a special object both for the table and for decoration.\\n\\nMeasuring 28 cm long x 17.5 cm wide, it is ideal for presenting starters, appetizers, side dishes or small dishes in the center of the table. It can also be used as a baking dish, as long as the finish and the piece are indicated for this, or as a decorative plate to add color and personality to any space.\\n\\nA versatile piece that unites functionality, craftsmanship and the characteristic graphic language of the Portuguese studio OLLARUS.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ3939870",
+        "price": 30.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 6,
+    "translations": "{\"en\": {\"title\": \"Blue Saudade water jug. 1.5l\", \"description\": \"Handmade jug from the Portuguese studio OLLARUS, made in Portugal and belonging to the Saudade collection, a line that recovers the deep blue of the Portuguese ceramic tradition through simple and expressive drawings inspired by Mediterranean elements such as lemons, leaves and plant motifs.\\n\\nModeled on a potter's wheel and hand-painted, the jug combines a cream-colored enamelled exterior with cobalt blue details and a striking terracotta-colored interior, which provides contrast and personality to the piece. The name Saudade, also hand-painted on its surface, reinforces its link with Portuguese culture and sensibility.\\n\\nIts tall and generous silhouette, with a wide handle and pouring spout, makes it a piece that is as functional as it is decorative. It is perfect for serving water, lemonade or other drinks, but it can also be used as a vase for flowers or branches and as a decorative element on tables, kitchens or interior design projects.\\n\\nWith an approximate capacity of 1.8 to 2.1 liters, it is designed both for everyday use and to occupy a leading place in the house.\\n\\nEach unit presents small variations in the shape, line and glaze, typical of its manual production, making each jug a unique and unrepeatable piece.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 209,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ7239534",
+        "price": 33.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 9,
+    "translations": "{\"en\": {\"title\": \"Hand painted Pomegranate salad bowl 31cm\", \"description\": \"Dimensions:\\n\\nDiameter: 31cm\\n\\nHeight: 8.5cm\\n\\nDishwasher and microwave safe.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ6517059",
+        "price": 34.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Verde agua"
+        }
+      },
+      {
+        "sku": "SQ6116846",
+        "price": 34.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Azul"
+        }
+      },
+      {
+        "sku": "SQ8336850",
+        "price": 34.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Rojo"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"en\": {\"title\": \"Granada water jug ​​2 liters\", \"description\": \"This jug from the emblematic Fábrica Arrayanes recovers and maintains the original design of the historic Fajalauza ceramics from Granada. Each piece is painstakingly hand painted, making it a unique and functional work of art.\\n\\nThanks to the natural properties of ceramic, it is perfect for keeping water or your favorite drinks at a cool and healthy temperature in a completely natural way.\\n\\nWith a generous capacity of 2 liters, it is the ideal piece both to dress your table on a daily basis and to surprise on special occasions. In addition, it adapts to the current pace of life and is dishwasher and refrigerator safe.\\n\\nBring a piece of Granada's history and unique design to your home.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 209,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ7050983",
+        "price": 30.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Rosa"
+        }
+      },
+      {
+        "sku": "SQ6857539",
+        "price": 30.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Azul"
+        }
+      },
+      {
+        "sku": "SQ3797329",
+        "price": 30.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Verde agua"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"en\": {\"title\": \"Bowl - Repainted Green - Granada Ceramics\", \"description\": \"A breakfast with granola, a fresh gazpacho or a hot soup in winter... These bowls are the perfect complement for any time of the year. Designed in Granada by the Fábrica Arrayanes and hand painted, they are that piece of exclusive design that brightens the daily routine.\\n\\nWhy are you going to love them?\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 203,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ1845014",
+        "price": 15.0,
+        "currency": "EUR",
+        "quantity": 5,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"en\": {\"title\": \"Salt and Sugar Bowl from Fajaluza, Granada\", \"description\": \"This special piece is original from the Fábrica de Arrayanes de Granada, Spain. It is hand painted on clay, it is ideal for keeping sugar or salt at the correct temperature. Its dimensions are 11 x15 centimeters, perfect for storing and serving in a comfortable and stylish way.\\n\\nAvailable in Pink and Blue, combining craftsmanship with touches of color and design.\\n\\nPerfect for everyday use or for special occasions.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 207,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ6919669",
+        "price": 20.0,
+        "currency": "EUR",
+        "quantity": 2,
+        "attributes": {
+          "Color": "Rosa"
+        }
+      },
+      {
+        "sku": "SQ8134949",
+        "price": 18.0,
+        "currency": "EUR",
+        "quantity": 2,
+        "attributes": {
+          "Color": "Azul"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 5,
+    "translations": "{\"en\": {\"title\": \"Dinner Plate - Green Repainted - Granada Ceramic - 23cm\", \"description\": \"A versatile piece full of character, perfect for serving starters, main courses, desserts or small table compositions. This plate belongs to the artisanal collection of the Fábrica de los Arrayanes, where each unit is decorated by hand following traditional techniques.\\n\\nCurrently, this model is available exclusively in green, a fresh tone and very representative of Granada ceramics, which enhances the plant pattern and adds personality to the table.\\n\\nIts hand-painted decoration means that each plate presents slight variations in the line and finish, turning each piece into a unique object. A proposal that combines functionality, tradition and the charm of artisanal ceramics from southern Spain.\\n\\nMicrowave safe: Yes\\nDishwasher safe: Yes\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ3467733",
+        "price": 12.0,
+        "currency": "EUR",
+        "quantity": 8,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 7,
+    "translations": "{\"en\": {\"title\": \"Set of 2 Large Deep Plates - Repainted - Granada Ceramics\", \"description\": \"Bring the tradition of Granada ceramics to your table with this set of 2 large-format deep plates from the Fábrica Arrayanes, handcrafted following the centuries-old Fajalauza technique.\\n\\nWith their 29 cm in diameter, these plates are designed to present pasta, rice, salads or main dishes with a spectacular presence. Its large size and hand-painted decoration turn each piece into a functional object and, at the same time, an authentic piece of craftsmanship.\\n\\nAvailable in a vibrant range of red, yellow and green, you can combine two of the same or different colors and create your own pair. Being made and decorated by hand, each plate presents small variations in line, color and finish that make each unit unique.\\n\\nSpecial promotion set of 2: when buying two plates, each unit costs €20, so the complete set has a promotional price of €40.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 217,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ5958698",
+        "price": 20.0,
+        "currency": "EUR",
+        "quantity": 3,
+        "attributes": {
+          "Color": "Verde agua"
+        }
+      },
+      {
+        "sku": "SQ2939077",
+        "price": 20.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {
+          "Color": "Rojo"
+        }
+      },
+      {
+        "sku": "SQ8657034",
+        "price": 20.0,
+        "currency": "EUR",
+        "quantity": 8,
+        "attributes": {
+          "Color": "Amarillo"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"en\": {\"title\": \"Handmade Bowl - Orange Stripes Design\", \"description\": \"This 16 cm bowl is an emblematic piece from the Ollarus workshop, where pottery tradition meets a contemporary and warm design. Each piece is unique, reflecting the manual stroke and careful detail that only artisanal work can offer.\\n\\nMain features:\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ1622032",
+        "price": 8.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"en\": {\"title\": \"Water Jug - White & Black\", \"description\": \"Ceramic water jug ​​from the Ollarus design studio. Effective at preserving water at room temperature. Black cross design in the center of the jug.\\n\\nMeasurements: (D)-13.00cm (W)-20.50cm\\n\\nCapacity: 1.2L\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 209,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0322061",
+        "price": 35.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"en\": {\"title\": \"Rectangular tray - Green Repainted - Granada Ceramic - 34cm\", \"description\": \"Discover this completely artisanal rabanera made in Spain.  A rectangular design ideal to present in the center of a table, decorative or enjoy a designer plate for your kitchen.\\n\\nModeled on a potter's wheel and painted by hand, it presents a motif in the center and details of clear Mediterranean inspiration that combines the Spanish ceramic tradition with a contemporary aesthetic.\\n\\nIts format makes it especially versatile: ideal for serving in the center of the table, presenting dishes to share or using as a decorative piece.  Each unit shows slight variations in drawing and brushstrokes, typical of manual work, which makes each plate a unique piece.\\n\\nTechnical sheet\\n\\nRecommendations for use\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 203,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ2402792",
+        "price": 22.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"en\": {\"title\": \"Palmeira Dessert Plate. 18.50cm.\", \"description\": \"Handmade plate from the Ollarus studio, made in Portugal, belonging to the Romãs collection. Made on a potter's wheel and hand painted, this piece combines the Portuguese ceramic tradition with a contemporary Mediterranean aesthetic.\\n\\nVersatile and functional: its format is ideal as an auxiliary plate for desserts, appetizers or small presentations, providing a decorative and artisanal accent to the table. Each piece presents slight variations in brushwork and finish that reflect the uniqueness of the manual process.\\n\\nTechnical sheet\\n\\nFeatured Features\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ9635009",
+        "price": 15.0,
+        "currency": "EUR",
+        "quantity": 6,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"en\": {\"title\": \"Palmeira Medium Dinner Plate. 25.5cm\", \"description\": \"Handmade serving plate from the OLLARUS studio, manufactured in Portugal and belonging to the Palmeiras collection. Modeled on a potter's wheel and hand painted, it presents a Palm Tree motif in the center in blue green and details of clear Mediterranean inspiration that combines the Portuguese ceramic tradition with a contemporary aesthetic.\\n\\nIts medium format (diameter 25.50 cm) makes it especially versatile: ideal for first courses or used as a decorative piece—either as a centerpiece or hanging on the wall. Each unit shows slight variations in drawing and brushstrokes, typical of manual work, which makes each plate a unique piece.\\n\\nTechnical sheet\\n\\nFeatured Features\\n\\nRecommendations for use\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0301017",
+        "price": 23.0,
+        "currency": "EUR",
+        "quantity": 6,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"en\": {\"title\": \"Palmeiras Large Dinner Plate. 30cm\", \"description\": \"Artisanal serving plate — Palmeiras Collection (OLLARUS Studio)\\n\\nHandmade serving plate from the OLLARUS studio, manufactured in Portugal and belonging to the Palmeiras collection. Modeled on a potter's wheel and hand painted, it presents a Palm Tree motif in the center in blue green and details of clear Mediterranean inspiration that combines the Portuguese ceramic tradition with a contemporary aesthetic.\\n\\nIts large format (diameter 30 cm) makes it especially versatile: ideal for serving on the table, presenting dishes to share or using as a decorative piece—either as a centerpiece or hanging on the wall. Each unit shows slight variations in drawing and brushstrokes, typical of manual work, which makes each plate a unique piece.\\n\\nTechnical sheet\\n\\nFeatured Features\\n\\nRecommendations for use\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ4166761",
+        "price": 30.0,
+        "currency": "EUR",
+        "quantity": 6,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"en\": {\"title\": \"Set of 6 plates - Palmeiras - Ollarus\", \"description\": \"This hand-painted and handcrafted tableware consists of 3 flat plates: main, second and dessert. Ideal tableware for everyday life with style and art.\\n\\nTechnical sheet\\n\\nTechnique: Made on a potter's wheel and hand painted\\n\\nDiameter:\\n\\nUse: Food / Service / Decorative\\n\\nMaterial: Glazed handmade ceramics\\n\\nStudio: OLLARUS\\n\\nOrigin: Made in Portugal\\n\\nFeatured Features\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 217,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ6757335",
+        "price": 140.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {
+          "Comensales": "Vajilla para 2"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"en\": {\"title\": \"Hand Painted Grenadine Ceramic Oil Pot – 1L\", \"description\": \"Preserve and serve your oil with the authenticity of traditional pottery. This ceramic oil pot, hand-painted in Granada, is not only a functional utensil, but a unique piece of craftsmanship ideal to show off in your kitchen or table thanks to its beautiful traditional floral motifs.\\n\\nSpecially designed for the use of raw oil, it has a practical dispenser that allows you to dispense the right amount in a comfortable, clean and simple way. Being made of ceramic, it protects the oil from light, preserving all its properties and flavor intact.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 207,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ6657755",
+        "price": 22.5,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Verde agua"
+        }
+      },
+      {
+        "sku": "SQ5099568",
+        "price": 20.5,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Azul"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"en\": {\"title\": \"Pomegranates bowl. 13.5cm\", \"description\": \"Handmade bowl belonging to the Romãs collection, made on a potter's wheel and hand painted in the OLLARUS studio, in São Pedro do Corval, Portugal. Its versatile format and balanced proportions make it an ideal piece for serving appetizers, small accompaniments, desserts or snacks.\\n\\nMade in a traditional Portuguese mill with more than 20 years of experience, each bowl presents subtle variations that reflect the value and authenticity of the artisan work.\\n\\nTechnical Sheet\\n\\nTechnique: Made on a potter's wheel and hand painted\\nOrigin: São Pedro do Corval, Portugal\\nManufacturing: Traditional Portuguese Olaria with more than 20 years of experience\\nDiameter: 13.5cm\\nHeight: 4cm\\nUse: Food / Decorative\\n\\nFeatures:\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 212,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0699747",
+        "price": 7.0,
+        "currency": "EUR",
+        "quantity": 2,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"en\": {\"title\": \"Pomegranates Flat Plate. 30cm\", \"description\": \"Handcrafted serving plate — Romãs Collection (OLLARUS Studio)\\n\\nHandcrafted serving plate from the OLLARUS studio, manufactured in Portugal and belonging to the Romãs collection. Modeled on a potter's wheel and painted by hand, it presents a motif of red pomegranates and green leaves of clear Mediterranean inspiration that combines the Portuguese ceramic tradition with a contemporary aesthetic.\\n\\nIts large format (diameter 30 cm) makes it especially versatile: ideal for serving on the table, presenting dishes to share or using as a decorative piece—either as a centerpiece or hanging on the wall. Each unit shows slight variations in drawing and brushstrokes, typical of manual work, which makes each plate a unique piece.\\n\\nTechnical sheet\\n\\nFeatured Features\\n\\nRecommendations for use\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ5665462",
+        "price": 30.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"en\": {\"title\": \"Fixed Candelabra - ceramic green\", \"description\": \"The Bloomingville Fija chandelier is the perfect complement to bring warmth and style to any corner of the home. Its characteristic shape and elegant bright green enamel give it a unique personality, making it a decorative piece that stands out both on and off.\\n\\nIdeal for creating cozy environments, the Fija candle holder looks especially beautiful on a window sill, among houseplants and bouquets of flowers, where its enamelled finish subtly reflects natural light. It is also perfect for decorating shelves, side tables or centerpieces, adding a touch of color and sophistication.\\n\\nA versatile piece that combines functionality and design, designed for those who want to incorporate small details with charm and character in their decoration.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ6637426",
+        "price": 16.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 5,
+    "translations": "{\"en\": {\"title\": \"Eviaya blanket with blue tones in recycled cotton\", \"description\": \"The Eviaya blanket from Bloomingville is a decorative and versatile piece that combines design, comfort and sustainability. With a different print on each side, it offers two styles in one piece, allowing you to easily renew the atmosphere of any space.\\n\\nOn the front it presents a delicate pattern in blue and red tones that creates a harmonious and attractive contrast. The reverse, for its part, is decorated with elegant woven red stripes that provide a more dynamic and modern style. Each of its corners is finished with tassels in a yellowish tone, a charming detail that adds texture and personality to the design.\\n\\nMade from recycled materials, this blanket reflects a commitment to more responsible consumption without sacrificing quality or style. Its soft and pleasant to the touch texture makes it the perfect companion for cozy moments on the sofa, in bed or in your favorite reading corner.\\n\\nIdeal for adding warmth, color and character to home decoration, the Eviaya blanket is both a functional complement and a decorative element with its own charm.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 215,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ9563836",
+        "price": 25.0,
+        "currency": "EUR",
+        "quantity": 5,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 6,
+    "translations": "{\"en\": {\"title\": \"Set of two Bolivia ceramic cups\", \"description\": \"The Bloomingville Bolivia mug, presented in a two-piece set, stands out for its reactive glaze finish and hand-painted details, giving it an authentic character.\\n\\nIts design combines blocks in an intense navy blue tone with soft beige and pink nuances, forming an elegant geometric pattern that balances strength and delicacy.\\n\\nThanks to the glaze and manual painting process, slight variations in pattern and color intensity may occur, making each mug unique.\\n\\nPerfect for daily use or to complement a stylish table, Bolivia cups combine functionality and design in a versatile proposal full of personality.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 201,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ9814712",
+        "price": 30.0,
+        "currency": "EUR",
+        "quantity": 2,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"en\": {\"title\": \"Set 2 Heikki Mugs\", \"description\": \"Our set of 2 Heikki cups from Bloomingville is a piece that combines design, quality and warmth in every detail, becoming the ideal complement to your tableware collection. Its elegant green glaze provides freshness and naturalness, while the delicate relief pattern in a beige hue adds texture and visual depth, creating a subtle and harmonious contrast that does not go unnoticed.\\n\\nDesigned to transform your everyday moments into special experiences, the Heikki mug is perfect for enjoying your morning coffee, a relaxing afternoon tea or any hot drink to accompany your breaks during the day. Its cozy aesthetic makes it a decorative piece in itself, ideal both for daily use and to surprise your guests at meetings and special occasions.\\n\\nYou can combine this set of two cups with other designs to create a dynamic table with personality, or maintain a uniform line by incorporating more pieces from the same collection to achieve a coherent and elegant style. Thanks to its artisanal production and the nature of the reactive glaze, each mug presents slight variations in color and finish, making it a unique piece with its own character.\\n\\nThe Heikki mug is not only a functional accessory, but an expression of style that brings charm and authenticity to your home.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 201,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ1320068",
+        "price": 24.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 5,
+    "translations": "{\"en\": {\"title\": \"Bloomingville Kairi ceramic candle holder\", \"description\": \"Bloomingville's Kairi candle holder is hand-painted and full of color, designed to add charm to your decor. With its striking patterns and vibrant colors, it becomes a distinctive element in any room. Place this candle holder on a bookshelf, dining table or windowsill to create a cozy atmosphere. Hand-painted details make each candle holder unique, ensuring no two are alike.\\n\\nMeasurements Diameter9xHeight23 cm\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0200915",
+        "price": 34.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {
+          "unidades": "Unidad"
+        }
+      },
+      {
+        "sku": "SQ8810073",
+        "price": 60.0,
+        "currency": "EUR",
+        "quantity": 2,
+        "attributes": {
+          "unidades": "Pareja"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"en\": {\"title\": \"Graphica Vase in Blue by Bloomingville\", \"description\": \"Bloomingville's Graphica vase combines contemporary design and craftsmanship in a stoneware piece of great character. Its modern, graphic style makes it an eye-catching decorative element, while the hand-painted blue pattern adds an artistic and personal touch. Small variations in color and design make each vase unique, reflecting the craftsmanship that sets it apart.\\n\\nThanks to its versatility, you can use it to display your favorite flowers or simply place it on a shelf, table or window sill as a decorative detail that adds style and personality to any space. A piece that combines functionality and aesthetics, perfect for those looking to give a modern and elegant touch to their home.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 210,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ5317738",
+        "price": 50.0,
+        "currency": "EUR",
+        "quantity": 2,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"en\": {\"title\": \"Striped Orange Fian Vase\", \"description\": \"Bloomingville's Fian vase combines elegance and craftsmanship in a carefully designed ceramic piece. Its rounded body and narrow neck give it a balanced and sophisticated silhouette, while its shiny dolomite finish enhances the richness of its colors.\\n\\nThe vertical stripes in orange and off-white tones provide dynamism and a contemporary touch, creating an attractive visual effect from any angle. Each detail is hand painted, so slight variations in the pattern and color intensity may arise, making each vase a unique work, full of character and personality. Perfect both as a decorative element for any space and to complement floral arrangements with style.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 210,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ1632794",
+        "price": 12.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"en\": {\"title\": \"Lisver Water Jug. 1l\", \"description\": \"Handmade jug from the Lisver collection — Estudio OLLARUS\\n\\nHandcrafted jug from the OLLARUS studio, made in Portugal and part of the Lisvers collection, which rescues the color blue in its stripes. Modeled on a potter's wheel and hand painted, this piece fuses Portuguese ceramic tradition with a contemporary decorative language.\\n\\nIts generous silhouette and sculptural character make it a versatile object: perfect for serving water and other drinks, and at the same time suitable as a decorative element on tables and interior design projects. With an approximate capacity between 1.8 and 2.1 liters, it responds to both functional and ornamental use.\\n\\nEach unit presents subtle variations typical of its manual manufacture, which makes each piece a unique and unrepeatable object.\\n\\nTechnical sheet\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 209,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ9393287",
+        "price": 35.0,
+        "currency": "EUR",
+        "quantity": 2,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 5,
+    "translations": "{\"en\": {\"title\": \"Pedestal Bob fruit bowl, Ibizan style\", \"description\": \"This fruit bowl is perfect to transform into an attractive centerpiece or a decorative piece with a lot of personality. In addition, it is very useful for keeping the pantry organized.\\n\\nCapacity:1200ml\\n\\nThe Bob fruit bowl from Bloomingville is made of stoneware and has a delicate hand-painted finish in pink, yellow and blue tones, which adds freshness and personality to the piece. Its design with a raised base not only gives it height and presence, but also reinforces its decorative and casual character. Ideal for both functional use and display, this plate combines craftsmanship and contemporary design. The subtle variations in color and paint stroke reflect manual work and turn each piece into a unique object.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ2715825",
+        "price": 73.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 6,
+    "translations": "{\"en\": {\"title\": \"Fauni water jug, in yellow and stoneware\", \"description\": \"The Fauni jug from Creative Collection is made of stoneware and stands out for its careful decoration of hand-painted leaves in warm yellow tones, which add luminosity and personality to the piece. Its tall, stylized design, along with visible brush strokes, creates an artistic aesthetic full of movement. Slight variations in pattern and color intensity reflect the craftsmanship and make each jug a unique piece.\\n\\nDetails\\n\\nMeasurements Diameter12.5xHeight20.5 cm\\n\\nCapacity 2165ml\\n\\nColor Yellow\\n\\nBotany Style\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 209,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ4026118",
+        "price": 35.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"en\": {\"title\": \"Bashir vase in blue stoneware\", \"description\": \"Bloomingville's Bashir vase, made of stoneware, stands out for its sculptural and balanced design, with narrow lines at the top and bottom that gently widen in the center. Its bright blue enamel finish with a waxed effect is combined with delicate beige oval motifs. Slight variations in color and pattern add character.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 210,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ2141779",
+        "price": 27.0,
+        "currency": "EUR",
+        "quantity": 3,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 7,
+    "translations": "{\"en\": {\"title\": \"Dinner Plate - Green Repainted - Granada Ceramic - 26cm\", \"description\": \"Ideal for main courses and elegant presentations, this plate is part of the artisan tableware from the Fábrica de los Arrayanes, where each piece is hand-painted with pigments of natural origin.\\n\\nCurrently, this model is available exclusively in green, an intense tone full of character that enhances the traditional Granada-inspired motifs.\\n\\nIts shapes and decoration evoke the light, craftsmanship and ceramic tradition of southern Spain. A piece with great presence on the table, which combines history, manual work and uniqueness in each stroke.\\n\\nMicrowave safe: Yes\\nDishwasher safe: Yes\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ7224048",
+        "price": 15.0,
+        "currency": "EUR",
+        "quantity": 10,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 7,
+    "translations": "{\"en\": {\"title\": \"Dinner Plate - Green Repainted - Granada Ceramic - 20cm\", \"description\": \"Repainted Design\\n\\nIdeal for starters and first courses. This complete tableware is the ideal elegant and colorful presentation that is part of the artisanal tableware of the Fábrica de los Arrayanes, where each piece is hand painted with 100% natural dyes.\\n\\nIts vibrant colors and designs inspired by Granada tradition evoke the light and art of southern Spain. A piece with great presence on the table, which combines history, craftsmanship and exclusivity in every stroke.\\n\\nMicrowave safe: yes\\nDishwasher safe: yes\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ7966312",
+        "price": 10.0,
+        "currency": "EUR",
+        "quantity": 15,
+        "attributes": {
+          "Color": "Verde agua"
+        }
+      },
+      {
+        "sku": "SQ7875760",
+        "price": 10.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {
+          "Color": "Amarillo"
+        }
+      },
+      {
+        "sku": "SQ5720223",
+        "price": 10.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {
+          "Color": "Rojo"
+        }
+      },
+      {
+        "sku": "SQ3240685",
+        "price": 10.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {
+          "Color": "Azul"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 10,
+    "translations": "{\"en\": {\"title\": \"Large Deep Plate - Repainted - Granada Ceramic - 29cm\", \"description\": \"Repainted Design\\n\\nEach piece is a unique work, carefully crafted by Granada artisans. With a diameter of 29 cm, this plate combines beauty and functionality, ideal for serving pasta, salads, soups or creams.\\n\\nIts vibrant colors and designs inspired by the tradition of the Myrtles school evoke the essence of southern Spain. A dish with great presence on the table, which unites history, art and exclusivity in every stroke.\\n\\nModeling: the clay takes shape on the wheel or using hand-made molds.\\nDrying and first firing: once dry, the pieces are subjected to the first firing (biscuit).\\nDecoration and enamelling: we apply natural pigments and motifs inspired by our ancestral tradition.\\nFinal firing: the fire seals the colors and gives the perfect finish.\\n\\nMicrowave: yes\\n\\nOven: no\\n\\nDishwasher: yes\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ1279217",
+        "price": 36.0,
+        "currency": "EUR",
+        "quantity": 3,
+        "attributes": {
+          "Color": "Verde Agua"
+        }
+      },
+      {
+        "sku": "SQ2634827",
+        "price": 36.0,
+        "currency": "EUR",
+        "quantity": 3,
+        "attributes": {
+          "Color": "Mostaza"
+        }
+      },
+      {
+        "sku": "SQ8901357",
+        "price": 32.0,
+        "currency": "EUR",
+        "quantity": 3,
+        "attributes": {
+          "Color": "Rojo"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"en\": {\"title\": \"Concave Deep Plate - Repainted - Granada Ceramic - 20cm\", \"description\": \"Plates belonging to the repeating collection of ceramics from Los Arrayanes. Elegant and functional, this 20 cm diameter concave deep plate belongs to the artisan collection of the Fábrica de los Arrayanes. Each piece is modeled and painted by hand with 100% natural dyes, which guarantees its authenticity and makes each plate a unique creation.\\n\\nIts concave shape makes it perfect for soups, creams, pastas or stews, offering an impeccable presentation and enhancing the color and texture of each recipe.\\n\\nThe bright colors and motifs inspired by the Granada school of Los Arrayanes evoke the luminous essence of southern Spain. A piece with character, history and artisanal elegance, ideal for those who appreciate traditional ceramics with a contemporary touch.\\n\\nMicrowave safe: ✅\\nDishwasher safe: ✅\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ2800581",
+        "price": 15.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Amarillo"
+        }
+      },
+      {
+        "sku": "SQ4321494",
+        "price": 15.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {
+          "Color": "Verde agua"
+        }
+      },
+      {
+        "sku": "SQ3413158",
+        "price": 15.0,
+        "currency": "EUR",
+        "quantity": 2,
+        "attributes": {
+          "Color": "Rojo"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 8,
+    "translations": "{\"en\": {\"title\": \"Dessert plate - Repainted - Granada Ceramic - 15cm\", \"description\": \"Repainted Design\\n\\nThe repainted dessert plate with a diameter of 15 cm is a handmade piece that pays tribute to Granada ceramics, a tradition with roots in the Nasrid culture between the 12th and 15th centuries. Elegant shapes, vibrant enamels and ancestral techniques such as dry rope or repainting defined this unique style, born from the fusion between Andalusian art and Christian heritage.\\n\\nAt Cerámica Los Arrayanes, we keep this essence alive, making each dish by hand with natural clay, mineral pigments and a process that respects traditional methods. The Repintado design, with its curved lines and intense colors, evokes the light, architecture and refined art of southern Spain.\\n\\nPerfect for desserts, appetizers, coffee and bread, this plate combines beauty, history and functionality. Its glazed finish not only enhances the tones and shine characteristic of Granada ceramics, but also guarantees great durability.\\n\\nArtisanal process:\\n\\nModeling: the clay takes shape on the wheel or using handmade molds.\\n\\nDrying and first firing: the pieces are bisqued to acquire resistance.\\n\\nDecoration and glazing: natural pigments inspired by the traditional Myrtles motifs are applied.\\n\\nFinal firing: the fire sets the colors and provides a shiny and durable finish.\\n\\nMicrowave safe: Yes\\n\\nDishwasher safe: Yes\\n\\nA piece with history, soul and character, ideal for those looking to fill their table with Andalusian art and tradition.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ2000168",
+        "price": 6.0,
+        "currency": "EUR",
+        "quantity": 7,
+        "attributes": {
+          "Color": "Verde agua"
+        }
+      },
+      {
+        "sku": "SQ8846422",
+        "price": 6.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {
+          "Color": "Amarillo"
+        }
+      },
+      {
+        "sku": "SQ2564524",
+        "price": 6.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {
+          "Color": "Azul"
+        }
+      },
+      {
+        "sku": "SQ8747773",
+        "price": 6.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Rosa"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 7,
+    "translations": "{\"en\": {\"title\": \"Dessert plate - Filo and Pomegranate - Granada Ceramic - 15cm\", \"description\": \"Filo and Pomegranate Design\\n\\nThe Filo and Granada dessert plate with a diameter of 15 cm is a handmade piece that pays tribute to Granada ceramics, a tradition with roots in the Nasrid culture between the 12th and 15th centuries. Elegant shapes, vibrant enamels and ancestral techniques such as dry rope or repainting defined this unique style, born from the fusion between Andalusian art and Christian heritage.\\n\\nAt Cerámica Los Arrayanes, we keep this essence alive, making each dish by hand with natural clay, mineral pigments and a process that respects traditional methods. The Filo and Granada design, with its delicate strokes and intense colors, evokes the light, architecture and refined art of southern Spain.\\n\\nPerfect for desserts, appetizers, coffee and bread, this plate combines beauty, history and functionality. Its glazed finish not only enhances the tones and shine characteristic of Granada ceramics, but also guarantees great durability.\\n\\nArtisanal process:\\n\\nModeling: the clay takes shape on the wheel or using handmade molds.\\n\\nDrying and first firing: the pieces are bisqued to acquire resistance.\\n\\nDecoration and glazing: natural pigments inspired by the traditional Myrtles motifs are applied.\\n\\nFinal firing: the fire sets the colors and provides a shiny and durable finish.\\n\\nMicrowave safe: Yes\\n\\nDishwasher safe: Yes\\n\\nA piece with history, soul and character, ideal for those looking to fill their table with Andalusian art and tradition.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ3602228",
+        "price": 4.5,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Rojo"
+        }
+      },
+      {
+        "sku": "SQ3678437",
+        "price": 4.5,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Verde agua"
+        }
+      },
+      {
+        "sku": "SQ8243256",
+        "price": 4.5,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Amarillo"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"en\": {\"title\": \"Large salad bowl in three colors - Filo and Granada - Granada Ceramics - 31cm\", \"description\": \"Dimensions:\\n\\nDiameter: 31cm\\n\\nHeight: 8cm\\n\\nDishwasher and microwave safe.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 212,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ4506171",
+        "price": 34.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Azul"
+        }
+      },
+      {
+        "sku": "SQ7947096",
+        "price": 34.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Amarillo"
+        }
+      },
+      {
+        "sku": "SQ2630711",
+        "price": 34.0,
+        "currency": "EUR",
+        "quantity": 5,
+        "attributes": {
+          "Color": "Rojo"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 5,
+    "translations": "{\"en\": {\"title\": \"Complete Tableware - Green Repainted - Granada Ceramics\", \"description\": \"We have the perfect tableware for your home, the ceramic plates and dishes from the Arrayanes factory offer you color and craftsmanship in your home, dress your table like never before.\\n\\nWe offer you a set of tableware for 6 people with three pieces per person and a salad bowl-sized plate for the center. In total a 19-piece high-quality tableware set.\\n\\n*FREE SHIPPING for this product by applying the purchase code: FREE75\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 217,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ1215859",
+        "price": 325.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 8,
+    "translations": "{\"en\": {\"title\": \"Neri 18-piece tableware with subtle black relief\", \"description\": \"Discover this fantastic tableware made up of 18 pieces of plates of three different sizes.\\n\\nThe Neri plate is made of black stoneware and stands out for its minimalist design with a marked Nordic style. Its classic shape is enhanced with subtle details that add a decorative touch to the monochromatic design. Thanks to its size, it is perfect as a main or dinner dish, combining functionality and aesthetics in a single piece.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 217,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ3498264",
+        "price": 277.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 6,
+    "translations": "{\"en\": {\"title\": \"Black Plate - Neri with subtle relief - 29cm\", \"description\": \"The Neri plate is made of black stoneware and stands out for its minimalist design with a marked Nordic style. Its classic shape is enhanced with subtle details that add a decorative touch to the monochromatic design. Thanks to its size, it is perfect as a main or dinner dish, combining functionality and aesthetics in a single piece.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ5342927",
+        "price": 20.0,
+        "currency": "EUR",
+        "quantity": 6,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 8,
+    "translations": "{\"en\": {\"title\": \"Black Plate - Neri with subtle relief - 23cm\", \"description\": \"Neri Black Plate – Medium\\n\\nThe Neri Plate stands out for its minimalist design and Nordic style, combining elegance and functionality in a black stoneware piece with an impeccable finish. Its classic shape is enhanced with subtle decorative details that add a sophisticated touch to the monochromatic design.\\n\\nThanks to its practical size, it is perfect as a plate for lunch or light meals. In addition, it is dishwasher safe, making it easy to use daily without losing its charm.\\n\\nA modern, elegant and functional plate that brings Scandinavian style to your table.\\n\\nMaterial: Stoneware\\nColor: Black\\n\\nDiameter: 23cm\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ1842899",
+        "price": 17.0,
+        "currency": "EUR",
+        "quantity": 6,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 12,
+    "translations": "{\"en\": {\"title\": \"Black Plate - Neri with subtle relief - 18cm\", \"description\": \"Neri Black Plate – Small\\n\\nThe Neri Plate is characterized by its minimalist design inspired by the Nordic style, uniting elegance and utility in a black stoneware piece with a perfect finish. Its classic silhouette is enhanced with delicate decorative details that lend subtle sophistication to the monochrome design.\\n\\nWith an ideal size, it is perfect for lunches or light meals. In addition, its dishwasher resistance guarantees comfortable and practical use without sacrificing its beauty.\\n\\nA contemporary, elegant and functional plate that adds a touch of Scandinavian style to any table.\\n\\nMaterial: Stoneware\\nColor: Black\\n\\nDiameter: 18cm\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ6446867",
+        "price": 12.0,
+        "currency": "EUR",
+        "quantity": 6,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"en\": {\"title\": \"Dorothy Pink Plate\", \"description\": \"The Bloomingville Dorothy Plate is an authentic decorative jewel made of high-quality stoneware. Its embossed surface features a colorful floral motif in red, blue, pink and green tones, which gives it an appearance similar to handmade embroidery, creating an incredible texture to the touch and sight.\\n\\nThe soft pink edge adds a touch of elegance and delicacy, making it a perfect piece both to use on the table and to decorate any corner of the home.\\n\\nA unique and textured plate that combines art, color and elegance in every detail.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ5838259",
+        "price": 15.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 7,
+    "translations": "{\"en\": {\"title\": \"Red Plate - Latina Large - 27cm\", \"description\": \"Our most special dishes. From the 'Latina' collection, it is made of high-quality stoneware and is glazed in a deep red tone that does not go unnoticed. Its design with wavy edges adds texture and a touch of artisanal elegance, making it a piece that stands out on any table.\\n\\nThe versatile size of the plate makes it perfect to easily adapt to different presentation styles. In addition, its enamelled finish creates subtle variations in color, making each plate unique and with its own personality.\\n\\nThe color and feel of the Latina plate are so special that it is difficult to describe them in words. Its smooth surface and deep red tone catch the light in a spectacular way, bringing warmth, sophistication and character to any meal or gathering.\\n\\nIdeal for those who appreciate artisanal ceramics, the Latina plate combines beauty, functionality and Scandinavian design in a single piece that elevates your table experience day after day.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ7904952",
+        "price": 15.0,
+        "currency": "EUR",
+        "quantity": 12,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 7,
+    "translations": "{\"en\": {\"title\": \"Red Plate - Latina Small - 20cm\", \"description\": \"The Latina Plate is made of glazed stoneware with a deep red tone that brings warmth and style to any table. Its wavy edges give it texture and an elegant and distinctive touch.\\n\\nThanks to its large size, it is perfect as a main dish for everyday meals or special dinners. Handmade enamelling may present slight color variations, making each piece unique.\\n\\n✨ An elegant dish with personality, ideal to enhance any table.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0236545",
+        "price": 8.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 6,
+    "translations": "{\"en\": {\"title\": \"Red Bowl - Latina - 12cm\", \"description\": \"The Latina Bowl combines simplicity and elegance in a handmade design with a beautiful red enamel. Its practical size makes it ideal for breakfast, as well as for serving appetizers or sweet and savory snacks.\\n\\nThe enamelled finish may present slight color variations, which gives each piece a unique and special character.\\n\\nA versatile, colorful and charming bowl to enjoy every moment at the table.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 201,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ7649143",
+        "price": 4.5,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 5,
+    "translations": "{\"en\": {\"title\": \"Dinnerware in red 19 luxury pieces\", \"description\": \"Discover this fantastic tableware made up of 19 pieces of plates of three different sizes.\\n\\nLatina dinnerware is glazed in cherry red with an elegant shine. Made of stoneware ceramic and stands out for its minimalist design with a marked Nordic style. Thanks to its size, it is perfect as a main or dinner dish, combining functionality and aesthetics in a single piece.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 217,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ5772445",
+        "price": 265.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"en\": {\"title\": \"Red Jug - Latin - 1.2l\", \"description\": \"This special jug is made of high-quality stoneware and glazed in an intense and shiny red tone, which gives it an elegant and striking character. With a capacity of 1.2 liters, it is perfect both for serving drinks on a daily basis and for accompanying special moments around the table. Each jug is unique, as the glaze may vary slightly in color, making each piece an exclusive object. Its straight lines and harmonious design provide a classic and modern touch at the same time, while the rounded handle ensures a comfortable and secure grip. Without a doubt, it is a piece that shines on its own and becomes a decorative and functional element in any home.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 209,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ4129919",
+        "price": 29.9,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"en\": {\"title\": \"Elitta vase in brown ceramic\", \"description\": \"The Elitta vase or pot is one of the pieces with the greatest personality and appeal in our current catalogue. From the Creative Collection line, it is made of natural brown ceramic, with an attractive 3D relief finish that adds texture and character to any space.\\n\\nIdeal to place on a windowsill or on a table with a small plant or fresh flowers.\\n\\nMeasures:\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 214,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ2532921",
+        "price": 35.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"en\": {\"title\": \"Odina Green Vase with floral motifs\", \"description\": \"The Odina Vase stands out for its artisanal design and natural charm. Made from high-quality stoneware, it features a cream-toned base decorated with a delicate hand-painted floral motif, ensuring each piece is unique.\\n\\nIts style combines rustic and contemporary, making it a versatile decorative accessory: it looks spectacular both alone and accompanied by fresh or dried flowers.\\n\\n✨ Bring warmth, color and authenticity to your home with this handmade vase. Perfect for giving life to any corner with natural elegance.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ9592069",
+        "price": 24.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 7,
+    "translations": "{\"en\": {\"title\": \"Vase and candle holder - Miss Jody Sicilian head\", \"description\": \"The Miss Jody Vase is an authentic piece of functional art that combines the charm of Italian design with the artisanal essence of contemporary Nordic style. Made of high-quality stoneware and hand-painted, this sculptural vase represents an elegant and expressive female face, a symbol of beauty, creativity and character.\\n\\nIts versatile design allows it to be used both as a flower vase and as a decorative candlestick, adapting naturally to any environment. With a simple rotation, it changes function without losing its artistic presence, becoming the center of attention on a table, sideboard or shelf.\\n\\nThe soft tones and artisanal finish enhance its unique personality: each piece presents slight variations in color and texture, testimony to a handmade process that turns each vase into a unique work.\\n\\nThe Miss Jody Vase not only decorates, but transforms spaces, providing a note of Mediterranean sophistication and modern warmth. Ideal for those looking for pieces with history, soul and versatility.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ9037894",
+        "price": 50.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"en\": {\"title\": \"Odina vase in red with blue floral motifs\", \"description\": \"The Odina vase stands out for its intense red tone and its delicate hand-painted floral motif in blue, pink and white tones. Each piece is unique, since its artisanal finish gives it a special and unrepeatable charm.\\n\\nMade of stoneware, this vase combines durability and elegance, becoming the perfect complement to enhance any space, either as an independent decorative element or with a bouquet of fresh or dried flowers.\\n\\nMeasurements: Ø11 x H15 x W16 cm\\nMaterial: Stoneware\\nColor: Red with hand-painted floral details\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0175593",
+        "price": 17.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"en\": {\"title\": \"Nini Red Mug – MINI\", \"description\": \"The Nini mug is a small handmade jewel that combines Nordic design, charm and functionality. Made of high-quality stoneware, it stands out for its delicate shape and its cheerful striped decoration in pink and red tones, which add a touch of color and vitality to any kitchen table or shelf.\\n\\nEach mug is hand painted, meaning no two are the same. The slight variations in color and intensity are part of its beauty, reflecting the authenticity and care that characterize Bloomingville pieces. Its smooth finish and compact size make it ideal for enjoying a short coffee, an espresso or a relaxing infusion.\\n\\nIn addition to being practical, the Nini mug is a decorative element in itself. Place it next to other ceramic pieces on a shelf or display case to add a touch of artisanal and Nordic style to the environment. Its cheerful design and subtle coloring make it a perfect gift for those who enjoy small everyday details.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 201,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ2070384",
+        "price": 9.2,
+        "currency": "EUR",
+        "quantity": 5,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 12,
+    "translations": "{\"en\": {\"title\": \"Agnes Mug for Kids – MINI\", \"description\": \"Agnes breakfast cup, a charming handmade cup designed especially for the little ones. Made of high-quality stoneware with a shiny white varnish, it stands out for its adorable design with a small orange inside the cup, a surprise that will make every child smile when they finish their drink.\\n\\nEach piece is unique, since its finishing is done by hand and may present subtle variations in color and texture, making it a small treasure on the children's table. Ideal to accompany breakfasts, snacks or moments of play with style and tenderness.\\n\\n✨ A unique, fun and perfect cup for little hands.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 202,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ9045415",
+        "price": 15.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"en\": {\"title\": \"Abner Blue Stoneware Pot\", \"description\": \"The Abner pot from the Creative Collection with a detailed design and spectacular reactive glaze that creates unique effects in each piece. Natural blue tones and subtle variations in finish make each pot different, adding character and style to any corner of your home.\\n\\nPerfect for those who love decoration with color, texture and an artistic touch. Abner will fill your space with charm and personality.\\n\\nProduct details:\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 214,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ2826945",
+        "price": 33.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"en\": {\"title\": \"Large Romy Blue Stoneware Planter\", \"description\": \"Give life to your plants with the Romy pot! Made of stoneware and hand painted with cheerful wavy brushstrokes in shades of blue, this piece brims with color and personality. Its artisanal finish makes each pot unique, with small variations that make it a true decorative jewel.\\n\\nIdeal for those who enjoy surrounding themselves with color, creativity and natural charm, the Romy planter is perfect for giving a vibrant touch to your home. 🌈🌿\\n\\nProduct details:\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 214,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ6727797",
+        "price": 39.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"en\": {\"title\": \"Parvin Decorative Planter in black\", \"description\": \"The Parvin planter is a black terracotta piece with a sophisticated texture and a design that reflects the essence of contemporary Nordic style. Its handcrafted finish and deep tone provide an exclusive and serene air to any space, making it an ideal complement to highlight natural or decorative plants.\\n\\nWith simple and elegant lines, the Parvin Flowerpot looks especially good on a windowsill, a side table or a shelf, where its black color and rough texture create a perfect contrast with the green of the plants.\\n\\nBeing made and glazed by hand, each planter presents slight variations in tone and finish, making it a unique piece full of character. Due to its handcrafted nature, it may not be completely waterproof, so it is recommended to place a base or plate if using with natural plants.\\n\\nThe Parvin Deco Flowerpot combines elegance, simplicity and authenticity, ideal for those looking to decorate their home with pieces that convey calm and natural style.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 214,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ3883568",
+        "price": 16.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"en\": {\"title\": \"Brown and white Eja candlestick\", \"description\": \"Bloomingville's Eja candle holder combines the shape of a bowl with an integrated candle holder, creating an elegant and functional decorative piece. Its striped enamel finish in black and white tones provides a modern and sophisticated touch to the space. A decorative element with a lot of personality, this individual chandelier gives a Scandinavian and fun air to your home.\\n\\nDetails:\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ6392347",
+        "price": 12.0,
+        "currency": "EUR",
+        "quantity": 3,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"en\": {\"title\": \"Tacana Gray Stoneware Candlestick\", \"description\": \"Illuminate your home with the Tacana, a hand-painted stoneware chandelier in warm tones that provide a cozy touch and full of personality. Each piece is unique, with slight color variations that make it special. Ideal to place on the window, table or shelf, and add a touch of color and warmth to any corner. 🕯️✨\\n\\nProduct details:\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ3488097",
+        "price": 15.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"en\": {\"title\": \"Set of 2 Tigres Rory candlesticks\", \"description\": \"The Rory candlestick set combines originality and artisanal charm in a piece that captivates at first sight. Made of high-quality ceramic, these two tiger-shaped candlesticks add a fun and elegant touch to any room.\\n\\nEach piece has been hand painted, making each set unique, with slight color variations that enhance its handmade character. Ideal for placing on a window, side table or mantel, Rory chandeliers illuminate the space with natural warmth and unmistakable Scandinavian style.\\n\\nFeatures of the Rory Candle Holder Set:\\n\\nBrand: Bloomingville\\n\\nModel: Rory Candle Holder, White\\n\\nFormat: Set of 2 units\\n\\nStyle: Scandinavian / Decorative / Handmade\\n\\nGive personality and an artistic touch to your home with the Rory candlestick set, a perfect combination of Nordic design, artisanal detail and animal charm.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ8319245",
+        "price": 55.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 7,
+    "translations": "{\"en\": {\"title\": \"White Syra candelabra in polyresin\", \"description\": \"The Syra chandelier is a piece of sculptural and contemporary design, perfect for those who want to add an artistic and elegant touch to their home. Made of high-quality polyresin, it stands out for its textured surface and its double design for candles, which provides visual balance and sophisticated style to any room.\\n\\nThese decorative and modern chandeliers perfectly combine Nordic aesthetics with durable materials and a handcrafted finish. It is ideal for decorating living rooms, dining rooms, hallways or shelves, creating a warm atmosphere with personality.\\n\\nFeatures of the Syra Candle Holder:\\n\\nAdd the Syra candle holder to your decoration collection and transform any corner into a space full of art and sophistication.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ9684869",
+        "price": 22.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {
+          "Diseño": "1 vela"
+        }
+      },
+      {
+        "sku": "SQ0013335",
+        "price": 25.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {
+          "Diseño": "2 velas"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 8,
+    "translations": "{\"en\": {\"title\": \"Aromatic Candle with natural wax No.4 Lemon Verbena – ILLUME\", \"description\": \"Give a touch of freshness and energy to your home with the No.4 Lemon Verbena Scented Candle from ILLUME. Made with natural wax, this candle combines the vibrant notes of lemon, verbena and fresh herbs, creating a relaxing and cozy atmosphere in any room: bathroom, living room or bedroom.\\n\\nIts elegant beige matte glass container provides a decorative and sophisticated touch, while its presentation in a gift box makes it the perfect detail for any occasion.\\n\\nCharacteristics:\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ5346905",
+        "price": 15.0,
+        "currency": "EUR",
+        "quantity": 4,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"en\": {\"title\": \"Cobalt blue stoneware candlestick\", \"description\": \"High Quality Scandinavian Design, the Thorne chandelier stands out for its elegant and contemporary Scandinavian design, made of high quality stoneware with a deep blue and matte glaze.\\n\\nIts curved and stylized shape provides an artistic and modern touch that enhances any space. Perfect for decorating a shelf, tray or windowsill, this candle holder combines functionality and aesthetics, offering a sophisticated decorative detail that illuminates any environment with style.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ4555237",
+        "price": 22.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 6,
+    "translations": "{\"en\": {\"title\": \"Leyva Oval Salad Bowl - Filo and Pomegranate - Granada Ceramic - 32cm\", \"description\": \"Ovallada Leyva Salad Bowl, a ceramic piece that combines art, design and functionality in a single object. With its dimensions of 32 x 8.5 centimeters, this creation stands out for its balanced presence and its organic shape, inspired by the softness and harmony of natural seeds. Each curve and proportion has been carefully thought out to offer a modern aesthetic, without losing the artisanal essence that makes it unique.\\n\\nMeasurements:\\n\\nMicrowave and Dishwasher Safe\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ2962194",
+        "price": 45.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Amarillo"
+        }
+      },
+      {
+        "sku": "SQ5267902",
+        "price": 45.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Negro"
+        }
+      },
+      {
+        "sku": "SQ4872197",
+        "price": 45.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Rojo"
+        }
+      },
+      {
+        "sku": "SQ0274298",
+        "price": 45.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Azul"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 11,
+    "translations": "{\"en\": {\"title\": \"Rectangular tray - Filo and Pomegranate - Pomegranate Ceramic - 34cm\", \"description\": \"Unique piece of artisanal ceramics, made and hand-painted at the Fábrica de los Arrayanes. This elegant white rectangular rabanera stands out for its central decoration: a pomegranate, a symbol of the city that inspires the entire collection.\\n\\nThis rabanera is perfect for serving bread, crudités, or main appetizers with an elegant presentation.\\n\\nIts design combines simplicity and refinement, ideal for presenting starters, fruits or accompaniments with a touch of class. Each stroke reflects the mastery of the Granada school and the luminous character of southern Spain.\\n\\nA piece that unites tradition, art and exclusivity, designed for those who appreciate the beauty of what is handmade.\\n\\nMicrowave safe: ✅\\nDishwasher safe: ✅\\n\\nSize:\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ8939578",
+        "price": 23.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Azul"
+        }
+      },
+      {
+        "sku": "SQ5677865",
+        "price": 23.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Amarillo"
+        }
+      },
+      {
+        "sku": "SQ5373458",
+        "price": 23.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Rojo"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"en\": {\"title\": \"Pumpkin Vase - 5l\", \"description\": \"Pumpkin Vase XL does not need much introduction. This elegant Vase or “Barrila” one of the most characteristic pieces of the “water pottery” of Moveros in the province of Zamora.\\n\\nThe barrel was used in the countryside during the summer, especially in mowing, hauling and threshing, as it had the ability to keep water relatively cool even in times of intense heat.\\n\\nMoveros was a prominent town in its time, known mainly for its activity in traditional pottery, a trade carried out exclusively by local women.\\n\\nThe Pumpkin Vase is made by hand and baked in a wood oven. There are no two alike!\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 223,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "852",
+        "price": 55.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 9,
+    "translations": "{\"en\": {\"title\": \"Ceramic Jug and 6 Glasses Set\", \"description\": \"Set consisting of a jug with retro and rounded shapes and 6 matching glasses. Ideal for serving water, sangria, gazpacho or lemonade with a unique and Mediterranean style.\\n\\nProduct details:\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 205,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ7741629",
+        "price": 40.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 5,
+    "translations": "{\"en\": {\"title\": \"Sangria jug - 2.5l\", \"description\": \"This traditional sangria jug, made of fine porcelain and hand-painted, represents a living symbol of Spain's quintessential drink. Its handcrafted design not only honors the rich cultural tradition, but also brings a touch of elegance and authenticity to any occasion.\\n\\nIn addition, it is a unique decorative object that enhances the aesthetics of any space, whether on the dining table, at an outdoor gathering, or as a standout piece in a display case.\\n\\nTo complement this piece, we offer matching small jugs that can be used as individual glasses. These miniatures not only hold the whole together, but also add an extra touch of charm to the experience of serving and enjoying sangria.\\n\\nMeasurements: 25 (width) x 53 (height) cm\\n\\nWeight: 1.5kg\\n\\nCapacity: 2.5L\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 209,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "CUE021",
+        "price": 54.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"en\": {\"title\": \"Sangria Glasses - 0.33l\", \"description\": \"Traditional sangria glasses, made of porcelain and hand painted in the Manises style.\\n\\nMeasurements: 11 (width) x 16 (height) cm\\n\\nCapacity: 0.33L\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 205,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "CUE027",
+        "price": 10.0,
+        "currency": "EUR",
+        "quantity": 6,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"en\": {\"title\": \"Porcelain pharmacy jar\", \"description\": \"Inspired by traditional albarelos used in old pharmacies to store medicines, this porcelain jar combines the elegance of classic design with modern functionality.\\n\\nIdeal for both decorating and storing in the kitchen, this jar is not only a decorative piece that brings a distinctive and sophisticated touch to any space, but it is also practical for storing spices, herbs, or any other everyday ingredients. Its careful and detailed design ensures that it integrates perfectly into both rustic and contemporary environments, becoming a versatile and functional element.\\n\\nAdditionally, the high-quality porcelain finish ensures durability and ease of cleaning, making this jar an excellent choice for those looking to combine aesthetics and practicality in their home. Bring an air of historic elegance and modern functionality to your kitchen with this charming porcelain jar.\\n\\nTechnique: High temperature vitrified ceramic.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 207,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "CUE012",
+        "price": 60.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"en\": {\"title\": \"Porcelain jug - 1l\", \"description\": \"Conxuro da queimada: Mouchos, curuxas, toads and witches. Demos, goblins and diaños, spirits, das nebeodas veigas. Corvos, pintegas and meigas…\\n\\nFor lovers of traditions, witchcraft and good design. This porcelain jug was made in order to serve the traditional pomace on the night of San Juan in Galicia. Currently it is a wonder for any living room or kitchen.\\n\\nTechnique: High temperature vitrified ceramic.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 225,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "CUE016",
+        "price": 45.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"en\": {\"title\": \"Set of 6 porcelain glasses\", \"description\": \"Set of 6 original glasses adapted for infusion, coffee, drinkable creams or liquor.\\n\\nFor lovers of traditions, witchcraft and good design. These glasses were made to drink the traditional Galician pomace.  Currently they are wonderful for any living room or kitchen.\\n\\nTechnique: High temperature vitrified ceramic.\\n\\nIt is made by the ceramist, sculptor and artist Martínez Coello whose work is represented in museums and private collections around the world and Antonia Blanes\\n\\nMeasurements: 8 (width) x 8 (length) x 12 (height) cm\\n\\nWeight: 0.15 Kg\\n\\nCapacity: 0.20 l\\n\\nReceive it in 72 hours!\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 205,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "CUE026",
+        "price": 36.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"en\": {\"title\": \"Traiguera Pitcher\", \"description\": \"The Traiguera pitcher is an emblematic piece of traditional pottery from this town located in the extreme north of the Valencian Community, near the border with Tarragona. Traiguera is known for its rich pottery tradition, and its jugs retain deep historical and cultural value.\\n\\nThe Traiguera jugs, also known as \\\"cantes\\\", are characterized by their robust and distinctive shape. These vessels have a bulging, ribbed body, with a narrow base that widens toward the center, forming a prominent belly. The neck of the jug is elongated, and two handles emerge from it that extend downward, resting on the bulging body of the piece.\\n\\nThe decoration of these jugs is done with manganese oxide, applying strokes and stripes distributed over the entire surface. This decoration is carried out using a comb with four, five or six prongs, which gives it a unique and handmade appearance. The clay used to make it is red, finely sifted, and after cooking, it acquires a characteristic straw hue.\\n\\nThese jugs represent not only the technical skill of the Traiguera potters, but also the preservation of a centuries-old tradition that is still alive in the region.\\n\\nMeasurements: 22 (height) cm\\n\\nReceive it in 72 hours!\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 210,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ5938972",
+        "price": 35.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"en\": {\"title\": \"porcelain salt shaker\", \"description\": \"This porcelain salt shaker has been meticulously designed to complement traditional kitchens. Each piece is unique, since they are made by hand with artisanal techniques, which guarantees that no two salt shakers are identical.\\n\\nThe attention to detail in its creation is reflected in its elegant and functional design, ideal for those who value authenticity and quality in their kitchen utensils. Furthermore, its delicate and refined finish brings a touch of sophistication and charm to any kitchen, becoming not only a practical utensil, but also a decorative piece that highlights the character and personality of the culinary space.\\n\\nTechnique: High temperature vitrified ceramic.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 207,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ9080616",
+        "price": 15.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Verde oliva"
+        }
+      },
+      {
+        "sku": "SQ6498450",
+        "price": 15.0,
+        "currency": "EUR",
+        "quantity": 3,
+        "attributes": {
+          "Color": "Azul"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"en\": {\"title\": \"porcelain sugar bowl\", \"description\": \"This exquisite hand-painted porcelain sugar bowl has been carefully designed to be used in traditional kitchens, bringing a touch of elegance and authenticity to your culinary space. Each piece is unique, made by hand using artisanal techniques, which guarantees that no two sugar bowls are the same.\\n\\nIts soft lines and impeccable finish make it perfect to complement any style of kitchen, from the most classic to the most contemporary. The high-quality porcelain used in its manufacture ensures exceptional durability, as well as easy cleaning, keeping its beauty intact over time.\\n\\nThis sugar bowl is not only ideal for storing sugar, but can also be used to store other ingredients, such as spices, herbs or small sweets, adding versatility to its use. Its presence on the table or kitchen counter will not go unnoticed, becoming a central element that combines practicality with a charming aesthetic.\\n\\nAdd a touch of tradition and sophistication to your kitchen with this handcrafted porcelain sugar bowl, a unique piece that celebrates craftsmanship and beauty in every detail.\\n\\nTechnique: High temperature vitrified ceramic.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 207,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ3683401",
+        "price": 12.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Azul"
+        }
+      },
+      {
+        "sku": "SQ9889300",
+        "price": 12.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {
+          "Color": "Verde"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"en\": {\"title\": \"Porcelain coffee plate - 16 cm\", \"description\": \"Artisan coffee plate created by the Artesanía & Signos workshop. Made of high temperature vitrified ceramic.\\n\\nThis plate is the work of the ceramist, sculptor and artist Martínez Coello, whose creations are found in museums and private collections worldwide, in collaboration with Antonia Blanes.\\n\\nMeasurements: 16 (width) x 16 (length) x 1 (height) cm\\n\\nWeight: 0.16 Kg\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 225,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ8051310",
+        "price": 11.0,
+        "currency": "EUR",
+        "quantity": 8,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"en\": {\"title\": \"Porcelain coffee plate - 18 cm\", \"description\": \"Asymmetrical coffee plate handmade by Trabajodoiro Artesania & Signos. High temperature vitrified ceramic\\n\\nIt is made by the ceramist, sculptor and artist Martínez Coello whose work is represented in museums and private collections around the world and Antonia Blanes\\n\\nMeasurements: 18 (width) x 18 (length) x 2 (height) cm\\n\\nWeight: 0.24 Kg\\n\\nReceive it in 72 hours!\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 201,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ3353033",
+        "price": 6.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {
+          "Color": "Verde"
+        }
+      },
+      {
+        "sku": "SQ7091589",
+        "price": 6.0,
+        "currency": "EUR",
+        "quantity": 2,
+        "attributes": {
+          "Color": "Azul"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"en\": {\"title\": \"Porcelain appetizer plate\", \"description\": \"Porcelain appetizer plate - 22cm\\n\\nAppetizer plate made by the Artesanía & Signos workshop. Made of high temperature vitrified ceramic.\\n\\nThis plate is the work of the ceramist, sculptor and artist Martínez Coello, whose creations are found in museums and private collections worldwide, in collaboration with Antonia Blanes.\\n\\nMeasurements: 17 (width) x 22 (length) x 2 (height) cm\\n\\nWeight: 0.49 kg\\n\\nReceive it in 72 hours!\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 225,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0898051",
+        "price": 12.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 5,
+    "translations": "{\"en\": {\"title\": \"ceramic mortar\", \"description\": \"Ceramic mortar in two colors with wooden mallet, perfect for crushing and combining seeds and herbs. Ideal for preparing vinaigrettes and other delicious sauces.\\n\\nHandcrafted by L'alfarería in Castellón, Spain.\\n\\nMeasurements: 16 (width) x 16 (length) x 10 (height) cm\\n\\nWeight: 1kg\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 207,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ1619502",
+        "price": 18.95,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Verde agua"
+        }
+      },
+      {
+        "sku": "SQ2527434",
+        "price": 18.95,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Amarillo"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"en\": {\"title\": \"Tricolor ceramic napkin holder\", \"description\": \"Napkin holder made of ceramic in the shape of a fan, ideal to complement the decoration of any dining room or kitchen.\\n\\nHandcrafted by L'alfarería in Castellón, Spain.\\n\\nMeasurements: 15 (length) x 8 (height) cm\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 212,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0833348",
+        "price": 14.5,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"en\": {\"title\": \"ceramic salt shaker\", \"description\": \"Handmade eaves made of ceramic with decoration in three hand-painted tones.\\n\\nHandcrafted by L'alfarería in Castellón, Spain.\\n\\nMeasurements: 5 (width) x 5 (length) x 8 (height) cm\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 207,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ6901275",
+        "price": 8.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"en\": {\"title\": \"Talavera ceramic water birds\", \"description\": \"Ceramic water birds that perfectly imitate the song of a bird. Available in various colors\\n\\nHandcrafted by the potter Moreno Benito, in Talavera de la Reina, Spain.\\n\\nMeasurements: 5.5 (width) x 6 (height) cm\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 224,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ2435770",
+        "price": 4.5,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {
+          "Color": "Rojo"
+        }
+      },
+      {
+        "sku": "SQ7346449",
+        "price": 4.5,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "rosa"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 5,
+    "translations": "{\"en\": {\"title\": \"Set of 2 ceramic glasses - 0.20l\", \"description\": \"Original handmade ceramic cups. You can choose between two colors: green and ocher.\\n\\nMade in Ourente in the Artesanía pottery workshop of the artist Martin Coello, they were made at the beginning of the 20th century.\\n\\nMeasurements: 6 (width) x 6 (length) x 8 (height) cm\\n\\nWeight: 87g\\n\\nCapacity: 0.20l\\n\\nReceive it in 72 hours!\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 205,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ8329550",
+        "price": 8.0,
+        "currency": "EUR",
+        "quantity": 2,
+        "attributes": {
+          "Color": "Verde agua"
+        }
+      },
+      {
+        "sku": "SQ0283374",
+        "price": 8.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {
+          "Color": "Amarillo"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 5,
+    "translations": "{\"en\": {\"title\": \"Ceramic cup set\", \"description\": \"The glasses are handcrafted and decorated by hand in the craft studio of MARTINEZ COELLO, an artist whose pictorial work is represented in the most important museums and private collections in Spain, USA, Mexico, Italy, Brazil, Venezuela, France, Portugal...\\n\\nCoello uses PORCELAIN for his designs, a noble ceramic material, fired at high temperature (1,300%). Each piece is unique and has been made entirely by hand, which gives it the character of a work of art.\\n\\nThese original green and yellow glasses are essential to complete the set of pieces from the Silvestre collection. They are used to accompany coffee with water or take a small sip of liquor.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 205,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ5272754",
+        "price": 3.0,
+        "currency": "EUR",
+        "quantity": 3,
+        "attributes": {
+          "Color": "Verde agua"
+        }
+      },
+      {
+        "sku": "SQ9379438",
+        "price": 3.0,
+        "currency": "EUR",
+        "quantity": 3,
+        "attributes": {
+          "Color": "Amarillo"
+        }
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"en\": {\"title\": \"Porcelain set for coffee and tea. Pack of two cups with saucer.\", \"description\": \"Double glazed porcelain set; Earthy color and moldy green color is the best option for those who like to drink a medium coffee or tea.\\n\\nIts texture transports you to rocky natural environments and since it is handmade we do not have two exact pieces but together they create a spectacular coffee or tea set.\\n\\nDishwasher and microwave safe.\\n\\nIt is made by the ceramist, sculptor and artist Martínez Coello whose work is represented in museums and private collections around the world and Antonia Blanes, a specialist ceramic artist and researcher of the technical processes of creative ceramics.\\n\\nMeasurements:\\n\\nCup 6.6 (width) x 6.6 (length) x 4 (height) cm / Plate 12.5 (width) x 12.5 (length) x 1.4 (height) cm\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 201,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "CUE02",
+        "price": 14.0,
+        "currency": "EUR",
+        "quantity": 6,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"en\": {\"title\": \"Old Botijo ​​of Puerto del Arzobispo\", \"description\": \"Botijo ​​from Puente del Arzobispo in Toledo, this botijo ​​reflects the rich artisanal tradition and beauty of Spanish ceramics. Their drawings suggest that they are part of the Levantine-influenced bow tie series (Manises). In the center, a stylized bird is surrounded by feathered branches, while classic polychrome in green, yellow and blue, along with manganese details\\n\\nThe jug has slight damage as can be seen in the photographs.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 211,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ2255868",
+        "price": 32.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 3,
+    "translations": "{\"en\": {\"title\": \"Original ceramic decorative plate with sewn detail\", \"description\": \"Decorative ceramic plate with a hand-sewn piece on one of its sides. Made in Zamora by the master potter PHera.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 224,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ7000734",
+        "price": 22.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 4,
+    "translations": "{\"en\": {\"title\": \"Illustrated decorative plate\", \"description\": \"Hand painted ceramic plate. Made in Zamora by the master potter PHera.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 224,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ6881854",
+        "price": 19.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"en\": {\"title\": \"Coffee Plate - 16cm set of two plates\", \"description\": \"Coffee plate from the wild collection.\\n\\nIt is made by the ceramist, sculptor and artist Martínez Coello whose work is represented in museums and private collections around the world and Antonia Blanes\\n\\nMeasurements: 16 (width) x 16 (length) x 1 (height) cm\\n\\nWeight: 0.15 Kg\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 201,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0345638",
+        "price": 11.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"en\": {\"title\": \"Pereruela round cap\", \"description\": \"Pereruela Clay Cover.\\n\\nHandcrafted in Zámora, Spain.\\n\\nMeasurements: 27 (width) x 27 (length) x 2 (height) cm\\n\\nWeight: 1kg\\n\\nReceive it in 72 hours!\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 203,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ0258010",
+        "price": 14.0,
+        "currency": "EUR",
+        "quantity": 0,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"en\": {\"title\": \"Green glazed ceramic jug\", \"description\": \"Porcelain jug in a beautiful green color, carefully crafted and decorated with large-volume relief motifs. This piece is an excellent option both for serving fresh water or lemonades or as an attractive decorative object in any space in your home.\\n\\nIt has some slight damage as can be seen in the photographs.\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 209,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ9442002",
+        "price": 33.0,
+        "currency": "EUR",
+        "quantity": 1,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  },
+  {
+    "expected_images": 2,
+    "translations": "{\"en\": {\"title\": \"Dessert Plate - Sea Blue Striped Design\", \"description\": \"Add a touch of freshness and artisanal character to your table with this 18.50 cm dessert plate, an exclusive creation from the Ollarus workshop. This piece is not just a holder for your favorite sweets, but a style statement that celebrates the beauty of handmade.\\n\\nDress your table with the authenticity of signature ceramics and turn each bite into a visual experience as delicious as the menu itself.\\n\\nTechnical sheet\\n\\nFeatured Features\\n\\nRecommendations for use\"}}",
+    "is_visible": true,
+    "inspiration_country": [
+      "FR"
+    ],
+    "category": 218,
+    "shop": 101,
+    "shipping_profiles": [
+      501
+    ],
+    "product_attributes": [],
+    "inventory": [
+      {
+        "sku": "SQ7409717",
+        "price": 10.0,
+        "currency": "EUR",
+        "quantity": 8,
+        "attributes": {}
+      }
+    ],
+    "customizable": false
+  }
+]
